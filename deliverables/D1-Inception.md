@@ -14,19 +14,92 @@ Grading: 5  points. Your  paragraph  should  be  well written in formal language
 
 Report the initial guesses for the (i) value proposition and (ii) customersegment.The value proposition should make clear what your product is, the target customer, the value you provide, andwhy your product is unique.See exampleson the lecture slides.
 
+----------
+
+(i) Possible value propositions:
+* "No more waiting months for that hot item that's always out of stock."
+* "Stop checking amazon everyday. Track it once and we'll let you know when it's back in stock."
+* ...
+
+(ii) Customer segment. Our probabale customers:
+* shop online often
+* have an interest in items that are rare/go out of stock frequently
+* are busy and do not like to waste time manually checking stock every day/hour
+
+---------
+
 Grading: 5  points.The  value  proposition shouldmake  clear  the valuefrom  the  point  of view of the customer. It should notbe asloganor the description of a functionality. The value propositionand consumer segment should be coherent with the text in the previous section---in  particular, the  value  should address  the  problem  reported  above(problem-solution fit). The customersegmentshould not be too broad nor too specific.
 
 ## 3. Interviews Summary
 
 ### Rubric (Remove when section is complete)
 
-Present  the  results  of  each  interview  (the minimum number  of interviews is 1.5* number of participants in the group). For each interview, report:
+Present  the  results  of  each  interview  (the minimum number  of interviews is 1.5x number of participants in the group). For each interview, report:
 - Who was interviewed and who participated in the interview
 - When
 - Customer segment
 - Key insights from the interview
 - Representative quotes
 - Assessment: Must have / Nice to have / Don’t care(how the interviewee sees the solution)
+
+---------
+
+Interviewee 1
+* Who: Colin's coworker
+* When: Friday, July 9
+* Customer segment: Somewhat fitting; this person shops online but does purchase things that are frequently out of stock.
+* Key insights from interview: Unfortunately this person has never or at least could not remember the last time they wanted an out of stock item online so badly that they would have used something similiar to this product. (They do remember not being able to find toilet paper during the first months of covid though. :-) )
+* Representative quotes: (along the lines of) "I could see this being useful, but I couldn't tell you the next time I would need it."
+* Assessment: Don't care
+
+Interviewee 2
+* Who: Colin's friend
+* When: Sunday, July 11
+* Customer segment: Very fitting; this person often shops online for items that come in and out of stock.
+* Key insights from interview: One important idea that came up during this interview was the idea of missing the purchasing window. A lot of items that are in high demand will sell out quickly once they come back into stock. Even if a person checks for something every evening, that something may have come into stock and sold out again already, with the person none the wiser. This product solves that. 
+* Assesment: Between must have and nice to have
+
+Interview 3:
+* Interviewer: Jenna Pedro
+* Interviewee: Kolin Galdiano
+* When : July 11, 2021
+* Consumer Segment:  
+    * College student
+    * PCs and tech gadgets person
+* Key Insights:
+    * Ease of access
+    * Cleaning landing page
+    * A nice layout where everything is easy to find
+    * Search Bar
+* Representative Quotes:
+    * "It's always useful to have restock notifications becuase it helps me to acquire the item that I want."
+    * "I want it to be simple and not get spammed with emails."
+* Assessment:
+    * Must have: account settings, search bar, fast loading time
+    * Nice to have: exclusive deals
+    * Don't care: a lot of ads
+
+Interview 4:
+* Interviewer: Jenna Pedro
+* Interviewee: Charyl Pedro
+* When: July 11, 2021
+* Consumer Segment:  
+    * Mom
+    * Not really a tech person
+    * Likes to shop for clothes, household stuff, decorations, & cleaners
+* Key Insights:
+    * User friendly
+    * Easy to find
+* Representative Quotes:
+    * "If there isn't something in stock, then usually I find something else to replace it."
+    * "Would this cost me anything?"
+    * "Restock alers are useful because once I get the notification I went on and bought it."
+* Assessment:
+    * Must have: easy for users, search bar, review of products, pick something and they give alternate options
+    * Nice to have:  pretty website
+    * Don't care: ads(if it has nnothing to do with the website)
+
+---------
 
 Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
 
@@ -35,5 +108,18 @@ Grading: 15 points. You should have at least the required number of interviews.F
 ### Rubric (Remove when section is complete)
 
 Report  the  refined  versions  of these elements(the ones that you reached after the interviews).
+
+---------
+
+(i) Possible value propositions:
+* "Anxious that you'll miss the purchase window? We'll let you know the second it's available."
+* ...
+* (plus the original ones)
+
+(ii) Customer segment. Our probabale customers:
+* ...
+* (plus the original ones)
+
+---------
 
 Grading: 5 points. There must be a connection between the key insights of the interviews and the refinement of the value proposition and customer segments previously presented. See also criteria for Section 2 of this document.
