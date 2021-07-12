@@ -66,17 +66,14 @@ Interview 3:
 * Consumer Segment:  
     * College student
     * PCs and tech gadgets person
-
 * Key Insights:
     * Ease of access
     * Cleaning landing page
     * A nice layout where everything is easy to find
     * Search Bar
-
 * Representative Quotes:
     * "It's always useful to have restock notifications becuase it helps me to acquire the item that I want."
     * "I want it to be simple and not get spammed with emails."
-
 * Assessment:
     * Must have: account settings, search bar, fast loading time
     * Nice to have: exclusive deals
@@ -90,16 +87,13 @@ Interview 4:
     * Mom
     * Not really a tech person
     * Likes to shop for clothes, household stuff, decorations, & cleaners
-
 * Key Insights:
     * User friendly
     * Easy to find
-
 * Representative Quotes:
     * "If there isn't something in stock, then usually I find something else to replace it."
     * "Would this cost me anything?"
     * "Restock alers are useful because once I get the notification I went on and bought it."
-
 * Assessment:
     * Must have: easy for users, search bar, review of products, pick something and they give alternate options
     * Nice to have:  pretty website
