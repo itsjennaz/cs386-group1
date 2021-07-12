@@ -19,7 +19,6 @@ Report the initial guesses for the (i) value proposition and (ii) customersegmen
 (i) Possible value propositions:
 * "No more waiting months for that hot item that's always out of stock."
 * "Stop checking amazon everyday. Track it once and we'll let you know when it's back in stock."
-* "Anxious that you'll miss the purchase window? We'll let you know the second it's available."
 * ...
 
 (ii) Customer segment. Our probabale customers:
