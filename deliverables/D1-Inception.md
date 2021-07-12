@@ -139,6 +139,48 @@ Interview 6:
     *Must Have: Foreign market/limited addition items.
     *Don't Care: No need for a large inventory as user is looking for specific items not browsing.
     *Nice to Have: User friendly service and appealing to the eye.
+
+Interview 7:
+* Interviewer: Georgia Buchanan
+* Interviewee: David Buchanan
+* Date: July 11, 2021
+* Consumer Segment:  
+    * Works for Microsoft 
+    * Graduated with a Masters in Software Engineering
+* Key Insights:
+    * Not on the look out for tech products as his company supplies them.
+    * Being able to find products whether tech or househould items is important.
+    * Concerns about how many companies have a site that has implemented a similar app.
+    * Suggestions about including multiple resources to purchase a product.
+* Representative Quotes:
+    * "I usually look for more household items to buy, I would use this if it allowed me to 
+search and select what items I want to know are in stock".
+    * "I get a lot of emails so having an option for a text message alert would increase my interest".
+* Assessment:
+    * Must Have: multiple genres of merchandise, such as technology or toys.
+    * Nice to Have: if there is a product of interest on the app.
+
+Interview 8:
+* Interviewer: Georgia Buchanan
+* Interviewee: Ryan Sanderson
+* Date: July 10, 2021
+* Consumer Segment:  
+    * College student
+    * Interested in popular merchandise
+    * Side job is buying and reselling merchandise
+* Key Insights:
+    * Knowing when certain products are in stock is a must for investing.
+    * A priority section for being able to select what items he wants most.
+    * Already interested in the restock basketball cards and the PlayStation 5 console.
+    * Questions about what more the app could offer.
+* Representative Quotes:
+    * "I am always looking to invest into basketball cards, having the option to know when 
+they are stocked online or in store would be amazing".
+    * "I would use this app even without the ability to purchase the items through the app".
+    * "Searching for these products on my own has become annoying, this concept is great".
+* Assessment:
+    * Must have - Needs to know when certain merchandise in stock in order to resell.
+
 ---------
 
 Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
