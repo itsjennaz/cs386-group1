@@ -59,6 +59,52 @@ Interviewee 2
 * Key insights from interview: One important idea that came up during this interview was the idea of missing the purchasing window. A lot of items that are in high demand will sell out quickly once they come back into stock. Even if a person checks for something every evening, that something may have come into stock and sold out again already, with the person none the wiser. This product solves that. 
 * Assesment: Between must have and nice to have
 
+Interview 3:
+* Interviewer: Jenna Pedro
+* Interviewee: Kolin Galdiano
+* When : July 11, 2021
+* Consumer Segment:  
+    * College student
+    * PCs and tech gadgets person
+
+* Key Insights:
+    * Ease of access
+    * Cleaning landing page
+    * A nice layout where everything is easy to find
+    * Search Bar
+
+* Representative Quotes:
+    * "It's always useful to have restock notifications becuase it helps me to acquire the item that I want."
+    * "I want it to be simple and not get spammed with emails."
+
+* Assessment:
+    * Must have: account settings, search bar, fast loading time
+    * Nice to have: exclusive deals
+    * Don't care: a lot of ads
+
+Interview 4:
+* Interviewer: Jenna Pedro
+* Interviewee: Charyl Pedro
+* When: July 11, 2021
+* Consumer Segment:  
+    * Mom
+    * Not really a tech person
+    * Likes to shop for clothes, household stuff, decorations, & cleaners
+
+* Key Insights:
+    * User friendly
+    * Easy to find
+
+* Representative Quotes:
+    * "If there isn't something in stock, then usually I find something else to replace it."
+    * "Would this cost me anything?"
+    * "Restock alers are useful because once I get the notification I went on and bought it."
+
+* Assessment:
+    * Must have: easy for users, search bar, review of products, pick something and they give alternate options
+    * Nice to have:  pretty website
+    * Don't care: ads(if it has nnothing to do with the website)
+
 ---------
 
 Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
