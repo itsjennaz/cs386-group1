@@ -30,6 +30,63 @@ Present  the  results  of  each  interview  (the minimum number  of interviews i
 
 Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
 
+---------
+Interview 5:
+Who was interviewed: Miriam Marsteller
+Who Participated: Katarina Marsteller
+When: 07/11/2021
+Customer Segment:
+- Mom
+- Systems analysist for Banner
+- Online/In-Person shopper
+
+Key Insights:
+
+My shoe size is often unavailable. Other things include toilet paper and cleaning supplies earlier in the pandemic.
+Specific dog treats. ULTA runs out of specific hair products. 
+
+Look online. even then stores may not have it.
+
+Store does not provide info on when they will be back in stock.
+
+Having the products now, easy, and quick.
+
+Representative quotes: "I usually check online to see if products are available in store, 
+			but even when I go to the stores they will sometimes be out of what I need." 
+Assessment: 
+Must have - Up to date feedback & easy to use
+Nice to have - Wide range of products
+Don't care - Advertisements 
+
+---------
+Interview 6:
+Who was interviewed: Mason Schragel
+Who participated: Katarina Marsteller
+When: 07/11/2021
+Customer Segment:
+- NAU student
+- Understands tech
+- Knowledgable on computer construction
+-
+Key Insights:
+- Computers parts, cleaning supplies, meats at one point became sparce due to the pandemic.
+
+- Look online for products.
+
+- Call and check to see if products are back in stock. Employees oftem are unaware as to when products will be back in stock.
+
+Annoying due to the desired/needed products
+- not ordered enough
+- run out
+- scalpers
+-
+Representative quotes: 
+- "It's annoying not being able to get parts that you may need or want for you computer setup due to so many shortages."
+Assessment:
+Must have - Up to date feedback & easy interface
+Nice to have - Appealing website
+Don't care -  Advertisments
+
 ## 4. Final value proposition and consumer segments
 
 ### Rubric (Remove when section is complete)
