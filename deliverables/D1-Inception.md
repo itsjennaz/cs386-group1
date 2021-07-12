@@ -62,7 +62,7 @@ Interviewee 2
 Interview 3:
 * Interviewer: Jenna Pedro
 * Interviewee: Kolin Galdiano
-* When : July 11, 2021
+* Date: July 11, 2021
 * Consumer Segment:  
     * College student
     * PCs and tech gadgets person
@@ -82,7 +82,7 @@ Interview 3:
 Interview 4:
 * Interviewer: Jenna Pedro
 * Interviewee: Charyl Pedro
-* When: July 11, 2021
+* Date: July 11, 2021
 * Consumer Segment:  
     * Mom
     * Not really a tech person
@@ -98,6 +98,47 @@ Interview 4:
     * Must have: easy for users, search bar, review of products, pick something and they give alternate options
     * Nice to have:  pretty website
     * Don't care: ads(if it has nnothing to do with the website)
+ 
+Interview 5:
+* Interviewer: Georgia Buchanan
+* Interviewee: David Buchanan
+* Date: July 11, 2021
+* Consumer Segment:  
+    * Works for Microsoft 
+    * Graduated with a Masters in Software Engineering
+* Key Insights:
+    * Not on the look out for tech products as his company supplies them.
+    * Being able to find products whether tech or househould items is important.
+    * Concerns about how many companies have a site that has implemented a similar app.
+    * Suggestions about including multiple resources to purchase a product.
+* Representative Quotes:
+    * "I usually look for more household items to buy, I would use this if it allowed me to 
+search and select what items I want to know are in stock".
+    * "I get a lot of emails so having an option for a text message alert would increase my interest".
+* Assessment:
+    * Must Have: multiple genres of merchandise, such as technology or toys.
+    * Nice to Have: if there is a product of interest on the app.
+
+Interview 6:
+* Interviewer: Georgia Buchanan
+* Interviewee: Ryan Sanderson
+* Date: July 10, 2021
+* Consumer Segment:  
+    * College student
+    * Interested in popular merchandise
+    * Side job is buying and reselling merchandise
+* Key Insights:
+    * Knowing when certain products are in stock is a must for investing.
+    * A priority section for being able to select what items he wants most.
+    * Already interested in the restock basketball cards and the PlayStation 5 console.
+    * Questions about what more the app could offer.
+* Representative Quotes:
+    * "I am always looking to invest into basketball cards, having the option to know when 
+they are stocked online or in store would be amazing".
+    * "I would use this app even without the ability to purchase the items through the app".
+    * "Searching for these products on my own has become annoying, this concept is great".
+* Assessment:
+    * Must have
 
 ---------
 
