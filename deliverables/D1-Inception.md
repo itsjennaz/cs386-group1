@@ -97,8 +97,48 @@ Interview 4:
 * Assessment:
     * Must have: easy for users, search bar, review of products, pick something and they give alternate options
     * Nice to have:  pretty website
-    * Don't care: ads(if it has nnothing to do with the website)
+    * Don't care: ads(if it has nothing to do with the website)
 
+Interview 5:
+* Interviewer: Salvador Galan
+* Interviewee: Samantha Motil
+* When: July 11, 2021
+* Consumer Segment:  
+    * Busy Lifestyle
+    * Avid Shopper (Clothes, Make-up, Gifts)
+    *Shopping for these items weekly
+* Key Insights:
+    * Optimization and Time Management - People with busy lifestyles hate to go to the store during their free time just to find the product is out-of-stock. 
+* Representative Quotes:
+    * "When the product is out of stock I wait for it to restock, or just don't end up getting that product."
+    * "Target runs out of Stock often."
+    * "This service would be most useful if it could automatically purchase certain items that you wanted."
+* Assessment:
+    * Nice to have: Cross-interface from multiple stores.
+    * Nice to have:  Website/App
+    * Must Have: Notification System or SMS system
+    * Nice to have: Suggestions/Alternative to the products.
+
+Interview 6:
+* Interviewer: Salvador Galan
+* Interviewee: Zach Martinez
+* When: July 12, 2021
+* Consumer Segment:  
+    * Shops bi/tri weekly for certain products
+    * Relaxed Lifestyle
+    * Diverse shopping pool
+    * "Typical Daily Person"
+* Key Insights:
+    * People don't know what they want till they see or hear about it.
+    * Needs to be User Friendly, and attractive to eye.
+* Representative Quotes:
+    * "I don't have a need for the new PS5."
+    * "Could it track products in from foreign markets? (Japeness, Chinesse, German)"
+    * "Exclusive items, such as trading cards or certain comic, would be nice."
+* Assessment:
+    *Must Have: Foreign market/limited addition items.
+    *Don't Care: No need for a large inventory as user is looking for specific items not browsing.
+    *Nice to Have: User friendly service and appealing to the eye.
 ---------
 
 Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
