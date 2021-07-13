@@ -182,16 +182,9 @@ they are stocked online or in store would be amazing".
     * "I would use this app even without the ability to purchase the items through the app".
     * "Searching for these products on my own has become annoying, this concept is great".
 * Assessment:
-
-    * Must have
-=======
     * Must have - Needs to know when certain merchandise in stock in order to resell.
 
----------
 
-Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
-
----------
 Interview 9:
 Who was interviewed: Miriam Marsteller
 Who Participated: Katarina Marsteller
@@ -220,7 +213,7 @@ Must have - Up to date feedback & easy to use
 Nice to have - Wide range of products
 Don't care - Advertisements 
 
----------
+
 Interview 10:
 Who was interviewed: Mason Schragel
 Who participated: Katarina Marsteller
