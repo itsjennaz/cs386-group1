@@ -8,6 +8,8 @@ Describe in one paragraph what your project is about.Make it clear what problem 
 
 Grading: 5  points. Your  paragraph  should  be  well written in formal language and  must contain all the required information. Be clear, concise, and check for typos and grammar errors.
 
+AlertX is a inventory alert system that intends to give customers a greater opportunity at obtaining a specifed item that is, seemingly, always out of stock. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products; Through the use of retail API's, we can give our customers the upper-hand by alerting them as soon as their specified product comes back into stock. Notifications can be customized to be delivered via email or SMS (or both) to best suite your needs. 
+
 ## 2. Initial value proposition and customer segments
 
 ### Rubric (Remove when section is complete):
@@ -97,9 +99,50 @@ Interview 4:
 * Assessment:
     * Must have: easy for users, search bar, review of products, pick something and they give alternate options
     * Nice to have:  pretty website
-    * Don't care: ads(if it has nnothing to do with the website)
- 
+    * Don't care: ads(if it has nothing to do with the website)
+
 Interview 5:
+* Interviewer: Salvador Galan
+* Interviewee: Samantha Motil
+* When: July 11, 2021
+* Consumer Segment:  
+    * Busy Lifestyle
+    * Avid Shopper (Clothes, Make-up, Gifts)
+    *Shopping for these items weekly
+* Key Insights:
+    * Optimization and Time Management - People with busy lifestyles hate to go to the store during their free time just to find the product is out-of-stock. 
+* Representative Quotes:
+    * "When the product is out of stock I wait for it to restock, or just don't end up getting that product."
+    * "Target runs out of Stock often."
+    * "This service would be most useful if it could automatically purchase certain items that you wanted."
+* Assessment:
+    * Nice to have: Cross-interface from multiple stores.
+    * Nice to have:  Website/App
+    * Must Have: Notification System or SMS system
+    * Nice to have: Suggestions/Alternative to the products.
+
+Interview 6:
+* Interviewer: Salvador Galan
+* Interviewee: Zach Martinez
+* When: July 12, 2021
+* Consumer Segment:  
+    * Shops bi/tri weekly for certain products
+    * Relaxed Lifestyle
+    * Diverse shopping pool
+    * "Typical Daily Person"
+* Key Insights:
+    * People don't know what they want till they see or hear about it.
+    * Needs to be User Friendly, and attractive to eye.
+* Representative Quotes:
+    * "I don't have a need for the new PS5."
+    * "Could it track products in from foreign markets? (Japeness, Chinesse, German)"
+    * "Exclusive items, such as trading cards or certain comic, would be nice."
+* Assessment:
+    *Must Have: Foreign market/limited addition items.
+    *Don't Care: No need for a large inventory as user is looking for specific items not browsing.
+    *Nice to Have: User friendly service and appealing to the eye.
+
+Interview 7:
 * Interviewer: Georgia Buchanan
 * Interviewee: David Buchanan
 * Date: July 11, 2021
@@ -119,7 +162,8 @@ search and select what items I want to know are in stock".
     * Must Have: multiple genres of merchandise, such as technology or toys.
     * Nice to Have: if there is a product of interest on the app.
 
-Interview 6:
+
+Interview 8:
 * Interviewer: Georgia Buchanan
 * Interviewee: Ryan Sanderson
 * Date: July 10, 2021
@@ -138,7 +182,10 @@ they are stocked online or in store would be amazing".
     * "I would use this app even without the ability to purchase the items through the app".
     * "Searching for these products on my own has become annoying, this concept is great".
 * Assessment:
+
     * Must have
+=======
+    * Must have - Needs to know when certain merchandise in stock in order to resell.
 
 ---------
 
