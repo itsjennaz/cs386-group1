@@ -10,11 +10,18 @@ Grading: 5  points. Your  paragraph  should  be  well written in formal language
 
 ## 2. Initial value proposition and customer segments
 
-### Rubric (Remove when section is complete):
+(i) Possible value propsitions:
+- "No more waiting months for that hot item that's always out of stock."
+- "Stop checking online stores everyday. Track it once and we'll let you know when it's back in stock."
+- "No more unnecessary shipping fees. Know exactly when your desired products come back in store."
 
-Report the initial guesses for the (i) value proposition and (ii) customersegment.The value proposition should make clear what your product is, the target customer, the value you provide, andwhy your product is unique.See exampleson the lecture slides.
+(ii) Customer segment. Our probabale customers:
 
-Grading: 5  points.The  value  proposition shouldmake  clear  the valuefrom  the  point  of view of the customer. It should notbe asloganor the description of a functionality. The value propositionand consumer segment should be coherent with the text in the previous section---in  particular, the  value  should address  the  problem  reported  above(problem-solution fit). The customersegmentshould not be too broad nor too specific.
+- Shop online often
+- Have an interest in items that are rare/go out of stock frequently
+- Are busy and do not like to waste time manually checking stock every day/hour
+- Frequently check multiple websites for the same product
+- Flexible in using multiple media sources for notifications such as email or text message
 
 ## 3. Interviews Summary
 
