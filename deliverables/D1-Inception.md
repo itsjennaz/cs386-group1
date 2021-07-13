@@ -64,7 +64,7 @@ Interviewee 2
 Interview 3:
 * Interviewer: Jenna Pedro
 * Interviewee: Kolin Galdiano
-* When : July 11, 2021
+* Date: July 11, 2021
 * Consumer Segment:  
     * College student
     * PCs and tech gadgets person
@@ -84,7 +84,7 @@ Interview 3:
 Interview 4:
 * Interviewer: Jenna Pedro
 * Interviewee: Charyl Pedro
-* When: July 11, 2021
+* Date: July 11, 2021
 * Consumer Segment:  
     * Mom
     * Not really a tech person
@@ -162,6 +162,7 @@ search and select what items I want to know are in stock".
     * Must Have: multiple genres of merchandise, such as technology or toys.
     * Nice to Have: if there is a product of interest on the app.
 
+
 Interview 8:
 * Interviewer: Georgia Buchanan
 * Interviewee: Ryan Sanderson
@@ -181,6 +182,9 @@ they are stocked online or in store would be amazing".
     * "I would use this app even without the ability to purchase the items through the app".
     * "Searching for these products on my own has become annoying, this concept is great".
 * Assessment:
+
+    * Must have
+=======
     * Must have - Needs to know when certain merchandise in stock in order to resell.
 
 ---------
