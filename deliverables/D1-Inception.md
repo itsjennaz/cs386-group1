@@ -4,14 +4,17 @@
 AlertX is a inventory alert system that intends to give customers a better shot at obtaining a specifed item that is frequently out of stock. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products. Using online retailer's APIs, we can give users the upper-hand by alerting them as soon as their specified product comes back into stock. Notifications can be customized to be delivered via email and/or text message, whichever suites their needs. 
 
 ## 2. Initial value proposition and customer segments
-**(i) Possible value propositions:**
+**(i) Possible value propsitions:**
 * "No more waiting months for that hot item that's always out of stock."
-* "Stop checking amazon everyday. Track it once and we'll let you know when it's back in stock."
+* "Stop checking online stores everyday. Track it once and we'll let you know when it's back in stock."
+* "No more unnecessary shipping fees. Know exactly when your desired products come back in store."
 
 **(ii) Customer segment. Our probabale customers:**
 * Shop online often
 * Have an interest in items that are rare/go out of stock frequently
 * Are busy and do not like to waste time manually checking stock every day/hour
+* Frequently check multiple websites for the same product
+* Flexible in using multiple media sources for notifications such as email or text message
 
 ## 3. Interviews Summary
 **Interview 1:**
