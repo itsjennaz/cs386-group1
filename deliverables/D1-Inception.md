@@ -1,7 +1,7 @@
 # Inception
 
 ## 1. Introduction
-AlertX is a inventory alert system that intends to give customers a greater opportunity at obtaining a specifed item that is, seemingly, always out of stock. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products. Through the use of retail API's, we can give our customers the upper-hand by alerting them as soon as their specified product comes back into stock. Notifications can be customized to be delivered via email or SMS (or both) to best suite your needs. 
+AlertX is a inventory alert system that intends to give customers a better shot at obtaining a specifed item that is frequently out of stock. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products. Using online retailer's APIs, we can give users the upper-hand by alerting them as soon as their specified product comes back into stock. Notifications can be customized to be delivered via email and/or text message, whichever suites their needs. 
 
 ## 2. Initial value proposition and customer segments
 **(i) Possible value propositions:**
@@ -16,29 +16,26 @@ AlertX is a inventory alert system that intends to give customers a greater oppo
 ## 3. Interviews Summary
 **Interview 1:**
 * Interviewer: Colin Wood
-* Interviewee: Colin's coworker
+* Interviewee: Briana Coyne
 * Date: Friday, July 9
 * Customer segment:  
    * Somewhat fitting
    * Shops online but does purchase things that are frequently out of stock
 * Key insights from interview: 
-   * Unfortunately this person has never or at least could not remember the last time they wanted an out of stock item online so badly that they would have used something similiar to this product. (They do remember not being able to find toilet paper during the first months of covid though. :-) )
+   * Unfortunately this person could not remember the last time they cared about an out of stock item enough to have wished they had this product.
 * Representative quotes:
    * "I could see this being useful, but I couldn't tell you the next time I would need it."
 * Assessment: Don't care
 
 **Interview 2:**
 * Interviewer: Colin Wood
-* Interviewee: Colin's friend
+* Interviewee: Benjamin Russakoff
 * Date: Sunday, July 11
 * Customer segment: 
    * Very fitting
    * Often shops online for items that come in and out of stock
 * Key insights from interview: 
-   * The idea of missing the purchasing window 
-   * A lot of items that are in high demand will sell out quickly once they come back into stock
-   * Even if a person checks for something every evening, that something may have come into stock and sold out again already
-   * This product solves that. 
+   * The idea of missing the purchasing window: a lot of items that are in high demand will sell out quickly once they come back into stock; even if a person checks for something every evening, the item may have come into stock and sold out again already, without the person knowing.
 * Assesment: Between must have and nice to have
 
 **Interview 3:**
@@ -214,7 +211,7 @@ they are stocked online or in store would be amazing".
 * "Stop checking amazon everyday. Track it once and we'll let you know when it's back in stock."
 
 **(ii) Customer segment. Our probabale customers:**
-* Collectors
 * Shop online often
+* Might be collectors
 * Have an interest in items that are rare/go out of stock frequently
-* Are busy and do not like to waste time manually checking stock every day/hour(plus the original ones)
+* Are busy and do not like to waste time repeatedly checking whether something is in stock
