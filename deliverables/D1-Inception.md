@@ -185,10 +185,10 @@ they are stocked online or in store would be amazing".
     * Must have - Needs to know when certain merchandise in stock in order to resell.
 
 
-Interview 9:
-Who was interviewed: Miriam Marsteller
-Who Participated: Katarina Marsteller
-When: 07/11/2021
+*Interview 9:
+   *Who was interviewed: Miriam Marsteller
+   *Who Participated: Katarina Marsteller
+   *When: 07/11/2021
 Customer Segment:
 - Mom
 - Systems analysist for Banner
