@@ -31,7 +31,7 @@ Present  the  results  of  each  interview  (the minimum number  of interviews i
 Grading: 15 points. You should have at least the required number of interviews.For each interview,  you should report the  required  information.  The  insight  should  be grounded on the interview and illustrated by the representative quotes.
 
 ---------
-Interview 5:
+Interview 9:
 Who was interviewed: Miriam Marsteller
 Who Participated: Katarina Marsteller
 When: 07/11/2021
@@ -51,15 +51,16 @@ Store does not provide info on when they will be back in stock.
 
 Having the products now, easy, and quick.
 
-Representative quotes: "I usually check online to see if products are available in store, 
-			but even when I go to the stores they will sometimes be out of what I need." 
+Representative quotes: 
+"I usually check online to see if products are available in store, but even when I go to the stores they will sometimes be out of what I need." 
+
 Assessment: 
 Must have - Up to date feedback & easy to use
 Nice to have - Wide range of products
 Don't care - Advertisements 
 
 ---------
-Interview 6:
+Interview 10:
 Who was interviewed: Mason Schragel
 Who participated: Katarina Marsteller
 When: 07/11/2021
