@@ -24,11 +24,16 @@ the required elements, follow the provided template, and be consistent with each
 The text should not contain typos or grammar issues.
 
 ## 2. Stakeholders
-Make a list of all stakeholders of the project with a brief description of each one of them,
-emphasizing any responsibilities with the project. Examples of stakeholders include users,
-clients, competitors, detractors, developers, etc.
-Grading: 1 point – The stakeholders can’t be too generic or specific. The list should reflect
-what was described in Section 1.
+
+Users: Potential users shop online often and seek a solution to avoiding leaving stores without their desired products due to being out of stock.
+
+Clients: Individuals and companies that nust be alerted as to when supplies and products which sell out rapidly.
+
+Competetors: Software which offer similar features and possibly offer more varieties of API.
+
+Detractors: The expectation is that the website has a clean, easy-to-understand interface that accurately fetches product stocks in the API.
+
+Developers: A functioning, clean interface that successful gathers information about product stocks and deliver the information to the user.
 
 ## 3. Functional Requirements (features)
 Make a numbered list of requirements for your software. Just self-explanatory titles are
