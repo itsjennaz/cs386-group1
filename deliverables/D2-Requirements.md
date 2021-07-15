@@ -73,7 +73,7 @@ with what was listed in sections 1 and 2. The use case diagram should be coheren
 the list of requirements (section 3). The level of granularity of each use case should be
 adequate. The use cases should be adequately named.
 
-https://i.gyazo.com/f55430948a538a8a26308628b73a7a32.png
+![alt text](https://i.gyazo.com/f55430948a538a8a26308628b73a7a32.png)
 
 ### 6.2 Use Case Descriptions and interface sketch
 Present one complete use case description for each member of the group. Therefore, if
