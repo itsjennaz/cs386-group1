@@ -25,13 +25,13 @@ Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
 Users: Potential users shop online often and seek a solution to avoiding leaving stores without their desired products due to being out of stock.
 
-Clients: Individuals and companies that nust be alerted as to when supplies and products which sell out rapidly.
+Clients: Individuals and companies that must be alerted as to when supplies and products sell out rapidly.
 
 Competitors: Software which offer similar features and possibly offer more varieties of API.
 
 Detractors: The expectation is that the website has a clean, easy-to-understand interface that accurately fetches product stocks in the API.
 
-Developers: A functioning, clean interface that successful gathers information about product stocks and deliver the information to the user.
+Developers: A functioning, clean interface that successfully gathers information about product stocks and deliver the information to the user.
 
 ## 3. Functional Requirements (features)
 Make a numbered list of requirements for your software. Just self-explanatory titles are
