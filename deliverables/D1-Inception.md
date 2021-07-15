@@ -54,7 +54,7 @@ AlertX is a inventory alert system that intends to give customers a better shot 
     * A nice layout where everything is easy to find
     * Search Bar
 * Representative Quotes:
-    * "It's always useful to have restock notifications becuase it helps me to acquire the item that I want."
+    * "It's always useful to have restock notifications because it helps me to acquire the item that I want."
     * "I want it to be simple and not get spammed with emails."
 * Assessment:
     * Must have: account settings, search bar, fast loading time
@@ -115,7 +115,7 @@ AlertX is a inventory alert system that intends to give customers a better shot 
     * Needs to be User Friendly, and attractive to eye
 * Representative Quotes:
     * "I don't have a need for the new PS5."
-    * "Could it track products in from foreign markets? (Japeness, Chinesse, German)"
+    * "Could it track products in from foreign markets? (Japenese, Chinese, German, etc.)"
     * "Exclusive items, such as trading cards or certain comic, would be nice."
 * Assessment:
     * Must Have: Foreign market/limited addition items
@@ -198,7 +198,7 @@ they are stocked online or in store would be amazing".
    * Computers parts, cleaning supplies, meats at one point became sparce due to the pandemic
    * Looks online for products
    * Calls and checks to see if products are back in stock
-   * Employees oftem are unaware as to when products will be back in stock
+   * Employees often are unaware as to when products will be back in stock
    * Annoyed due to the desired/needed products(i.e. not ordered enough, runs out, scalpers, etc.)
 * Representative quotes: 
    * "It's annoying not being able to get parts that you may need or want for you computer setup due to so many shortages."
@@ -211,7 +211,7 @@ they are stocked online or in store would be amazing".
 **(i) Possible value propositions:**
 * "Anxious that you'll miss the purchase window? We'll let you know the second it's available."
 * "No more waiting months for that hot item that's always out of stock."
-* "Stop checking amazon everyday. Track it once and we'll let you know when it's back in stock."
+* "Stop checking Amazon everyday. Track it once and we'll let you know when it's back in stock."
 
 **(ii) Customer segment. Our probabale customers:**
 * Shop online often
