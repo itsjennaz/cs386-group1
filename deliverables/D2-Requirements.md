@@ -80,6 +80,20 @@ https://people.cs.clemson.edu/~johnmc/courses/Publish/openup/guidances/templates
 /resources/uc_specification_tpl.dot
 After each use case description, add a sketch of the corresponding user interface. This will
 be a good opportunity to start thinking about usability.
+
+**Use Case**: Receive SMS Notification 
+**Actor**: SMS User  
+**Description**: Once the User has signed up for our services they will receive notification Via email and/or SMS.
+**Preconditions**: They have a registered account with our services and have a device that can receive email and SMS.
+**Postconditions**: The AlertX User will now receive catered notifications Via SMS, or email, on specified products that recently have come back in stock.
+**Main Flow**:
+1. Actor logs into the AlertX Website and creates an account.
+2. They can now choose to receive SMS or email (or both) notifications.
+3. The user will choose certain products to receive notifications on.
+4. The user will now receive catered notifications on the specified products.
+**Alternative Flow**:
+1. The user must allow their device to recieve the specified type of notification.
+
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
 system. Do not use UI language in the description of the use case.
@@ -99,6 +113,8 @@ for each user story.
 The user stories should be registered as cards in a public board at Trello.com or another
 issue tracker. Include here the link for your issue tracker and a screenshot of what you
 did. From now on, we expect that you use an issue tracker to manage the project tasks.
+
+Link To Trello: https://trello.com/b/Y4P9ZZVL/alertx
 
 Grading: 4 points – Provide the URL and screenshot of the issue tracker. The user stories
 should be registered there.
