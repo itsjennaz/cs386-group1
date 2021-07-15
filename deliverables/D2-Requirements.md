@@ -84,15 +84,22 @@ After each use case description, add a sketch of the corresponding user interfac
 be a good opportunity to start thinking about usability.
 
 **Use Case**: Receive SMS Notification 
+
 **Actor**: SMS User  
+
 **Description**: Once the User has signed up for our services they will receive notification Via email and/or SMS.
+
 **Preconditions**: They have a registered account with our services and have a device that can receive email and SMS.
+
 **Postconditions**: The AlertX User will now receive catered notifications Via SMS, or email, on specified products that recently have come back in stock.
+
 **Main Flow**:
+
 1. Actor logs into the AlertX Website and creates an account.
 2. They can now choose to receive SMS or email (or both) notifications.
 3. The user will choose certain products to receive notifications on.
 4. The user will now receive catered notifications on the specified products.
+
 **Alternative Flow**:
 1. The user must allow their device to recieve the specified type of notification.
 
