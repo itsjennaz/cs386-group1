@@ -198,6 +198,8 @@ for each user story.
 2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority #?, approximately ? hours)
 3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
 4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
+5. As a user, I want a software that updates its data regarding products quickly so I know I'm getting notified as soon as possible. (Priority #?, approximately ? hours)
+6. As a user, I want an interface that is easy to understand and navigate so I can find what I need quickly. (Priority #?, approximately ? hours)
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
