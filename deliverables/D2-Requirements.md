@@ -100,6 +100,10 @@ Grading: 6 points – Use the provided format. The user stories should be in an 
 level of granularity (not too broad nor too specific). Provide the priority and estimation
 for each user story.
 
+5. As a user, I want a software that updates it's data regarding products quickly so I know I'm getting notified as soon as possible.
+
+6. As a user, I want an intface that is easy to understand and navigate so I can find what I need fast.
+
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
 issue tracker. Include here the link for your issue tracker and a screenshot of what you
