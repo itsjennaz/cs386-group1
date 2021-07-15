@@ -66,13 +66,6 @@ sections.
 ## 6. Use Cases
 
 ### 6.1 Use Case Diagram
-Include a UML use case diagram for your project. There are many drawing tools that
-you can use, such as http://draw.io and https://creately.com/
-Grading: 4 points – Follow correctly the UML specification. The actors should be coherent
-with what was listed in sections 1 and 2. The use case diagram should be coherent with
-the list of requirements (section 3). The level of granularity of each use case should be
-adequate. The use cases should be adequately named.
-
 ![alt text](https://i.gyazo.com/f55430948a538a8a26308628b73a7a32.png)
 
 ### 6.2 Use Case Descriptions and interface sketch
