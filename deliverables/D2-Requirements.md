@@ -21,7 +21,6 @@ track it once and get a personal notification when that item is back in store.
 
 (Added by colin, feel free to change): AlertX is a inventory tracker that gives you the opportunity to finally obtain that one item that's always out of stock!
 
-
 Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
 ## 2. Stakeholders
@@ -38,15 +37,15 @@ Developers: A functioning, clean interface that successfully gathers information
 
 ## 3. Functional Requirements (features)
 
-  1) Restock notifications must be fast enough before being sold out again, without person knowing.
-  2) Alerts/subcription restock emails should be simple and customer should not get spammed with them.
-  3) Make sure the software does not cost the customer anything.
-  4) Software could automatically purchase a certain out of stock item that the customer wants.
-  5) Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
-  6) Make our software more unique as many other companies have a similar site.
-  7) Have a text message alert notification option.
-  8) Be accurate with what is in stock online and in store.
-  9) Avoid bots or scalpers from buying all of the popular restocked items.
+  1. Restock notifications must be fast enough before being sold out again, without person knowing.
+  2. Alerts/subcription restock emails should be simple and customer should not get spammed with them.
+  3. Make sure the software does not cost the customer anything.
+  4. Software could automatically bring user to checkout page on a certain out of stock item that the customer wants.
+  5. Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
+  6. Make our software more unique as many other companies have a similar site.
+  7. Have a text message alert notification option.
+  8. Be accurate with what is in stock online and in store.
+  9. Avoid bots or scalpers from buying all of the popular restocked items.
 
 ## 4. Non-functional requirements
 
@@ -82,6 +81,7 @@ https://people.cs.clemson.edu/~johnmc/courses/Publish/openup/guidances/templates
 /resources/uc_specification_tpl.dot
 After each use case description, add a sketch of the corresponding user interface. This will
 be a good opportunity to start thinking about usability.
+
 
 ####Use Case: Browse Items
 #####Brief Description
@@ -121,26 +121,27 @@ be a good opportunity to start thinking about usability.
 
 **Use Case 1**: Receive SMS Notification 
 
-**Actor**: SMS User  
+**Actor**: SMS Receiver 
 
-**Description**: Once the User has signed up for our services they will receive notification Via email and/or SMS.
+**Description**: The User will use our services to receive a notification Via SMS.
 
-**Preconditions**: They have a registered account with our services and have a device that can receive email and SMS.
+**Preconditions**: They have a registered account with our services and have a device that can receive SMS.
 
-**Postconditions**: The AlertX User will now receive catered notifications Via SMS, or email, on specified products that recently have come back in stock.
+**Postconditions**: The AlertX User will now receive catered notifications Via SMS on specified products that recently have come back in stock.
 
-**Main Flow**:
+**Basic Flow**:
 
-1. Actor logs into the AlertX Website and creates an account.
-2. They can now choose to receive SMS or email (or both) notifications.
-3. The user will choose certain products to receive notifications on.
+1. User will browse and select which items to be notified about.
+2. The user can than select their notification preference.
+3. To be notified Via SMS the user will enter their phone number.
 4. The user will now receive catered notifications on the specified products.
 
 **Alternative Flow**:
-1. The user must allow their device to recieve the specified type of notification.
+1. If in step 3 of the basic flow an invalid phone number is entered:
+	* The user will be promped to enter a valid phone number.
+	* The use case resumes at basic flow step 4.
 
-
-**Use Case 2**: Select an item for tracking
+#### Use Case 2: Select an item for tracking
 
 **Actor**: General user  
 
@@ -158,8 +159,31 @@ be a good opportunity to start thinking about usability.
 4. The user will recieve the proper notification(s) when the item comes back into stock.
 
 **Alternative Flow**:
-a. The item is already in stock.
-    1. The site will explain this to the user, and not track the product.
+
+1. The item is already in stock.
+	* The site will explain this to the user, and not track the product.
+
+#### Use Case 3: Receive Email Notification
+
+**Actor**: Email Receiver 
+
+**Description**: The User will use our services to receive a notification Via email.
+
+**Preconditions**: They have a registered account with our services and have a device that can receive emails.
+
+**Postconditions**: The AlertX User will now receive catered notifications Via email on specified products that recently have come back in stock.
+
+**Basic Flow**:
+
+1. User will browse and select which items to be notified about.
+2. The user can than select their notification preference.
+3. To be notified Via email the user will enter their email address.
+4. The user will now receive catered notifications on the specified products.
+
+**Alternative Flow**:
+1. If in step 3 of the basic flow an invalid email address is entered:
+	* The user will be promped to enter a valid email address.
+	* The use case resumes at basic flow step 4.
 
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
@@ -172,12 +196,14 @@ features described in the use cases or to different ones. Adopt the following fo
 Establish a priority level for each user story and estimate how many hours each one will
 demand using the planning poker approach.
 
-1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs.
-2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible.
-
 Grading: 6 points – Use the provided format. The user stories should be in an adequate
 level of granularity (not too broad nor too specific). Provide the priority and estimation
 for each user story.
+
+1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs.
+2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible.
+3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
+4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
