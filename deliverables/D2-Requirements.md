@@ -122,6 +122,7 @@ be a good opportunity to start thinking about usability.
 4. The user will recieve the proper notification(s) when the item comes back into stock.
 
 **Alternative Flow**:
+
 * The item is already in stock.
  * The site will explain this to the user, and not track the product.
 
