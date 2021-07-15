@@ -177,20 +177,12 @@ be a good opportunity to start thinking about usability.
 	* The user will be promped to enter a valid email address.
 	* The use case resumes at basic flow step 4.
 
-Grading: 4 points – Follow the template to describe the use cases. Present an interface
-sketch for each use case. Describe the use case as a dialog between the user and the
-system. Do not use UI language in the description of the use case.
-
 ## 7. User Stories
 Write two user stories for each member of the group. They can be related to the same
 features described in the use cases or to different ones. Adopt the following format: "As a
 <ROLE>, I want <SOMETHING> so that <GOAL>."
 Establish a priority level for each user story and estimate how many hours each one will
 demand using the planning poker approach.
-
-Grading: 6 points – Use the provided format. The user stories should be in an adequate
-level of granularity (not too broad nor too specific). Provide the priority and estimation
-for each user story.
 
 1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority #?, approximately ? hours)
 2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority #?, approximately ? hours)
@@ -207,6 +199,3 @@ issue tracker. Include here the link for your issue tracker and a screenshot of 
 did. From now on, we expect that you use an issue tracker to manage the project tasks.
 
 Link To Trello: https://trello.com/b/Y4P9ZZVL/alertx
-
-Grading: 4 points – Provide the URL and screenshot of the issue tracker. The user stories
-should be registered there.
