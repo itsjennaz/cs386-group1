@@ -90,6 +90,7 @@ be a good opportunity to start thinking about usability.
 **Preconditions**: They have a registered account with our services and have a device that can receive email and SMS.
 
 **Postconditions**: The AlertX User will now receive catered notifications Via SMS, or email, on specified products that recently have come back in stock.
+
 **Main Flow**:
 
 1. Actor logs into the AlertX Website and creates an account.
