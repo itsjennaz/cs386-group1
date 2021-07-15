@@ -198,7 +198,7 @@ they are stocked online or in store would be amazing".
    * Computers parts, cleaning supplies, meats at one point became sparce due to the pandemic
    * Looks online for products
    * Calls and checks to see if products are back in stock
-   * Employees oftem are unaware as to when products will be back in stock
+   * Employees often are unaware as to when products will be back in stock
    * Annoyed due to the desired/needed products(i.e. not ordered enough, runs out, scalpers, etc.)
 * Representative quotes: 
    * "It's annoying not being able to get parts that you may need or want for you computer setup due to so many shortages."
@@ -211,7 +211,7 @@ they are stocked online or in store would be amazing".
 **(i) Possible value propositions:**
 * "Anxious that you'll miss the purchase window? We'll let you know the second it's available."
 * "No more waiting months for that hot item that's always out of stock."
-* "Stop checking amazon everyday. Track it once and we'll let you know when it's back in stock."
+* "Stop checking Amazon everyday. Track it once and we'll let you know when it's back in stock."
 
 **(ii) Customer segment. Our probabale customers:**
 * Shop online often
