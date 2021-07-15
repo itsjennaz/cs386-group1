@@ -99,8 +99,8 @@ Grading: 6 points – Use the provided format. The user stories should be in an 
 level of granularity (not too broad nor too specific). Provide the priority and estimation
 for each user story.
 
-i) As an online shopper, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
-ii) As an administrator, I want to make a software that automatically purchases a certain out of stock item that the consumer wants so that the experience is easier and stress free. (Priority #?, approximately ? hours)
+1) As an online shopper, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
+2) As an administrator, I want to make a software that automatically purchases a certain out of stock item that the consumer wants so that the experience is easier and stress free. (Priority #?, approximately ? hours)
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
