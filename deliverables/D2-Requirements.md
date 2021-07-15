@@ -100,9 +100,9 @@ be a good opportunity to start thinking about usability.
 4. The user will now receive catered notifications on the specified products.
 
 **Alternative Flow**:
-1. If in step 3 of the basic flow an invalid phone number is entered.
-	a. The user will be promped to enter a valid phone number.
-	b. The use case resumes at basic flow step 4.
+1. If in step 3 of the basic flow an invalid phone number is entered:
+	* The user will be promped to enter a valid phone number.
+	* The use case resumes at basic flow step 4.
 
 #### Use Case 2: Select an item for tracking
 
@@ -124,7 +124,7 @@ be a good opportunity to start thinking about usability.
 **Alternative Flow**:
 
 1. The item is already in stock.
-    	a. The site will explain this to the user, and not track the product.
+	* The site will explain this to the user, and not track the product.
 
 #### Use Case 3: Receive Email Notification
 
@@ -144,9 +144,9 @@ be a good opportunity to start thinking about usability.
 4. The user will now receive catered notifications on the specified products.
 
 **Alternative Flow**:
-1. If in step 3 of the basic flow an invalid email address is entered.
-	a. The user will be promped to enter a valid email address.
-	b. The use case resumes at basic flow step 4.
+1. If in step 3 of the basic flow an invalid email address is entered:
+	* The user will be promped to enter a valid email address.
+	* The use case resumes at basic flow step 4.
 
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
