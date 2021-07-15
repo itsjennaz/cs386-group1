@@ -124,7 +124,7 @@ be a good opportunity to start thinking about usability.
 **Alternative Flow**:
 
 1. The item is already in stock.
-    * The site will explain this to the user, and not track the product.
+    	a. The site will explain this to the user, and not track the product.
 
 #### Use Case 3: Receive Email Notification
 
