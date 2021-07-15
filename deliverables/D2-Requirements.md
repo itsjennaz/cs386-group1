@@ -19,6 +19,9 @@ item is back in store.
 Value proposition: AlertX is a notification system app that allows shoppers to avoid the wait, 
 track it once and get a personal notification when that item is back in store.
 
+(Added by colin, feel free to change): AlertX is a inventory tracker that gives you the opportunity to finally obtain that one item that's always out of stock!
+
+
 Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
 ## 2. Stakeholders
