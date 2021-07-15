@@ -38,15 +38,15 @@ Developers: A functioning, clean interface that successfully gathers information
 
 ## 3. Functional Requirements (features)
 
-  1) Restock notifications must be fast enough before being sold out again, without person knowing.
-  2) Alerts/subcription restock emails should be simple and customer should not get spammed with them.
-  3) Make sure the software does not cost the customer anything.
-  4) Software could automatically purchase a certain out of stock item that the customer wants.
-  5) Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
-  6) Make our software more unique as many other companies have a similar site.
-  7) Have a text message alert notification option.
-  8) Be accurate with what is in stock online and in store.
-  9) Avoid bots or scalpers from buying all of the popular restocked items.
+  1. Restock notifications must be fast enough before being sold out again, without person knowing.
+  2. Alerts/subcription restock emails should be simple and customer should not get spammed with them.
+  3. Make sure the software does not cost the customer anything.
+  4. Software could automatically purchase a certain out of stock item that the customer wants.
+  5. Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
+  6. Make our software more unique as many other companies have a similar site.
+  7. Have a text message alert notification option.
+  8. Be accurate with what is in stock online and in store.
+  9. Avoid bots or scalpers from buying all of the popular restocked items.
 
 ## 4. Non-functional requirements
 
@@ -136,15 +136,14 @@ features described in the use cases or to different ones. Adopt the following fo
 Establish a priority level for each user story and estimate how many hours each one will
 demand using the planning poker approach.
 
-1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs.
-2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible.
-
 Grading: 6 points – Use the provided format. The user stories should be in an adequate
 level of granularity (not too broad nor too specific). Provide the priority and estimation
 for each user story.
 
-1) As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
-2) As a user, I want a software that automatically purchases a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
+1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs.
+2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible.
+3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
+4. As a user, I want a software that automatically purchases a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
