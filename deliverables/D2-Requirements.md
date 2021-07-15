@@ -125,6 +125,7 @@ issue tracker. Include here the link for your issue tracker and a screenshot of 
 did. From now on, we expect that you use an issue tracker to manage the project tasks.
 
 Link To Trello: https://trello.com/b/Y4P9ZZVL/alertx
+**![](https://trello.com/b/Y4P9ZZVL/alertx)**
 
 Grading: 4 points – Provide the URL and screenshot of the issue tracker. The user stories
 should be registered there.
