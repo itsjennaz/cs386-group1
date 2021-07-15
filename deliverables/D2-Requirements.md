@@ -206,14 +206,19 @@ features described in the use cases or to different ones. Adopt the following fo
 Establish a priority level for each user story and estimate how many hours each one will
 demand using the planning poker approach.
 
-1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority #?, approximately ? hours)
-2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority #?, approximately ? hours)
-3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
-4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
-5. As a user, I want a software that updates its data regarding products quickly so that I get notified as soon as possible. (Priority #?, approximately ? hours)
-6. As a user, I want an interface that is easy to navigate and understand so that I can find what I need quickly. (Priority #?, approximately ? hours)
-7. As a user, I want to be able to customize the notifications I will recieve, so that I do not miss the alert when recieving hundreds of emails a day.
-8. As a user, I want to be able to track multiple items, so that I can purchase whichever comes back into stock first.
+1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority high, 5hrs)
+2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority medium, 15hrs)
+3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority high, 5hrs)
+4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority high, 2hrs)
+5. As a user, I want a software that updates its data regarding products quickly so that I get notified as soon as possible. (Priority high, 4hrs)
+6. As a user, I want an interface that is easy to navigate and understand so that I can find what I need quickly. (Priority high, 10hrs)
+7. As a user, I want to be able to customize the notifications I will recieve, so that I do not miss the alert when recieving hundreds of emails a day. (Priority high, 12hrs)
+8. As a user, I want to be able to track multiple items, so that I can purchase whichever comes back into stock first. (Priority high, 5hrs)
+9. As a user, I want multiple stores to choose from so that I can find something that I actually care about (Priority medium, 15hrs)
+10. As a user, I want an item to tell me how often it comes in stock, so I can have some sort of expectation (Priority low, 20hrs)
+11. As a user, I want to be easily removed from a notification list, so that I don't spammed (Priority high, 2hrs)
+12. As a user, I'd like to be able to view what items i'm signed up for, so I can remind my self what I signed up for(Priority medium, 5hrs)
+
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
