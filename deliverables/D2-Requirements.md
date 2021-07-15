@@ -126,7 +126,7 @@ be a good opportunity to start thinking about usability.
 **Basic Flow**:
 
 1. User will browse and select which items to be notified about.
-2. The user can than select their notification preference.
+2. The user can then select their notification preference.
 3. To be notified Via SMS the user will enter their phone number.
 4. The user will now receive catered notifications on the specified products.
 
@@ -170,7 +170,7 @@ be a good opportunity to start thinking about usability.
 **Basic Flow**:
 
 1. User will browse and select which items to be notified about.
-2. The user can than select their notification preference.
+2. The user can then select their notification preference.
 3. To be notified Via email the user will enter their email address.
 4. The user will now receive catered notifications on the specified products.
 
