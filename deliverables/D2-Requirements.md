@@ -107,6 +107,9 @@ features described in the use cases or to different ones. Adopt the following fo
 Establish a priority level for each user story and estimate how many hours each one will
 demand using the planning poker approach.
 
+1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs.
+2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible.
+
 Grading: 6 points – Use the provided format. The user stories should be in an adequate
 level of granularity (not too broad nor too specific). Provide the priority and estimation
 for each user story.
