@@ -16,10 +16,8 @@ item is back in store.
 
 ### 1.3 Value Proposition and Customer Segment
 
-Value proposition: AlertX is a notification system app that allows shoppers to avoid the wait, 
+Value proposition: AlertX is an inventory tracker that allows shoppers to avoid the wait, 
 track it once and get a personal notification when that item is back in store.
-
-(Added by colin, feel free to change): AlertX is a inventory tracker that gives you the opportunity to finally obtain that one item that's always out of stock!
 
 Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
@@ -200,6 +198,8 @@ for each user story.
 4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
 5. As a user, I want a software that updates its data regarding products quickly so that I get notified as soon as possible. (Priority #?, approximately ? hours)
 6. As a user, I want an interface that is easy to navigate and understand so that I can find what I need quickly. (Priority #?, approximately ? hours)
+7. As a user, I want to be able to customize the notifications I will recieve, so that I do not miss the alert when recieving hundreds of emails a day.
+8. As a user, I want to be able to track multiple items, so that I can purchase whichever comes back into stock first.
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
