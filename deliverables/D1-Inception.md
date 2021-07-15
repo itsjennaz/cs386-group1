@@ -54,7 +54,7 @@ AlertX is a inventory alert system that intends to give customers a better shot 
     * A nice layout where everything is easy to find
     * Search Bar
 * Representative Quotes:
-    * "It's always useful to have restock notifications becuase it helps me to acquire the item that I want."
+    * "It's always useful to have restock notifications because it helps me to acquire the item that I want."
     * "I want it to be simple and not get spammed with emails."
 * Assessment:
     * Must have: account settings, search bar, fast loading time
