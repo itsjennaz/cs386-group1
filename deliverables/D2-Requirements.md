@@ -48,14 +48,12 @@ Follow the same pattern to describe all the requirements. The list of requiremen
 be coherent with the previous sections.
 
 ## 4. Non-functional requirements
-Make a numbered list of non-functional requirements that are important for your
-software. Explain their importance. Follow the terminology of ISO/IEC 25010:2011. For
-each non-functional requirement, give an objective goal/measurement in order to
-provide verifiability for the requirement. You can find more details at the following URL:
-https://www.dropbox.com/s/o7jekzuxojc2ywo/ISO-IEC-IEEE-29148.pdf?dl=0
-3
-Grading: 2 points – Follow the ISO-IEC terminology, explain why they are important,
-provide verifiability criteria for each requirement.
+
+**1. Accuracy.** Items should only be reported in stock if they truly are in stock, and no item that is being tracked should come into stock without the proper notification. In the former case, a user's time would be wasted looking for an item they were led to believe was in stock but is not actually so. In the latter case, a user would miss the oportunity to get an in-stock item, having relied on our product. 5 out of 5 newly tracked products that are not in stock *should not* give an in-stock notification. 5 out of 5 tracked products that are initially out of stock but later come into stock *should* give an in-stock notification.
+**2. Reliability.** Being able to connect to the website and/or recieve text messages are vitally important to the function of this product. 10 out of 10 arbitrarily timed requests to the web server should be successfully served. 5 out 5 example text message automations should be deliverd successfully. 
+**3. Usability.** Being able to intuitively interact with the webpage is important, otherwise first-time users will be frustrated and stop using the product. At least 4 out of 5 test users should agree with the following statement after having used the website for a short but reasonable amount of time: "The website layout was intuitive to me; I was able to understand and perform the basic actions necessary to create an account, track a product, and enter contact information."
+**4. Security & Trustability** Tentative users are unlikely to become full users if they do not feel like they can trust our product with their personal information. At least 4 out of 5 test users should agree with the following statement after having used the website for a short but reasonable amount of time: "I readily understood that the only personal information required for functionality is an email address or a phone number. I also understood that the site does not require or even accept payment information nor any other sensitive information. I would generally trust that my email and/or phone number would be secure should I provide the site with either."
+
 
 ## 5. MVP
 What will be your MVP? Which features are you going to validate? How?
