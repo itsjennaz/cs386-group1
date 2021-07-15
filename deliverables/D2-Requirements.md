@@ -94,7 +94,7 @@ be a good opportunity to start thinking about usability.
 1. Use case begins when the user enters the site
 
 **Alternative Flow**:
-	* User can search for a specific item
+1. User can search for a specific item
 
 ### Use Case 2: Select Items
 
@@ -111,7 +111,7 @@ be a good opportunity to start thinking about usability.
 2. When the item is selected, the user will be prompted for their notification preference
 
 **Alternative Flow**:
-	* The user continues to browse
+1. The user continues to browse
 
 ### Use Case 3: Receive SMS Notification 
 
