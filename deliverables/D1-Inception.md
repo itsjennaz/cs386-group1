@@ -115,7 +115,7 @@ AlertX is a inventory alert system that intends to give customers a better shot 
     * Needs to be User Friendly, and attractive to eye
 * Representative Quotes:
     * "I don't have a need for the new PS5."
-    * "Could it track products in from foreign markets? (Japeness, Chinesse, German)"
+    * "Could it track products in from foreign markets? (Japenese, Chinese, German, etc.)"
     * "Exclusive items, such as trading cards or certain comic, would be nice."
 * Assessment:
     * Must Have: Foreign market/limited addition items
