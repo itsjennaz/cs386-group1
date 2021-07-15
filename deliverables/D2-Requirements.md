@@ -83,7 +83,7 @@ https://people.cs.clemson.edu/~johnmc/courses/Publish/openup/guidances/templates
 After each use case description, add a sketch of the corresponding user interface. This will
 be a good opportunity to start thinking about usability.
 
-**Use Case**: Receive SMS Notification 
+**Use Case 1**: Receive SMS Notification 
 
 **Actor**: SMS User  
 
@@ -102,6 +102,28 @@ be a good opportunity to start thinking about usability.
 
 **Alternative Flow**:
 1. The user must allow their device to recieve the specified type of notification.
+
+
+**Use Case 2**: Select an item for tracking
+
+**Actor**: General user  
+
+**Description**: A user finds an item they wish to track, and adds it to their set of tracked items.
+
+**Preconditions**: They have created an account an provided a means of notification. Also, the item to be tracked is not already in stock at the time of tracking.
+
+**Postconditions**: The user will recieve a notification when the tracked item comes back into stock.
+
+**Main Flow**:
+
+1. The user logs into their account.
+2. The user chooses an item to track.
+3. The site verifies that the item is out of stock and that the user has a registered email or phone number.
+4. The user will recieve the proper notification(s) when the item comes back into stock.
+
+**Alternative Flow**:
+a. The item is already in stock.
+    1. The site will explain this to the user, and not track the product.
 
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
