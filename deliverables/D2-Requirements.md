@@ -41,7 +41,7 @@ Developers: A functioning, clean interface that successfully gathers information
   1. Restock notifications must be fast enough before being sold out again, without person knowing.
   2. Alerts/subcription restock emails should be simple and customer should not get spammed with them.
   3. Make sure the software does not cost the customer anything.
-  4. Software could automatically brings user to checkout page on a certain out of stock item that the customer wants.
+  4. Software could automatically bring user to checkout page on a certain out of stock item that the customer wants.
   5. Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
   6. Make our software more unique as many other companies have a similar site.
   7. Have a text message alert notification option.
