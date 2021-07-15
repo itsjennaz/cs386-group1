@@ -200,12 +200,6 @@ be a good opportunity to start thinking about usability.
 	* The use case resumes at basic flow step 2.
 
 ## 7. User Stories
-Write two user stories for each member of the group. They can be related to the same
-features described in the use cases or to different ones. Adopt the following format: "As a
-<ROLE>, I want <SOMETHING> so that <GOAL>."
-Establish a priority level for each user story and estimate how many hours each one will
-demand using the planning poker approach.
-
 1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority high, 5hrs)
 2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority medium, 15hrs)
 3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority high, 5hrs)
