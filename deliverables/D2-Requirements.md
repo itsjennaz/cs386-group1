@@ -123,8 +123,8 @@ be a good opportunity to start thinking about usability.
 
 **Alternative Flow**:
 
-* The item is already in stock.
- * The site will explain this to the user, and not track the product.
+1. The item is already in stock.
+    * The site will explain this to the user, and not track the product.
 
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
