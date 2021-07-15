@@ -85,23 +85,26 @@ be a good opportunity to start thinking about usability.
 
 #### Use Case 1: Receive SMS Notification 
 
-**Actor**: SMS User  
+**Actor**: SMS Receiver 
 
-**Description**: Once the User has signed up for our services they will receive notification Via email and/or SMS.
+**Description**: The User will use our services to receive a notification Via SMS.
 
-**Preconditions**: They have a registered account with our services and have a device that can receive email and SMS.
+**Preconditions**: They have a registered account with our services and have a device that can receive SMS.
 
-**Postconditions**: The AlertX User will now receive catered notifications Via SMS, or email, on specified products that recently have come back in stock.
+**Postconditions**: The AlertX User will now receive catered notifications Via SMS on specified products that recently have come back in stock.
 
-**Main Flow**:
+**Basic Flow**:
 
-1. Actor logs into the AlertX Website and creates an account.
-2. They can now choose to receive SMS or email (or both) notifications.
-3. The user will choose certain products to receive notifications on.
+1. User will browse and select which items to be notified about .
+2. The user can than select their notification preference.
+3. To be notified Via SMS the user will enter their phone number.
 4. The user will now receive catered notifications on the specified products.
 
+
 **Alternative Flow**:
-1. The user must allow their device to recieve the specified type of notification.
+1. If in step 3 of the basic flow an invalid phone number is entered.
+	a. The user will be promped to enter a valid phone number.
+	b. The use case resumes at basic flow step 4.
 
 
 #### Use Case 2: Select an item for tracking
