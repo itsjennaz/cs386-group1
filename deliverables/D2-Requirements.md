@@ -83,6 +83,42 @@ https://people.cs.clemson.edu/~johnmc/courses/Publish/openup/guidances/templates
 After each use case description, add a sketch of the corresponding user interface. This will
 be a good opportunity to start thinking about usability.
 
+####Use Case: Browse Items
+#####Brief Description
+- The user browses items in the website
+
+#####Actor
+- User
+
+#####Pre-conditions
+- The user navigates to the website
+
+#####Post-Conditions
+- User can select items they would like to receive stock notifications for
+
+#####Basic Flow
+1. Use case begins when the user enters the site
+
+#####Alternative Flow
+- User can search for a specific item
+
+####Use Case: Select Items
+#####Description
+- User selects an item that they wish receive notifications for
+
+#####Pre-Conditions
+- User browses items
+
+#####Post-Conditions
+- User chooses method of delivery (SMS or email)
+
+#####Basic Flow
+1. Use case begins when the user browses items and selects a specific item
+2.  When the item is selected, the user will be prompted for their notification preference
+
+#####Alternative Flow
+- The user continues to browse
+
 **Use Case 1**: Receive SMS Notification 
 
 **Actor**: SMS User  
