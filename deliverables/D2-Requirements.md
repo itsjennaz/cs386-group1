@@ -83,7 +83,7 @@ https://people.cs.clemson.edu/~johnmc/courses/Publish/openup/guidances/templates
 After each use case description, add a sketch of the corresponding user interface. This will
 be a good opportunity to start thinking about usability.
 
-### Use Case 1: Receive SMS Notification 
+#### Use Case 1: Receive SMS Notification 
 
 **Actor**: SMS User  
 
@@ -104,7 +104,7 @@ be a good opportunity to start thinking about usability.
 1. The user must allow their device to recieve the specified type of notification.
 
 
-### Use Case 2: Select an item for tracking
+#### Use Case 2: Select an item for tracking
 
 **Actor**: General user  
 
@@ -122,8 +122,8 @@ be a good opportunity to start thinking about usability.
 4. The user will recieve the proper notification(s) when the item comes back into stock.
 
 **Alternative Flow**:
-a. The item is already in stock.
-    1. The site will explain this to the user, and not track the product.
+* The item is already in stock.
+ * The site will explain this to the user, and not track the product.
 
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
