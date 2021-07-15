@@ -29,7 +29,7 @@ Users: Potential users shop online often and seek a solution to avoiding leaving
 
 Clients: Individuals and companies that nust be alerted as to when supplies and products which sell out rapidly.
 
-Competetors: Software which offer similar features and possibly offer more varieties of API.
+Competitors: Software which offer similar features and possibly offer more varieties of API.
 
 Detractors: The expectation is that the website has a clean, easy-to-understand interface that accurately fetches product stocks in the API.
 
