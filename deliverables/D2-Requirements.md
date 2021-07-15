@@ -194,8 +194,8 @@ Grading: 6 points – Use the provided format. The user stories should be in an 
 level of granularity (not too broad nor too specific). Provide the priority and estimation
 for each user story.
 
-1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs.
-2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible.
+1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority #?, approximately ? hours)
+2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority #?, approximately ? hours)
 3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
 4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
 
