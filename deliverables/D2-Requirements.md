@@ -3,25 +3,23 @@
 ## 1. Positioning
 
 ### 1.1 Problem Statement
-(View D2. Requirements for rubric, it has some visuals I can not copy)
+
+The problem of waiting for products that are frequently out of stock affects customers; the 
+impact of which is struggling to purchase desired products.
 
 ### 1.2 Product Position Statement
-(View D2. Requirements for rubric, it has some visuals I can not copy)
+
+For customers who check for items that are frequently out of stock, AlertX is an alert system 
+that notifies a shopper as soon as their desired product comes back into stock; unlike the product's 
+website, our product offers a customizeable notification system to ensure you know exactly when an 
+item is back in store. 
 
 ### 1.3 Value Proposition and Customer Segment
-Report the value propositions and customer segments of your product. Make sure that
-your value proposition is coherent with the product position statement and contains the
-following elements: i) what your product is; ii) the target customer; iii) the value your
-product provides; and iv) why your product is unique.
-Example:
-Value proposition: MyPrioritizationApp is a crowdsourced planning app {(i) what your
-product is} that allows college students {(ii) target costumer} to make better use of their time {(iii)
-the value your product provides}, prioritizing homework based on more accurate information of
-required time and complexity of the assignments {(iv) why your product is unique}.”
-Consumer segment: College students who have many parallel homework assignments
-Grading: 3 points (1 point each section) – The content of the subsections should contain all
-the required elements, follow the provided template, and be consistent with each other.
-The text should not contain typos or grammar issues.
+
+Value proposition: AlertX is a notification system app that allows customers to avoid the wait, 
+track it once and get a personal notification when that item is back in store.
+
+Consumer segment: Customers who frequently check for an out-of-stock item.
 
 ## 2. Stakeholders
 
