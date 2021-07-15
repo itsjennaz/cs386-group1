@@ -21,7 +21,6 @@ track it once and get a personal notification when that item is back in store.
 
 (Added by colin, feel free to change): AlertX is a inventory tracker that gives you the opportunity to finally obtain that one item that's always out of stock!
 
-
 Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
 ## 2. Stakeholders
@@ -95,17 +94,15 @@ be a good opportunity to start thinking about usability.
 
 **Basic Flow**:
 
-1. User will browse and select which items to be notified about .
+1. User will browse and select which items to be notified about.
 2. The user can than select their notification preference.
 3. To be notified Via SMS the user will enter their phone number.
 4. The user will now receive catered notifications on the specified products.
-
 
 **Alternative Flow**:
 1. If in step 3 of the basic flow an invalid phone number is entered.
 	a. The user will be promped to enter a valid phone number.
 	b. The use case resumes at basic flow step 4.
-
 
 #### Use Case 2: Select an item for tracking
 
@@ -128,6 +125,28 @@ be a good opportunity to start thinking about usability.
 
 1. The item is already in stock.
     * The site will explain this to the user, and not track the product.
+
+#### Use Case 3: Receive Email Notification
+
+**Actor**: Email Receiver 
+
+**Description**: The User will use our services to receive a notification Via email.
+
+**Preconditions**: They have a registered account with our services and have a device that can receive emails.
+
+**Postconditions**: The AlertX User will now receive catered notifications Via email on specified products that recently have come back in stock.
+
+**Basic Flow**:
+
+1. User will browse and select which items to be notified about.
+2. The user can than select their notification preference.
+3. To be notified Via email the user will enter their email address.
+4. The user will now receive catered notifications on the specified products.
+
+**Alternative Flow**:
+1. If in step 3 of the basic flow an invalid email address is entered.
+	a. The user will be promped to enter a valid email address.
+	b. The use case resumes at basic flow step 4.
 
 Grading: 4 points – Follow the template to describe the use cases. Present an interface
 sketch for each use case. Describe the use case as a dialog between the user and the
