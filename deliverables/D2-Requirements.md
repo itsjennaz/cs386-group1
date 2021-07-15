@@ -80,10 +80,11 @@ https://people.cs.clemson.edu/~johnmc/courses/Publish/openup/guidances/templates
 After each use case description, add a sketch of the corresponding user interface. This will
 be a good opportunity to start thinking about usability.
 
-**Use Case 1** : Browse Items
-**Description**: The user browses items in the website
+### Use Case 1: Browse Items
 
-**Actor**:User
+**Actor**: User
+
+**Description**: The user browses items in the website
 
 **Pre-conditions**: The user navigates to the website
 
@@ -95,7 +96,10 @@ be a good opportunity to start thinking about usability.
 **Alternative Flow**:
 	* User can search for a specific item
 
-**Use Case 2*: Select Items
+### Use Case 2: Select Items
+
+**Actor**: User
+
 **Description**: User selects an item that they wish receive notifications for
 
 **Pre-Conditions** : User browses items
@@ -109,7 +113,7 @@ be a good opportunity to start thinking about usability.
 **Alternative Flow**:
 	* The user continues to browse
 
-**Use Case 3**: Receive SMS Notification 
+### Use Case 3: Receive SMS Notification 
 
 **Actor**: SMS Receiver 
 
@@ -131,7 +135,7 @@ be a good opportunity to start thinking about usability.
 	* The user will be promped to enter a valid phone number.
 	* The use case resumes at basic flow step 4.
 
-**Use Case 4**: Select an item for tracking
+### Use Case 4: Select an item for tracking
 
 **Actor**: General user  
 
@@ -153,7 +157,7 @@ be a good opportunity to start thinking about usability.
 1. The item is already in stock.
 	* The site will explain this to the user, and not track the product.
 
-**Use Case 5**: Receive Email Notification
+### Use Case 5: Receive Email Notification
 
 **Actor**: Email Receiver 
 
