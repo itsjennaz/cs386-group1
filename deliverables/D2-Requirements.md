@@ -177,6 +177,28 @@ be a good opportunity to start thinking about usability.
 	* The user will be promped to enter a valid email address.
 	* The use case resumes at basic flow step 4.
 
+### Use Case 6: Select Notification Preference 
+
+**Actor**: Notification Receiver 
+
+**Description**: The User will use our services to receive a notification Via their preferrence.
+
+**Preconditions**: They have a registered account with our services and have a device that can receive email or SMS notifications.
+
+**Postconditions**: The AlertX User will now receive catered notifications on specified products that recently have come back in stock.
+
+**Basic Flow**:
+
+1. User will browse and select which items to be notified about.
+2. The user can then select their notification preference.
+3. To be notified Via SMS or email, the user will enter their phone number or email respectively.
+4. The user will now receive catered notifications on the specified products.
+
+**Alternative Flow**:
+1. If in step 2 they do not choose SMS or email:
+	* The user will be reprompted to make at least one selection.
+	* The use case resumes at basic flow step 2.
+
 ## 7. User Stories
 Write two user stories for each member of the group. They can be related to the same
 features described in the use cases or to different ones. Adopt the following format: "As a
