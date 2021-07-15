@@ -4,22 +4,22 @@
 
 ### 1.1 Problem Statement
 
-The problem of waiting for products that are frequently out of stock affects customers; the 
+The problem of waiting for products that are frequently out of stock affects consumers; the 
 impact of which is struggling to purchase desired products.
 
 ### 1.2 Product Position Statement
 
-For customers who check for items that are frequently out of stock, AlertX is an alert system 
+For consumers who check for items that are frequently out of stock, AlertX is an alert system 
 that notifies a shopper as soon as their desired product comes back into stock; unlike the product's 
 website, our product offers a customizeable notification system to ensure you know exactly when an 
 item is back in store. 
 
 ### 1.3 Value Proposition and Customer Segment
 
-Value proposition: AlertX is a notification system app that allows customers to avoid the wait, 
+Value proposition: AlertX is a notification system app that allows shoppers to avoid the wait, 
 track it once and get a personal notification when that item is back in store.
 
-Consumer segment: Customers who frequently check for an out-of-stock item.
+Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
 ## 2. Stakeholders
 
