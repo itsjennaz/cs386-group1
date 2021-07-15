@@ -36,16 +36,16 @@ Detractors: The expectation is that the website has a clean, easy-to-understand 
 Developers: A functioning, clean interface that successful gathers information about product stocks and deliver the information to the user.
 
 ## 3. Functional Requirements (features)
-Make a numbered list of requirements for your software. Just self-explanatory titles are
-enough at this point. Remember that requirements should deliver the value proposition
-and they must be consistent with the interviews you performed for the previous
-deliverable. You can talk again to your clients to help defining the requirements. While
-writing the requirements, focus on capabilities needed and not on how they should be
-implemented.
-Grading: 2 points – The list should be comprehensive (remember that you are not expect
-to implement all the requirements by the end of the course but you should list them).
-Follow the same pattern to describe all the requirements. The list of requirements should
-be coherent with the previous sections.
+
+  i) Restock notifications must be fast enough before being sold out again, without person knowing.
+  ii) Alerts/subcription restock emails should be simple and customer should not get spammed with them.
+  iii) Make sure the software does not cost the customer anything.
+  iv) Software could automatically purchase a certain out of stock item that the customer wants.
+  v) Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
+  vi) Make our software more unique as many other companies have a similar site.
+  vii) Have a text message alert notification option.
+  viii) Be accurate with what is in stock online and in store.
+  ix) Avoid bots or scalpers from buying all of the popular restocked items.
 
 ## 4. Non-functional requirements
 
