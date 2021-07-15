@@ -53,11 +53,9 @@ Grading: 2 points – Follow the ISO-IEC terminology, explain why they are impor
 provide verifiability criteria for each requirement.
 
 ## 5. MVP
-What will be your MVP? Which features are you going to validate? How?
-Grading: 4 points – Describe what would be considered the Minimal Viable Product and
-how it will be tested (e.g., via implementation, prototyping, Wizard of Woz, etc.). Make
-clear what you are going to validate. The MVP should be coherent with the previous
-sections.
+Our MVP is going to give our clients access to a limited selection of "popular" items that
+are typically out of stock. Customers will then be notified via their preferred delivery method (email or SMS) when
+their selected item(s) come back into stock. Many interviewees claimed that a "pretty" and easy to use interface was essential; The website will be user friendly and simple to navigate to ensure a pleasent and productive experience for our clients. Since we are already going to be sending customers emails/SMS, we can directly monitor and validate our MVP by analyzing links that are clicked within; Customers will also have the opportunity to send feedback via our dedicated customer feedback email.
 
 ## 6. Use Cases
 
