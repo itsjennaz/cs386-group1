@@ -6,9 +6,7 @@ sections to structure your deliverable. See the “Team Project Instructions” 
 formatting. 
 
 ## 1. System Description
-In the initial paragraph, provide a brief textual description of your system. This
-description must contain the problem statement, the product position statement, and the
-value proposition of your system (refined versions of what you presented in D.2). 
+  The problem of waiting for products that are frequently out of stock affects customers; the impact of which is struggling to purchase desired products. For customers who continuously check for items out of stock, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock; unlike the product’s website, our product offers a customizable notification system to ensure you know exactly when you can purchase an item. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products. AlertX is an inventory tracker that allows shoppers go avoid the wait, track it once and get a personal notification when that item is back in store. 
 
 The following paragraphs should describe the key requirements of the system. This
 description should be consistent with D.2 stakeholders, requirements, use cases, and user
