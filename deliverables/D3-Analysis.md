@@ -1,9 +1,5 @@
-# Team Project – D.3 Analysis
+#D.3 Analysis
 
-Grading: 30 points
-In this deliverable, report the results of the software analysis for your project. Use the following
-sections to structure your deliverable. See the “Team Project Instructions” for details about
-formatting. 
 
 ## 1. System Description
 Waiting for products that are frequently out of stock is a hassle for customers, the impact of which is struggling or being unable to purchase a desired product. For customers who continuously check for such items, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Unlike the most products' websites, our solution offers a customizable notification system to ensure you know exactly when you can purchase an item. Especially recently, many items have been in high demand and limited supply. AlertX is an inventory tracker that will allow shoppers to take advantage of limited opportunities, track something once and get a personal notification when that item is back in stock. 
