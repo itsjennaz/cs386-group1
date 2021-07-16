@@ -11,6 +11,8 @@ One of the key requirements in our system is <ins>being able to have quick resto
 
 Our software offers a fighting chance to all shoppers. We have an intuitive, clean interface that presents information about products and their stock status to users. Using the system, users are able to customize for which products they want to recieve notifcations. This is a free and easy way to stay in the know about what is in stock online. They are able to use the **search** to <ins>find any product</ins> they are looking for. Once they have found the right one, they <ins>can add it</ins> to their **selection**. After the **user** selects a desired product, they can personalize their notifications. They can select whether they would prefer SMS notifications, email notifications, or both. Those who value the speed and convienence of a text message have the option, while those who do not want to be bothered on their cell phone can choose email.
 
+Our product will also implement a **Merchant** class which will be used to assist in the <ins>tracking of products</ins>. This class will implement _api and web scraping_ as tools to help see what a certain **Merchant** is selling. Another key requirement, our product uses is a **Database**. Within this **Database**, <ins>basic user information</ins> is documented to help notify the **User** of their product via their desired **Notification** preference.
+
 The central requirement of our system is is that restock notifications are accurate and up to date with the current market. Users have acces to their own **search history** where they can <ins>view everything they track</ins>. To this end, some form of automation must be performed regularly to update that statuses of all tracked products.
 
 
