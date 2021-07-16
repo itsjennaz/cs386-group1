@@ -1,4 +1,4 @@
-# Team Project – D.3 Analysis
+#Team Project – D.3 Analysis
 
 Grading: 30 points
 In this deliverable, report the results of the software analysis for your project. Use the following
@@ -47,3 +47,17 @@ Grading: 25 points. You should correctly use the UML specification. Your model s
 have the minimum number of classes. Your domain should be adequately modeled. The
 model should avoid unnecessary complexity, repetition, lack of cohesion, and coupling.
 The classes should be in an adequate abstraction level.
+
+
+## Class ideas
+
+**Class / Attributes / Methods**
+
+Product / stock status, merchant(s) at which tracked, associated emails, associated phone #s / sendInStockNotification(), trackWithEmail(), trackWithSMS()
+
+Merchant / website url, method of access (api or scrape), number of tracked products / addTrackableProduct(), removeTrackableProduct()
+
+Email / value, verified (boolean) / sendConfirmationEmail(), sendStockNotification()
+
+Phone number / value / sendStockNotification()
+
