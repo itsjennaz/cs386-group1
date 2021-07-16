@@ -16,10 +16,8 @@ item is back in store.
 
 ### 1.3 Value Proposition and Customer Segment
 
-Value proposition: AlertX is a notification system app that allows shoppers to avoid the wait, 
+Value proposition: AlertX is an inventory tracker that allows shoppers to avoid the wait, 
 track it once and get a personal notification when that item is back in store.
-
-(Added by colin, feel free to change): AlertX is a inventory tracker that gives you the opportunity to finally obtain that one item that's always out of stock!
 
 Consumer segment: Shoppers who frequently check for an out-of-stock item.
 
@@ -38,7 +36,7 @@ Developers: A functioning, clean interface that successfully gathers information
 ## 3. Functional Requirements (features)
 
   1. Restock notifications must be fast enough before being sold out again, without person knowing.
-  2. Alerts/subcription restock emails should be simple and customer should not get spammed with them.
+  2. Alerts/subscription restock emails should be simple and customer should not get spammed with them.
   3. Make sure the software does not cost the customer anything.
   4. Software could automatically bring user to checkout page on a certain out of stock item that the customer wants.
   5. Track products in foreign markets(i.e. Japanese, Chinese, German, etc.)
@@ -55,7 +53,7 @@ Developers: A functioning, clean interface that successfully gathers information
 
 **3. Usability.** Being able to intuitively interact with the webpage is important, otherwise first-time users will be frustrated and stop using the product. At least 4 out of 5 test users should agree with the following statement after having used the website for a short but reasonable amount of time: "The website layout was intuitive to me; I was able to understand and perform the basic actions necessary to create an account, track a product, and enter my contact information."
 
-**4. Security & Trustability** Tentative users are unlikely to become full users if they do not feel like they can trust our product with their personal information. At least 4 out of 5 test users should agree with the following statement after having used the website for a short but reasonable amount of time: "I readily understood that the only personal information required for functionality is an email address or a phone number. I also understood that the site does not require or even accept payment information nor any other sensitive information. I would generally trust that my email and/or phone number would be secure should I provide the site with either."
+**4. Security & Trustability.** Tentative users are unlikely to become full users if they do not feel like they can trust our product with their personal information. At least 4 out of 5 test users should agree with the following statement after having used the website for a short but reasonable amount of time: "I readily understood that the only personal information required for functionality is an email address or a phone number. I also understood that the site does not require or even accept payment information nor any other sensitive information. I would generally trust that my email and/or phone number would be secure should I provide the site with either."
 
 
 ## 5. MVP
@@ -94,7 +92,7 @@ be a good opportunity to start thinking about usability.
 1. Use case begins when the user enters the site
 
 **Alternative Flow**:
-	* User can search for a specific item
+1. User can search for a specific item
 
 ### Use Case 2: Select Items
 
@@ -111,7 +109,7 @@ be a good opportunity to start thinking about usability.
 2. When the item is selected, the user will be prompted for their notification preference
 
 **Alternative Flow**:
-	* The user continues to browse
+1. The user continues to browse
 
 ### Use Case 3: Receive SMS Notification 
 
@@ -126,7 +124,7 @@ be a good opportunity to start thinking about usability.
 **Basic Flow**:
 
 1. User will browse and select which items to be notified about.
-2. The user can than select their notification preference.
+2. The user can then select their notification preference.
 3. To be notified Via SMS the user will enter their phone number.
 4. The user will now receive catered notifications on the specified products.
 
@@ -170,7 +168,7 @@ be a good opportunity to start thinking about usability.
 **Basic Flow**:
 
 1. User will browse and select which items to be notified about.
-2. The user can than select their notification preference.
+2. The user can then select their notification preference.
 3. To be notified Via email the user will enter their email address.
 4. The user will now receive catered notifications on the specified products.
 
@@ -179,27 +177,42 @@ be a good opportunity to start thinking about usability.
 	* The user will be promped to enter a valid email address.
 	* The use case resumes at basic flow step 4.
 
-Grading: 4 points – Follow the template to describe the use cases. Present an interface
-sketch for each use case. Describe the use case as a dialog between the user and the
-system. Do not use UI language in the description of the use case.
+### Use Case 6: Select Notification Preference 
+
+**Actor**: Notification Receiver 
+
+**Description**: The User will use our services to receive a notification Via their preferrence.
+
+**Preconditions**: They have a registered account with our services and have a device that can receive email or SMS notifications.
+
+**Postconditions**: The AlertX User will now receive catered notifications on specified products that recently have come back in stock.
+
+**Basic Flow**:
+
+1. User will browse and select which items to be notified about.
+2. The user can then select their notification preference.
+3. To be notified Via SMS or email, the user will enter their phone number or email respectively.
+4. The user will now receive catered notifications on the specified products.
+
+**Alternative Flow**:
+1. If in step 2 they do not choose SMS or email:
+	* The user will be reprompted to make at least one selection.
+	* The use case resumes at basic flow step 2.
 
 ## 7. User Stories
-Write two user stories for each member of the group. They can be related to the same
-features described in the use cases or to different ones. Adopt the following format: "As a
-<ROLE>, I want <SOMETHING> so that <GOAL>."
-Establish a priority level for each user story and estimate how many hours each one will
-demand using the planning poker approach.
+1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority high, 5hrs)
+2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority medium, 15hrs)
+3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority high, 5hrs)
+4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority high, 2hrs)
+5. As a user, I want a software that updates its data regarding products quickly so that I get notified as soon as possible. (Priority high, 4hrs)
+6. As a user, I want an interface that is easy to navigate and understand so that I can find what I need quickly. (Priority high, 10hrs)
+7. As a user, I want to be able to customize the notifications I will recieve, so that I do not miss the alert when recieving hundreds of emails a day. (Priority high, 12hrs)
+8. As a user, I want to be able to track multiple items, so that I can purchase whichever comes back into stock first. (Priority high, 5hrs)
+9. As a user, I want multiple stores to choose from so that I can find something that I actually care about (Priority medium, 15hrs)
+10. As a user, I want an item to tell me how often it comes in stock, so I can have some sort of expectation (Priority low, 20hrs)
+11. As a user, I want to be easily removed from a notification list, so that I don't spammed (Priority high, 2hrs)
+12. As a user, I'd like to be able to view what items i'm signed up for, so I can remind my self what I signed up for(Priority medium, 5hrs)
 
-Grading: 6 points – Use the provided format. The user stories should be in an adequate
-level of granularity (not too broad nor too specific). Provide the priority and estimation
-for each user story.
-
-1. As a user, I want to be able to browse items so that I can choose which trackable item best suits my needs. (Priority #?, approximately ? hours)
-2. As a user, I want to be able to choose between recieving notifications via email, text message, or both, so that the notification(s) will be as convienient as possible. (Priority #?, approximately ? hours)
-3. As a user, I want to ensure that the restock notifications are accurate and fast so that I don't miss out on popular sold out items. (Priority #?, approximately ? hours)
-4. As a user, I want a software that automatically brings me to the checkout page on a certain out of stock item that I want so that the experience is easier and stress free. (Priority #?, approximately ? hours)
-5. As a user, I want a software that updates its data regarding products quickly so I know I'm getting notified as soon as possible. (Priority #?, approximately ? hours)
-6. As a user, I want an interface that is easy to understand and navigate so I can find what I need quickly. (Priority #?, approximately ? hours)
 
 ## 8. Issue Tracker
 The user stories should be registered as cards in a public board at Trello.com or another
@@ -208,5 +221,8 @@ did. From now on, we expect that you use an issue tracker to manage the project 
 
 Link To Trello: https://trello.com/b/Y4P9ZZVL/alertx
 
-Grading: 4 points – Provide the URL and screenshot of the issue tracker. The user stories
-should be registered there.
+**![trello issue tracker](https://user-images.githubusercontent.com/87100529/125738851-f66be6c2-794b-41cc-915a-dddc2f6e9650.JPG)
+**
+
+
+
