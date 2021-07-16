@@ -1,30 +1,11 @@
-# Team Project – D.3 Analysis
-
-Grading: 30 points
-In this deliverable, report the results of the software analysis for your project. Use the following
-sections to structure your deliverable. See the “Team Project Instructions” for details about
-formatting. 
+# D.3 Analysis
 
 ## 1. System Description
   The problem of waiting for products that are frequently out of stock affects customers; the impact of which is struggling to purchase desired products. For customers who continuously check for items out of stock, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock; unlike the product’s website, our product offers a customizable notification system to ensure you know exactly when you can purchase an item. Recently, a lot of markets have been dried up and left many consumers struggling to purchase their desired products. AlertX is an inventory tracker that allows shoppers go avoid the wait, track it once and get a personal notification when that item is back in store. 
 
-The following paragraphs should describe the key requirements of the system. This
-description should be consistent with D.2 stakeholders, requirements, use cases, and user
-stories – however, refinements are welcome. 
+  **Consumers** often have the problem of waiting for **products** that are frequently out of stock. For those consumers who check for items that are frequently out of stock, AlertX is an alert system that <u>notifies a shopper as soon as their desired product comes back into stock</u>. Unlike the product's **website**, our products offers a _customizable notifcation system_ to ensure you know exactly when an item is back in store or online. Track it once and get a personal **notification** when that item is back in stock. Although our software will offer similar features as our competitors, we probably offer more varieties of API. We will have a functioning, clean **interface** that successfully gathers _information about product stocks_ and _deliver the information to the user_.
 
-Use **Bold** every time that you use a noun that is a class in your model. Use *Italic* every
-time that you use a noun that is an attribute in your model. Use <u>Underline</u> every time
-that you use a noun or verb that is an association in your model. 
-
-Grading: 5 points. The description should be clear, concise, and well-written, free of typos
-and grammar problems. The use of bold, italic, and underline should be coherent with
-the model presented in Section 2---all classes, attributes, and associations from the model
-should appear in the text and their role in the system, as described in the text, should be
-consistent with the model. 
-
-  Consumers often have the problem of waiting for products that are frequently out of stock. For those consumers who check for items that are frequently out of stock, AlertX is an alert system that notifies a shopper as soon as their desired product comes back into stuck. Unlike the product's website, our products offers a customizable notifcation system to ensure you know exactly when an item is back in store or online. Track it once and get a personal notification when that item is back in stock. Although our software will offer similar features as our competitors, we probably offer more varieties of API. We will have a functioning, clean interface that successfully gathers information about product stocks and deliver the information to the user.
-
-  One of the key requirements in our system is being able to have quick restock notifications so that once the consumer gets a restock notification via email or text, they won't need to worry about that certain item being sold out again, without them knowing. Along with this, we need to have a text message notification option. Another requirement is to be accurate with what is in stock online and in store once something is restocked because stores are inconsistent with inventory. Also, we need to make sure we block out any bots from buying all of the popular restocked items.
+  One of the key requirements in our <u>system is being able to have quick restock notifications</u> so that once the <u>consumer gets a restock notification via email or text</u>, they won't need to worry about that certain item being sold out again, without them knowing. Along with this, we need to have a _text message notification option_. Another requirement is to be <u>accurate with what is in stock online and in store once something is restocked</u> because stores are inconsistent with inventory. Also, we need to make sure we <u>block out any bots from buying all of the popular restocked items</u>.
 
 ## 2. Model
 Provide the conceptual model of your system as a UML class diagram. Represent proper
