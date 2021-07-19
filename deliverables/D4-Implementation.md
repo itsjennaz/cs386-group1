@@ -68,13 +68,7 @@ thoroughness, consistency, coherence, and adequate use of language.
 
 ## 5. Deployment
 
-Describe how you are deploying your system in production. If you are using AWS, 
-remember that AWS Educate offers free credits for students. See the tutorial at 
-https://docker-curriculum.com/ on how to create a container and deploy it on AWS. 
-Provide a link for the system in production.
-
-Grading (4 points): This section will be graded based on the adequate use of the technology 
-and its adequate description.
+We are hosting our website on one of our member's virtual private servers. The site is reachable at: www.colinwood.dev/alertx. We are using Node.js as the backend framework and Express.js to handle routing. For local development, we simply open the .html files directly in our own browsers using the file:/// protocol.
 
 ## 6. Licensing
 
