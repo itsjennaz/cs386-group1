@@ -223,6 +223,3 @@ Link To Trello: https://trello.com/b/Y4P9ZZVL/alertx
 
 **![trello issue tracker](https://user-images.githubusercontent.com/87100529/125738851-f66be6c2-794b-41cc-915a-dddc2f6e9650.JPG)
 **
-
-
-
