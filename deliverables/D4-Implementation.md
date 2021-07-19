@@ -49,17 +49,12 @@ request by another developer.
 
 **List the adopted technologies with a brief description and justification for choosing them.**
 
-
 * Node.js - Our main backend technology. Node interprets our backend javascript and continuously serves our website by integrating with Express.
 * Express - Our route handler. We use Express to statically serve our website directory structure as it is hosted on our server.
 * Bootstrap - Our CSS and javascript library. We use Bootstrap components to create the client-side layout and styling of our website.
 * ...
 
-Grading (2 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, and adequate use of language.
-
 ## 4. Learning/training
-**Describe the strategies employed by the team to learn the adopted technologies.**
 
 Our team's primary learning strategy has been to research and assign in to each group members according to interests and availability during a weekly cyle. Our original idea was to use Best Buy's API that implemented technologies like Bootstrap, Node.js, and VS Code. However, we then discovered that Best Buy's API may not be available, so we decided to go with Newegg's API that implements Java SDK and possibly web-scrape that implements Python. We discovered in our project that Java SDK could be difficult for everyone to learn and web-scraping could be easier as it implements Python. 
 
