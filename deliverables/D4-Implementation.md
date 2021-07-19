@@ -71,12 +71,7 @@ We are hosting our website on one of our member's virtual private servers. The s
 
 ## 6. Licensing
 
-Inform the license you adopted for your source code (remember to configure GitHub 
-accordingly). Explain why you adopted this license. For more information, check 
-https://choosealicense.com/ and http://redhat.slides.com/glikins/open-sourcelicensing-101#/
-
-Grading (2 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, and adequate use of language.
+This project has adopted the MIT Licences for its general use and flexibility. This allows us to use our code in a buisness capacity and for commercial purposes as we see fit. Other people may use our code as well, so long as they credit us as the original author; If others decide to use our code or software, we can not be held liable under the MIT license, which for our purposes, is a benefit. Right now, the MIT license will suit our needs appropiately, it is incredibly permissive but also supplies the perfect amount of protection.
 
 ## 7. Readme File
 
