@@ -31,9 +31,9 @@ programming activities and report several pull requests.
 
 ### Example:
 
-* Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo 
-list.
-* Issue: <link to your Trello or GitHub issue>
+* Requirement: _As a Student, I want to add a homework assignment so that I can organize my ToDo 
+list._
+* Issue:  (link to your Trello or GitHub issue)
 * Pull request: https://github.com/user/project/pull/426
 * Implemented by: Martin Fowler
 * Approved by: Ada Lovelace
