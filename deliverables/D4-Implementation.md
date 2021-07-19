@@ -54,17 +54,18 @@ request by another developer.
 
 ## 3. Adopted technologies
 
-List the adopted technologies with a brief description and justification for choosing them.
+**List the adopted technologies with a brief description and justification for choosing them.**
+
 
 Grading (2 points): This section will be evaluated in terms of correctness, completeness,
 thoroughness, consistency, coherence, and adequate use of language.
 
 ## 4. Learning/training
+**Describe the strategies employed by the team to learn the adopted technologies.**
 
-Describe the strategies employed by the team to learn the adopted technologies. 
+Our team's primary learning strategy has been to research and assign in to each group members according to interests and availability during a weekly cyle. Our original idea was to use Best Buy's API that implemented technologies like Bootstrap, Node.js, and VS Code. However, we then discovered that Best Buy's API may not be available, so we decided to go with Newegg's API that implements Java SDK and possibly web-scrape that implements Python. We discovered in our project that Java SDK could be difficult for everyone to learn and web-scraping could be easier as it implements Python. 
 
-Grading (2 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, and adequate use of language.
+For any given topic, most of our members research independently, then educate the rest of the group on what we have learned either during meetings or on Discord. Since some people had prior knowledge, we were able to cover some topics early on during our weekly meetings and setup the framework, Bootsrap, and hosted a website. Throughout the semester, we have used Discord as a source for posting resources and keeping everyone up to date. During this time, in-person meetings are not possible, but we have effectively used Discord to screen-share and communicate and Trello to keep us all busy with tasks and develop productively. As the web application continues to develop, we hope this cycle of learning, sharing, and modification continues. 
 
 ## 5. Deployment
 
