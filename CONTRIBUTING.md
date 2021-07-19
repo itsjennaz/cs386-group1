@@ -6,7 +6,7 @@ Please note we have a code of conduct(https://github.com/colinvwood/AlertX/blob/
 
 ## Pull Request Process
 
-1. Make contact with a core member of the Don't Panic team, and request approval to contribute something specific.
+1. Make contact with a core member of the AlertX team, and request approval to contribute something specific.
 2. Fork the repository, and make any pull request from your fork to our Master branch.
 3. Ensure any code is written in alignment with established project code style. Any questions? Just ask.
 4. Expect ongoing dialogue and constructive criticism. Thanks so much for contributing!
