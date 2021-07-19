@@ -1,9 +1,12 @@
 
 # How to contribute
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+Please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+Owners themselves can contribute via branches so that the other owners can approve or disapprove those changes.
 
-Please note we have a code of conduct(https://github.com/colinvwood/AlertX/blob/main/CODE_OF_CONDUCT.md). Please follow it in all your interactions with the project.
+Owners prefer communication via github or discord.
+
+We have a [code of conduct](https://github.com/colinvwood/AlertX/blob/main/CODE_OF_CONDUCT.md). Please follow it with all your interactions regarding AlertX.
 
 ## Pull Request Process
 
@@ -17,5 +20,7 @@ Working on your first Pull Request? You can learn how from this link: How to cre
 
 ## Not sure where to start? 
 
+Either contact an owner via discord or start right on github! Contribute to AlertX on github by opening an issue on the correct repository when you find you want to make changes. Feel free to review the [issue tracker](https://github.com/colinvwood/AlertX/issues) as well as on [trello](https://trello.com/b/Y4P9ZZVL/alertx). All users are welcome so come and start a conversation with us!
 
+One of the best ways you can contribute is by using Don't Panic yourself, and opening issues at the github repository when you find things that could be improved. If you're a developer, feel free to review the [issue tracker](https://github.com/ChrisKeefe/DontPanic/issues), and start a conversation with us if you see something you'd like to work on. All comers are welcome.
 
