@@ -56,6 +56,11 @@ request by another developer.
 
 List the adopted technologies with a brief description and justification for choosing them.
 
+* Node.js - Our main backend technology. Node interprets our backend javascript and continuously serves our website by integrating with Express.
+* Express - Our route handler. We use Express to statically serve our website directory structure as it is hosted on our server.
+* Bootstrap - Our CSS and javascript library. We use Bootstrap components to create the client-side layout and styling of our website.
+* ...
+
 Grading (2 points): This section will be evaluated in terms of correctness, completeness,
 thoroughness, consistency, coherence, and adequate use of language.
 
@@ -68,7 +73,7 @@ thoroughness, consistency, coherence, and adequate use of language.
 
 ## 5. Deployment
 
-We are hosting our website on one of our member's virtual private servers. The site is reachable at: www.colinwood.dev/alertx. We are using Node.js as the backend framework and Express.js to handle routing. For local development, we simply open the .html files directly in our own browsers using the file:/// protocol.
+We are hosting our website on one of our member's virtual private servers. The site is reachable at: www.colinwood.dev/alertx. We are using Node.js as the backend framework and Express to handle routing. For local development, we simply open the .html files directly in our own browsers using the file:/// protocol.
 
 ## 6. Licensing
 
