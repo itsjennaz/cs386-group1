@@ -8,14 +8,7 @@ details about formatting.
 
 ## 1. Introduction
 
-Provide a short paragraph that describes your system. This paragraph should contain the 
-value proposition and the description of the main features of the software. At the end of 
-the introduction, include links to your project on GitHub and Trello, which should be up to-date.
-
-Grading (2 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, and adequate use of language. The description 
-should be consistent with the current state of the project. You should include the links to 
-GitHub and Trello, which should be up-to-date.
+Designed for customers who continuously check for out of stock items, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Our solution offers a customizable notification system to ensure you know exactly when you can purchase an item, unlike most product's websites. With a clean and functioning interface, our user will successfully recieve gathered information about products and their stock status quickly so that they can worry less about a certain item being sold-out again. The search bar allows the user to search and select for products they desire to be notified about. After product selection, there is a customizeable notification page. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have acces to their own search history where they can view everything they track. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
 
 ## 2. Implemented requirements
 
