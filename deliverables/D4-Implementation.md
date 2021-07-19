@@ -1,4 +1,4 @@
-# Team Project – D.4 Implementation 1
+# D.4 Implementation 1
 
 Grading: 40 points
 For this deliverable, you should have a fully functional piece of software that delivers a set of 
