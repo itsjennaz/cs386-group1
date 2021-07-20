@@ -14,7 +14,7 @@ When contributing to this repository, please first discuss the change you wish t
 [Submitting changes](#Submitting-changes)
 
 ## Code Of Conduct
-This project and all participants are goverened by the [AlertX Code of Conduct](CODE_OF_CONDUCT.md). When participanting, it is required and expected to uphold this code.
+This project and all participants are goverened by the [AlertX Code of Conduct](CODE_OF_CONDUCT.md). When participating, it is required and expected to uphold this code.
 If necessary, report behavior to [sng235@nau.edu](mailto:sng235@nau.edu).
 
 ## Where to start? 
