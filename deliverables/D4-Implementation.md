@@ -69,20 +69,10 @@ We are hosting our website on one of our member's virtual private servers. The s
 This project has adopted the MIT Licences for its general use and flexibility. This allows us to use our code in a buisness capacity and for commercial purposes as we see fit. Other people may use our code as well, so long as they credit us as the original author; If others decide to use our code or software, we can not be held liable under the MIT license, which for our purposes, is a benefit. Right now, the MIT license will suit our needs appropiately, it is incredibly permissive but also supplies the perfect amount of protection.
 
 ## 7. Readme File
-
-You should also prepare your repository for receiving new contributors. See an example 
-of a Redme.md file at https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 3
-Besides the Readme.md file, your repository should contain a CONTRIBUTING.md 
-file, a LICENSE file, and a CODE_OF_CONDUCT.md file. Search online for some 
-examples of these files. In this section of the deliverable, put links to these files on GitHub.
-In the Readme file, the current version should be stated. You should follow the Semantic 
-Versioning schema (https://semver.org/). Tag the GitHub repository accordingly
-(https://git-scm.com/book/en/v2/Git-Basics-Tagging). 
-Remember that only stable code should be included in the release. Code that is still under 
-development should be in branches.
-
-Grading (4 points): This section will be based on the presence and quality of the 
-information presented in the files.
+[Readme.md](README.md)
+[Code of Conduct](CODE_OF_CONDUCT.md)
+[License](LICENSE)
+[Contributing)[CONTRIBUTING.md)
 
 ## 8. Look & feel
 
