@@ -81,11 +81,15 @@ In this section of the deliverable, put links to these files on GitHub.
 
 ## 8. Look & feel
 
-Describe the approach you adopted to design your user interface. Include some 
-screenshots.
+We desired a clean interface that takes you directly to viewable products. The simple design showcases our value propsition as well as what the website's purpose is.
 
-Grading (4 points): This section will be graded based on the appearance (aesthetics) and 
-usability (ease of use) of the system.
+![Home page layout sample](Capture.png)
+
+As for the product pages we choose one to showcase for layout purposes.
+
+![Product page layout sample](Capture2.png)
+
+This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. 
 
 ## 9. Lessons learned
 
