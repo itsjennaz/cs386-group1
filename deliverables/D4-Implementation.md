@@ -62,17 +62,8 @@ This simplistic design gets our purpose across most of all, however, moving forw
 
 ## 9. Lessons learned
 
-In retrospective, describe what your team learned during this first release and what you 
-are planning to change for the second release. 
-
-Grading (2 points): Adequate reflection about problems and solutions, clear description 
-with adequate use of language.
+Our team's initial development cycle went okay. Actual implementation of the website took more time than expected, and would have been a good idea to start on that even earlier. Our MVP is truly minimal as a result. From this development cycle, we have all gained a lot of information regarding how this application will continue to proceed with development. Each team member still feels they need to do a bit more research on what technologies are being used so that when issues occur it will be a faster and easier process to solve. We are getting more comfortable with git and github each day, moving forward this team plans to continue to communicate and interact substantially regarding this product.
 
 ## 10.Demo
 
-Include a link to a video showing the system working.
-
-Grading (8 points): This section will be graded based on the quality of the video and on the 
-evidence that the features are running as expected. Additional criteria are the relevance 
-of the demonstrated functionalities, correctness of the functionalities, and quality of the 
-developed system from the external point of view (user interface).
+Link to a video showing the system working: 
