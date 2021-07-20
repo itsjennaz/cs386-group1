@@ -31,10 +31,12 @@ This project adheres to the AlertX code of conduct. By participating, you are ex
 
 ### Node.js
 Install the latest [node.js](https://nodejs.dev/learn/how-to-install-nodejs) release.
+
 You can verify that node is installed by using "node -v" command.
 
 ### NPM
 Install the latest [npm] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) release.
+
 You can verify that npm is installed by using "npm -v" command.
 ### Steps
 
