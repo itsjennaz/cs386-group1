@@ -23,52 +23,10 @@
         </div>
     </nav>
 
-
     <p class="fs-1 border border-secondary border-4 rounded">
 	Trackable products...
     </p>
 
-    <div class="container">
-        
-      <div class="row">
-        <div class="col-md ">
-          <img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6462/6462556_sd.jpg;maxHeight=640;maxWidth=550" >
-        </div>
-        <div class="col-md">
-          
-        </div>
-        <div class="col-md">
-          
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-md ">
-          Geo - GeoBook 120 Minecraft Edition 12.5-inch HD Laptop - Intel Celeron Quad Core Processor - 4GB Memory - 64GB eMMC - Minecraft Green
-        </div>
-        <div class="col-md">
-          
-        </div>
-        <div class="col-md">
-          
-        </div>
-      </div>
-
-     <div class="row">
-        <div class="col-md">
-          $259.99
-        </div>
-        <div class="col-md">
-          
-        </div>
-        <div class="col-md">
-          
-        </div>
-      </div>
-
-    </div>
-
-    <p>Trackable products...</p>
     <ul>
         <% for (i = 0; i < products.length; i++) { %>
                <%- include('templates/product-preview.ejs', {"product": products[i]}); %>
