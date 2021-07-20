@@ -11,10 +11,10 @@ router.get('/alertx', function(req, res) {
 
 router.get('/alertx/products', function(req, res) {
     const database = req.database;
-    const product_info = database.get('sampleproduct');
+    const product_collection = database.get('products');
 
-    product_info.find({},{}, function(e, docs) {
-        res.render('products.ejs', { "sample_product": docs } );
+    product_collection.find({}, {}, function(e, docs) {
+        res.render('products.ejs', { "products": docs } );
     });
 });
 
