@@ -83,13 +83,13 @@ In this section of the deliverable, put links to these files on GitHub.
 
 We desired a clean interface that takes you directly to viewable products. The simple design showcases our value propsition as well as what the website's purpose is.
 
-![Home page layout sample](Capture.png)
+![Home page layout sample](home_page_sample.jpg)
 
 As for the product pages we choose one to showcase for layout purposes.
 
-![Product page layout sample](Capture2.png)
+![Product page layout sample](product_page_sample.jpg)
 
-This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. 
+This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. We intend to add more color to ensure our website does feel too standard.
 
 ## 9. Lessons learned
 
