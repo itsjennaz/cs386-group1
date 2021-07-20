@@ -27,7 +27,7 @@ router.get('/alertx/products/playstation-5', function(req, res) {
     const product_collection = database.get('products');
 
     product_collection.find({product: "Playstation 5"}, {}, function(e, docs) {
-        res.render('templates/product-page.ejs', { "product": docs } );
+        res.render('templates/product-page.ejs', { "product": docs[0] } );
     });
 });
 
@@ -36,7 +36,7 @@ router.get('/alertx/products/geobook-120-minecraft-edition', function(req, res) 
     const product_collection = database.get('products');
 
     product_collection.find({product: "GeoBook 120 Minecraft Edition"}, {}, function(e, docs) {
-        res.render('templates/product-page.ejs', { "product": docs } );
+        res.render('templates/product-page.ejs', { "product": docs[0] } );
     });
 });
 
