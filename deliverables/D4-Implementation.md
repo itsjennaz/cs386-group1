@@ -85,7 +85,7 @@ examples of these files. In this section of the deliverable, put links to these 
 
 We desired a clean interface that takes you directly to viewable products. The simple design showcases our value propsition as well as what the website's purpose is.
 
-![Home page layout sample](../site/public/image/home_page_sample.jpg)
+![Home page layout sample](./site/public/images/home_page_sample.jpg)
 
 As for the product pages we choose one to showcase for layout purposes.
 
