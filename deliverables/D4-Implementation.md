@@ -69,10 +69,10 @@ We are hosting our website on one of our member's virtual private servers. The s
 This project has adopted the MIT Licences for its general use and flexibility. This allows us to use our code in a buisness capacity and for commercial purposes as we see fit. Other people may use our code as well, so long as they credit us as the original author; If others decide to use our code or software, we can not be held liable under the MIT license, which for our purposes, is a benefit. Right now, the MIT license will suit our needs appropiately, it is incredibly permissive but also supplies the perfect amount of protection.
 
 ## 7. Readme File
-[Readme.md](README.md)
-[Code of Conduct](CODE_OF_CONDUCT.md)
-[License](LICENSE)
-[Contributing](CONTRIBUTING.md)
+-[Readme.md](README.md)
+-[Code of Conduct](CODE_OF_CONDUCT.md)
+-[License](LICENSE)
+-[Contributing](CONTRIBUTING.md)
 
 ## 8. Look & feel
 
