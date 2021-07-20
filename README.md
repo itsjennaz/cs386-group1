@@ -1,4 +1,6 @@
-# What is AlertX?
+## AlertX
+
+## What is AlertX?
 AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Our product utilizes, a customizable notification system to ensure you know exactly when you can purchase an item. Let AlertX handle the hassel for you, by tracking your desired products once and getting a personalized notification when that item is back in stock.
 
 ***"A fighting chance for your desired products"***
