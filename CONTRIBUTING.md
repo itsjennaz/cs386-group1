@@ -11,6 +11,8 @@ When contributing to this repository, please first discuss the change you wish t
 
 [Where to start?](#Where-to-start?)
 
+[Issue Tracker](#Issue-Tracker)
+
 [Submitting changes](#Submitting-changes)
 
 ## Code Of Conduct
@@ -20,6 +22,10 @@ If necessary, report behavior to [sng235@nau.edu](mailto:sng235@nau.edu).
 ## Where to start? 
 
 Familarize yourself with the AlertX project files. If you find any issues, please follow the steps for submitting changes. Issues that we are currently working on will be posted on our issue tracker. Make sure to get in contact with an AlertX team member if you wish to work on one of these issues, as there might be ongoing development.
+
+## Issue Tracker
+Current issues will be posted onto our [Trello](https://trello.com/b/Y4P9ZZVL/alertx).
+
 
 ## Submitting changes
 
@@ -34,5 +40,6 @@ Once again, we appericate your contributions!:+1:
 
 
 *(Working on your first Pull Request? You can learn how from this link: [How to create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)?)
+
 
 
