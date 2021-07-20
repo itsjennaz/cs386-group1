@@ -43,6 +43,6 @@ router.get('/alertx/products/geobook-120-minecraft-edition', function(req, res) 
     product_collection.find({product: "GeoBook 120 Minecraft Edition"}, {}, function(e, docs) {
         res.render('templates/product-page.ejs', { "product": docs[0] } );
     });
-]);
+});
 
 module.exports = router;
