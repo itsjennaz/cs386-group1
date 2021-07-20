@@ -25,11 +25,13 @@ This project adheres to the AlertX code of conduct. By participating, you are ex
 ### Prerequisites
 - [Git](https://git-scm.com)
 
-### node.js
+### Node.js
 Install the latest [node.js](https://nodejs.dev/learn/how-to-install-nodejs) release.
 
-### npm
+### NPM
 Install the latest [npm] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) release.
+
+### Steps
 
 -1 Navigate into the site/directory.
 
