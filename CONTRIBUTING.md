@@ -3,9 +3,18 @@
 
 The following is a set of guidelines for contributing to AlertX, and its packages. Please follow the guidelines as rules.
 
+
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [code of conduct](CODE_OF_CONDUCT.md) and it is expected to be followed in all interactions with this project.
 
 #### Table Of Contents
+
+Please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+Owners themselves can contribute via branches so that the other owners can approve or disapprove those changes.
+
+Owners prefer communication via github or discord.
+
+We have a [code of conduct](https://github.com/colinvwood/AlertX/blob/main/CODE_OF_CONDUCT.md). Please follow it with all your interactions regarding AlertX.
+
 
 [Code of Conduct](#code-of-conduct)
 
@@ -41,5 +50,4 @@ Once again, we appericate your contributions!:+1:
 
 *(Working on your first Pull Request? You can learn how from this link: [How to create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)?)
 
-
-
+Either contact an owner via discord or start right on github! Contribute to AlertX on github by opening an issue on the correct repository when you find you want to make changes. Feel free to review the [issue tracker](https://github.com/colinvwood/AlertX/issues) as well as on [trello](https://trello.com/b/Y4P9ZZVL/alertx). All users are welcome so come and start a conversation with us!
