@@ -29,7 +29,7 @@ This project adheres to the AlertX code of conduct. By participating, you are ex
 ## Installation: 
 
 ### Prerequisites
-- [Git](https://git-scm.com)
+
 
 ### Node.js
 Install the latest [node.js](https://nodejs.dev/learn/how-to-install-nodejs) release.
