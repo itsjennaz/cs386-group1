@@ -25,6 +25,15 @@ This project adheres to the AlertX code of conduct. By participating, you are ex
 ### Prerequisites
 - [Git](https://git-scm.com)
 
+### node.js
+Install the latest [node.js](https://nodejs.dev/learn/how-to-install-nodejs) release.
+
+### npm
+Install the latest [npm] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) release.
+
+-1 Navigate into the site/directory.
+-2 Run the server with "node app.js local"
+-3 Go to "localhost:8080" in your browser.
 
 Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
