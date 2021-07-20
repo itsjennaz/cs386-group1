@@ -42,11 +42,13 @@ Install the latest [npm] (https://docs.npmjs.com/downloading-and-installing-node
 You can verify that npm is installed by using "npm -v" command.
 ### Steps
 
--1 Navigate into the site/directory.
+-1 Update files to local system.
 
--2 Run the server with "node app.js local"
+-2 Navigate into the site/directory.
 
--3 Go to "localhost:8080" in your browser.
+-3 Run the server with "node app.js local"
+
+-4 Go to "localhost:8080" in your browser.
 
 ## Contributing
 
