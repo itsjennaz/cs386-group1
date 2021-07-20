@@ -89,7 +89,7 @@ We desired a clean interface that takes you directly to viewable products. The s
 
 As for the product pages we choose one to showcase for layout purposes.
 
-![Product page layout sample](../site/public/images/"product_page_sample.jpg")
+![Product page layout sample](../site/public/images/product_page_sample.jpg)
 
 This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. We intend to add more color to ensure our website does feel too standard.
 
