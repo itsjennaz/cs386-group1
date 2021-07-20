@@ -85,11 +85,11 @@ examples of these files. In this section of the deliverable, put links to these 
 
 We desired a clean interface that takes you directly to viewable products. The simple design showcases our value propsition as well as what the website's purpose is.
 
-![Home page layout sample](colinvwood/AlertX/site/public/image/"home_page_sample.jpg")
+![Home page layout sample](../site/public/image/"home_page_sample.jpg")
 
 As for the product pages we choose one to showcase for layout purposes.
 
-![Product page layout sample](colinvwood/AlertX/site/public/image/"product_page_sample.jpg")
+![Product page layout sample](../site/public/image/"product_page_sample.jpg")
 
 This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. We intend to add more color to ensure our website does feel too standard.
 
