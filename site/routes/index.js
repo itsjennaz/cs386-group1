@@ -6,15 +6,15 @@ router.get('/', function(req, res) {
 });
 
 router.get('/alertx', function(req, res) {
-    res.render('home.ejs', { welcome: "Welcome to AlertX" });
+    res.render('home.ejs');
 });
 
 router.get('/alertx/products', function(req, res) {
     const database = req.database;
-    const product_info = database.get('sampleproduct');
+    const product_collection = database.get('products');
 
-    product_info.find({},{}, function(e, docs) {
-        res.render('products.ejs', { "sample_product": docs } );
+    product_collection.find({}, {}, function(e, docs) {
+        res.render('products.ejs', { "products": docs } );
     });
 });
 
