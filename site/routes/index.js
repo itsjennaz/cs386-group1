@@ -22,4 +22,8 @@ router.get('/alertx/about-us', function(req, res) {
     res.render('about-us.ejs');
 });
 
+router.get('/alertx/sample-product', function(req, res) {
+    res.render('sample-product.ejs');
+});
+
 module.exports = router;
