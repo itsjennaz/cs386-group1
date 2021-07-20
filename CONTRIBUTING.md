@@ -3,32 +3,36 @@
 
 The following is a set of guidelines for contributing to AlertX, and its packages. Please follow the guidelines as rules.
 
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
-
-Please note we have a code of conduct(https://github.com/colinvwood/AlertX/blob/main/CODE_OF_CONDUCT.md). Please follow it in all your interactions with the project.
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a [code of conduct](CODE_OF_CONDUCT.md) and it is expected to be followed in all interactions with this project.
 
 #### Table Of Contents
 
 [Code of Conduct](#code-of-conduct)
 
+[Where to start?](#Where-to-start?)
+
 [Submitting changes](#Submitting-changes)
 
 ## Code Of Conduct
-This project and all participants are goverened by the [AlertX Code of Conduct](CODE_OF_CONDUCT.md). When participanting, it is required and expected to uhold this code.
+This project and all participants are goverened by the [AlertX Code of Conduct](CODE_OF_CONDUCT.md). When participanting, it is required and expected to uphold this code.
 If necessary, report behavior to [sng235@nau.edu](mailto:sng235@nau.edu).
+
+## Where to start? 
+
+Familarize yourself with the AlertX project files. If you find any issues, please follow the steps for submitting changes. Issues that we are currently working on will be posted on our issue tracker. Make sure to get in contact with an AlertX team member if you wish to work on one of these issues, as there might be ongoing development.
+
 ## Submitting changes
 
 We are open to recommendations, however please follow the steps listed below when submitting a change.
 
-1. Make contact with a core member of the AlertX team, and request approval to contribute something specific.
-2. Fork the repository, and make any pull request from your fork to our Master branch.
-3. Ensure any code is written in alignment with established project code style. Any questions? Just ask.
-4. Expect ongoing dialogue and constructive criticism. Thanks so much for contributing!
+1. Make contact with a core member of the AlertX team and inform them of the change you wish to implemenet.(Preferred method; submit issue or email)
+2. Fork the repository, and submit any *[pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) from your fork to our Master branch.
+3. When submitting any code, please make sure it is written in alignment with the established project code style. If you have any questions, feel free to ask!
+4. A team memeber will be in contact regarding the contribtuion.
+
+Once again, we appericate your contributions!:+1:
 
 
-Working on your first Pull Request? You can learn how from this link: How to create a pull request?(https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
-## Not sure where to start? 
-
+*(Working on your first Pull Request? You can learn how from this link: [How to create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)?)
 
 
