@@ -6,7 +6,7 @@ router.get('/', function(req, res) {
 });
 
 router.get('/alertx', function(req, res) {
-    res.render('home.ejs', { welcome: "Welcome to AlertX" });
+    res.render('home.ejs');
 });
 
 router.get('/alertx/products', function(req, res) {
