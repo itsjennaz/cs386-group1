@@ -69,7 +69,9 @@ We are hosting our website on one of our member's virtual private servers. The s
 This project has adopted the MIT Licences for its general use and flexibility. This allows us to use our code in a buisness capacity and for commercial purposes as we see fit. Other people may use our code as well, so long as they credit us as the original author; If others decide to use our code or software, we can not be held liable under the MIT license, which for our purposes, is a benefit. Right now, the MIT license will suit our needs appropiately, it is incredibly permissive but also supplies the perfect amount of protection.
 
 ## 7. Readme File
-In this section of the deliverable, put links to these files on GitHub.
+Besides the Readme.md file, your repository should contain a CONTRIBUTING.md 
+file, a LICENSE file, and a CODE_OF_CONDUCT.md file. Search online for some 
+examples of these files. In this section of the deliverable, put links to these files on GitHub.
 
 -[Readme.md](https://github.com/colinvwood/AlertX/blob/main/README.md)
 
