@@ -18,7 +18,6 @@ app.use(express.json());
 app.use(express.urlencoded({'extended': false}));
 app.use(express.static(path.join(__dirname, 'public')));
 
-
 // make database accessible to the router
 app.use(function(req, res, next) {
    req.database = database;
