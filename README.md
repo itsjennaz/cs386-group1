@@ -6,6 +6,8 @@ AlertX is an inventory alert system that notifies a shopper as soon as their des
 ***"A fighting chance for your desired products"***
 
 ## Table of contents
+* [AlertX](#alertx)
+* [What is AlertX?](#what-is-alertx?)
 * [Authors](#authors)
 * [Installation](#installation)
 * [Contributing](#Contributing)
