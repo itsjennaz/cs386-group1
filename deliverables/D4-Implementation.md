@@ -70,8 +70,11 @@ This project has adopted the MIT Licences for its general use and flexibility. T
 
 ## 7. Readme File
 -[Readme.md](README.md)
+
 -[Code of Conduct](CODE_OF_CONDUCT.md)
+
 -[License](LICENSE)
+
 -[Contributing](CONTRIBUTING.md)
 
 ## 8. Look & feel
