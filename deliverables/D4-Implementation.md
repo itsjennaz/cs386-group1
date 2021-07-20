@@ -52,7 +52,6 @@ request by another developer.
 * Node.js - Our main backend technology. Node interprets our backend javascript and continuously serves our website by integrating with Express.
 * Express - Our route handler. We use Express to statically serve our website directory structure as it is hosted on our server.
 * Bootstrap - Our CSS and javascript library. We use Bootstrap components to create the client-side layout and styling of our website.
-* ...
 
 ## 4. Learning/training
 
