@@ -5,6 +5,8 @@ AlertX is an inventory alert system that notifies a shopper as soon as their des
 
 ***"A fighting chance for your desired products"***
 
+
+
 This project adheres to the AlertX code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [sng235@nau.edu](sng235@nau.edu).
 
 ## Authors
