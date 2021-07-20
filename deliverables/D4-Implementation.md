@@ -89,7 +89,7 @@ As for the product pages we choose one to showcase for layout purposes.
 
 ![Product page layout sample](Capture2.png)
 
-This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. 
+This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. We intend to add more color to ensure our website does feel too standard.
 
 ## 9. Lessons learned
 
