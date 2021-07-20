@@ -8,10 +8,12 @@ Designed for customers who continuously check for out of stock items, AlertX is 
 
 * Requirement: _As a consumer, I want to be able to search for all products that are available to track._
 * Issue: https://github.com/colinvwood/AlertX/issues/89
-* Pull request: (https://github.com/user/project/pull/426) <-------------needs to be changed from the example link to our link
+* Pull request: https://github.com/colinvwood/AlertX/pull/91
 * Implemented by: Colin Wood
 * Approved by: Georgia Buchanan and Kameron Dailey
 * Print screen: 
+  * ![Product Page Image](../site/public/images/Product_page.png)
+  * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
 ## 3. Adopted technologies
 
