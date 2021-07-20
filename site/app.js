@@ -1,5 +1,6 @@
 const express = require('express');
 const path = require('path');
+const http = require('http');
 const https = require('https');
 const fs = require('fs');
 const logger = require('morgan');
@@ -27,12 +28,20 @@ app.use(function(req, res, next) {
 const indexRouter = require(path.join(__dirname, 'routes/index.js'));
 app.use('/', indexRouter);
 
-// necessary for ssl
-let port = 443
+if (process.argv[2] == "local") {
+    let port = 8080;
 
-https.createServer({
-	key: fs.readFileSync('/root/ssl/colinwooddev.key'),
-	cert: fs.readFileSync('/root/ssl/colinwood_dev.pem'),
-}, app).listen(port)
+    http.createServer(app).listen(port);
+} else {
+    
+    // necessary for ssl
+    let port = 443
+
+    https.createServer({
+        key: fs.readFileSync('/root/ssl/colinwooddev.key'),
+        cert: fs.readFileSync('/root/ssl/colinwood_dev.pem'),
+    }, app).listen(port);
+}
+
 
 module.exports = app;
