@@ -61,9 +61,13 @@ appropriate.
 
 Implement each design pattern in your system and provide GitHub links to the
 corresponding classes. Example (the links are just illustrative):
+
 Car: https://github.com/user/repo/blob/master/src/com/proj/main/Car.java
+
 IBreakBehavior: https://github.com/user/repo/blob/master/src/com/proj/main/IBreakBehavior.java
+
 BrakeWithABS: https://github.com/user/repo/blob/master/src/com/proj/main/BrakeWithABS.java
+
 Brake: https://github.com/user/repo/blob/master/src/com/proj/main/Brake.java
 
 Grading: 6 points (3 pts each pattern). Criteria: Correct use of the design pattern as described
