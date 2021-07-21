@@ -1,4 +1,8 @@
-<li>
-    <img src="<%= product.image %>"
-    <p><%= product.product %></p>
-</li>
+<a href="<%= product.url %>">
+    <li style="padding: 25px 0; border: 2px solid grey;">
+        <img src="<%= product.image %>"
+        <p><%= product.product %></p>
+        <p><%= product.price %>
+        <p><%= product.description %></p>
+    </li>
+</a>
