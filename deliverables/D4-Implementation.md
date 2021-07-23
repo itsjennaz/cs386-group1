@@ -1,49 +1,19 @@
 # D.4 Implementation 1
 
-Grading: 40 points
-For this deliverable, you should have a fully functional piece of software that delivers a set of 
-features (don’t need to be the complete set, but it needs to be a working prototype). Structure 
-your deliverable according to the following sections. See the “Team Project Instructions” for 
-details about formatting. 
-
 ## 1. Introduction
 
 Designed for customers who continuously check for out of stock items, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Our solution offers a customizable notification system to ensure you know exactly when you can purchase an item, unlike most product's websites. With a clean and functioning interface, our user will successfully recieve gathered information about products and their stock status quickly so that they can worry less about a certain item being sold-out again. The search bar allows the user to search and select for products they desire to be notified about. After product selection, there is a customizeable notification page. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have acces to their own search history where they can view everything they track. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
 
 ## 2. Implemented requirements
 
-List in this section, the requirements and associated pull request that you implemented for 
-this release, following the example below---include the description of the requirement, 
-link to the issue, link to the pull request(s) that implement the requirement, who 
-implemented the requirement, who approved it, and a print screen that depicts the 
-implemented feature (if applicable). Order the requirements by the name of the student 
-who implemented it.
-We expect that you implement/prototype features you specified in your MVP (c.f. D.2 
-Requirements). We expect that all the members of the group have been involved in some 
-programming activities and report several pull requests. 
-
-### Example:
-
-* Requirement: _As a Student, I want to add a homework assignment so that I can organize my ToDo 
-list._
-* Issue:  (link to your Trello or GitHub issue)
-* Pull request: https://github.com/user/project/pull/426
-* Implemented by: Martin Fowler
-* Approved by: Ada Lovelace
-* Print screen: A print screen that depicts the implemented feature (if applicable)2
-Remember that all source code should be submitted by means of pull requests and the 
-quality assurance person in the team should review and approve each pull request. 
-* For more information about pull requests:
-https://help.github.com/articles/about-pull-requests/ 
-
-Grading (10 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, adequate use of language, and amount of work put 
-into the implementation. Students can receive different grades depending on their 
-involvement. It is expected that all members contribute with non-trivial implementation.
-All pull request should be approved and integrated by the quality assurance person. You 
-should follow an adequate workflow (description of the requirement on the issue tracker, 
-submission of the implemented requirement as a pull request, and review of the pull 
-request by another developer. 
+* Requirement: _As a consumer, I want to be able to search for all products that are available to track._
+* Issue: https://github.com/colinvwood/AlertX/issues/89
+* Pull request: https://github.com/colinvwood/AlertX/pull/91
+* Implemented by: Colin Wood
+* Approved by: Georgia Buchanan and Kameron Dailey
+* Print screen: 
+  * ![Product Page Image](../site/public/images/Product_page.png)
+  * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
 ## 3. Adopted technologies
 
@@ -52,7 +22,6 @@ request by another developer.
 * Node.js - Our main backend technology. Node interprets our backend javascript and continuously serves our website by integrating with Express.
 * Express - Our route handler. We use Express to statically serve our website directory structure as it is hosted on our server.
 * Bootstrap - Our CSS and javascript library. We use Bootstrap components to create the client-side layout and styling of our website.
-* ...
 
 ## 4. Learning/training
 
@@ -83,34 +52,20 @@ examples of these files. In this section of the deliverable, put links to these 
 
 ## 8. Look & feel
 
-Describe the approach you adopted to design your user interface. Include some 
-screenshots.
+We desired a clean interface that takes you directly to viewable products. The simple design showcases our value propsition as well as what the website's purpose is.
 
-Grading (4 points): This section will be graded based on the appearance (aesthetics) and 
-usability (ease of use) of the system.
+![Home page layout sample](../site/public/images/home_page_sample.jpg)
+
+As for the product pages we choose one to showcase for layout purposes.
+
+![Product page layout sample](../site/public/images/product_page_sample.jpg)
+
+This simplistic design gets our purpose across most of all, however, moving forward the page will become more complex. We intend to add more color to ensure our website does feel too standard.
 
 ## 9. Lessons learned
 
-In retrospective, describe what your team learned during this first release and what you 
-are planning to change for the second release. 
-
-Grading (2 points): Adequate reflection about problems and solutions, clear description 
-with adequate use of language.
+Our team's initial development cycle went okay. Actual implementation of the website took more time than expected, and would have been a good idea to start on that even earlier. Our MVP is truly minimal as a result. From this development cycle, we have all gained a lot of information regarding how this application will continue to proceed with development. Each team member still feels they need to do a bit more research on what technologies are being used so that when issues occur it will be a faster and easier process to solve. We are getting more comfortable with git and github each day, moving forward this team plans to continue to communicate and interact substantially regarding this product.
 
 ## 10.Demo
 
-Include a link to a video showing the system working.
-
-Grading (8 points): This section will be graded based on the quality of the video and on the 
-evidence that the features are running as expected. Additional criteria are the relevance 
-of the demonstrated functionalities, correctness of the functionalities, and quality of the 
-developed system from the external point of view (user interface).
-
-## Additional Grading criteria
-
-Penalties in the deliverable will be imposed for participants with a low level of coding activities 
-and projects with inadequate usage of the Trello and GitHub features (e.g., pull requests) or 
-insufficient implementation of the system.
-
-Example from the previous semester (not necessarily perfect or complete)
-https://github.com/ChrisKeefe/DontPanic/blob/master/project_documentation/Implementation.md
+Link to a video showing the system working: https://drive.google.com/file/d/1EB8X_HTu1_7deTcdWURYF1BuJYFNggvJ/view?usp=sharing
