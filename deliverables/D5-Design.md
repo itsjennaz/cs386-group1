@@ -31,15 +31,7 @@ relationships (2 pts); Completeness of the diagram (1 pt); Adequate presentation
 implementation details (1.0).
 
 ## 4. Sequence diagram
-Present a sequence diagram that represents how the objects in your system interact for a
-specific use case. Also include the use case description in this section. The sequence diagram
-should be consistent with the class diagram and architecture. 
-2
-
-Grading: 5 points. Criteria: Adequate use of UML (1 pt); Adequate design of the sequence
-diagram (2 pts); Consistency with the class diagram (1 pt); Consistency with the use case
-description (1 pt); Not including the use case description (-1.5 pt); Over simplistic diagram (-1
-pt).
+![Use Case Sequence Diagram][https://sequencediagram.org/index.html?presentationMode=readOnly#initialData=C4S2BsFMAIEEBN4gHYHNoAUBOB7eBXAY2GmB2gHkAjAZ0iwDd6B6AFSwENCBrFdAGRA1gAKDEiuZLNACqdLCLn0AtAD4AIh2AdoAYRzJgucFCwAuaOqEAHLYQAWIzdr0GjOEytUBlek3MAPAHIkADuqqoivoxe1PL+gsIWhFiQWpAAcmHsXLxoicAAFNAAlCJxfvQFAcoVMebQDCDZnDx8BcVldf5q2HhEwBY0HEysODlt+UJFpYryvbgExEOQUMR9SzNlGwNqSg10HFgOO8SdUZVYNbAYAJJmSDTW4BwAnqfANOfdVdPXdxZkDhQAAzV4AJUgwhwPE6QA]
 
 ## 5. Design Patterns
 Split this section into 2 subsections. For each subsection, present a UML class diagrams
