@@ -38,9 +38,9 @@ Design Pattern 2(Creational) (Singleton): This pattern allows for only one insta
 
 
 
-Design Pattern 1. Notification: https://github.com/colinvwood/AlertX/blob/main/site/public/images/d5.5.1.JPG
+Design Pattern 1. Notification: https://github.com/colinvwood/AlertX/blob/main/code/notification.txt
 
-Design Pattern 2. SearchProducts: https://github.com/colinvwood/AlertX/blob/main/site/public/images/d5.5.2.JPG
+Design Pattern 2. SearchProducts: https://github.com/colinvwood/AlertX/blob/main/code/searchProducts.txt
 
 Grading: 6 points (3 pts each pattern). Criteria: Correct use of the design pattern as described
 in the literature (1.5 pt); Adequate choice of the design pattern (0.5 pt); Adequate
