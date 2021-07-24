@@ -1,10 +1,5 @@
 # D.5 Design 
 
-Grading: 30 points
-In this deliverable, you should describe the architectural design of your system. Structure your
-deliverable using the following sections. See the “Team Project Instructions” for details about
-formatting. Check the lecture materials and perform additional research to produce a highquality deliverable. As usual, if you have any questions, let me know.
-
 ## 1. Description
 Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. When the customer finds their desired products they will then be able to select the item and choose their preference of notification, either SMS or email. Depending on which is selected, the clients information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification.
 
@@ -37,14 +32,9 @@ Design Pattern 2(Creational) (Singleton): This pattern allows for only one insta
 ![d5.5.2.](../site/public/images/d5.5.2.JPG)
 
 
-
 Design Pattern 1. Notification: https://github.com/colinvwood/AlertX/blob/main/code/notification.txt
 
 Design Pattern 2. SearchProducts: https://github.com/colinvwood/AlertX/blob/main/code/searchProducts.txt
-
-Grading: 6 points (3 pts each pattern). Criteria: Correct use of the design pattern as described
-in the literature (1.5 pt); Adequate choice of the design pattern (0.5 pt); Adequate
-implementation of the design pattern (1 pt).
 
 ## 6. Design Principles
 
