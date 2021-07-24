@@ -29,20 +29,18 @@ section). Each class diagram should contain only the classes involved in the spe
 categories: Behavioral, Structural, and Creational. You are not limited to design patterns
 studied in class.
 
-Your system may not appropriate for any design pattern. In this case, for didactic purpose, be
-creative and extend a little bit the scope of your system to make the design patterns
-appropriate.
+Design Pattern 1(Behavioral)(Strategy Method): This pattern allows for the sendNotification to be sent at runtime. (Notification is selected with the desired preference, Email or SMS).
 
-Implement each design pattern in your system and provide GitHub links to the
-corresponding classes. Example (the links are just illustrative):
+![d5.5.1.](../site/public/images/d5.5.1.JPG)
 
-Car: https://github.com/user/repo/blob/master/src/com/proj/main/Car.java
+Design Pattern 2(Creational) (Singleton): This pattern allows for only one instance of the SearchProducts.
+![d5.5.2.](../site/public/images/d5.5.2.JPG)
 
-IBreakBehavior: https://github.com/user/repo/blob/master/src/com/proj/main/IBreakBehavior.java
 
-BrakeWithABS: https://github.com/user/repo/blob/master/src/com/proj/main/BrakeWithABS.java
 
-Brake: https://github.com/user/repo/blob/master/src/com/proj/main/Brake.java
+Design Pattern 1. Notification: https://github.com/colinvwood/AlertX/blob/main/site/public/images/d5.5.1.JPG
+
+Design Pattern 2. SearchProducts: https://github.com/colinvwood/AlertX/blob/main/site/public/images/d5.5.2.JPG
 
 Grading: 6 points (3 pts each pattern). Criteria: Correct use of the design pattern as described
 in the literature (1.5 pt); Adequate choice of the design pattern (0.5 pt); Adequate
