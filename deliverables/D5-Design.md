@@ -6,11 +6,7 @@ deliverable using the following sections. See the â€œTeam Project Instructionsâ€
 formatting. Check the lecture materials and perform additional research to produce a highquality deliverable. As usual, if you have any questions, let me know.
 
 ## 1. Description
-Provide 1-2 paragraphs to describe your system. This will help understand the context of
-your design decisions. You can reuse and update text from the previous deliverables.
-
-Grading: 2 points. Criteria: Completeness (1 pt); Consistency with the rest of the document
-(0.5 pt); Language (0.5 pt).
+Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. When the customer finds their desired products they will then be able to select the item and choose their preference of notification, either SMS or email. Depending on which is selected, the clients information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification.
 
 ## 2. Architecture
 <img src="https://embed.creately.com/SCGjchatV2v?token=DxdHuFjABrxW0R2A&type=svg">
