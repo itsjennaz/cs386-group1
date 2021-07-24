@@ -26,8 +26,6 @@ The difference between this class diagram and the one that you presented in D.3 
 last focuses on the conceptual model of the domain while the former reflects the
 implementation. Therefore, the implementation details are relevant in this case.
 
-<img width="286" alt="0004C7E5-7047-4C1D-9183-412405C2DB62" src="https://user-images.githubusercontent.com/75430495/126856654-fdd2fa6f-b36c-4722-a8f4-cc0f7b1f2362.png">
-
 Grading: 6 points. Criteria: Adequate use of UML (2 pts); Adequate choice of classes and
 relationships (2 pts); Completeness of the diagram (1 pt); Adequate presentation of
 implementation details (1.0).
