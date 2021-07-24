@@ -18,19 +18,8 @@ Grading: 2 points. Criteria: Completeness (1 pt); Consistency with the rest of t
 There are 2 primary modules that are utilized for our website. The website module manages two other packages for requests and responses. The lines represent dependency on one class for another. The dotted lines represent access between classes as well as dependency. Each of the classes serves in response to the request even if not directly. This format can later be scaled up to include more APIs to search from.
 
 ## 3. Class diagram
-Present a refined class diagram of your system, including implementation details such as
-visibilities, attributes to represent associations, attribute types, return types, parameters, etc.
-The class diagram should match the code you have produced so far, but not be limited to it
-(e.g., it can contain classes not implemented yet).
-The difference between this class diagram and the one that you presented in D.3 is that the
-last focuses on the conceptual model of the domain while the former reflects the
-implementation. Therefore, the implementation details are relevant in this case.
 
 <img width="286" alt="0004C7E5-7047-4C1D-9183-412405C2DB62" src="https://user-images.githubusercontent.com/75430495/126856654-fdd2fa6f-b36c-4722-a8f4-cc0f7b1f2362.png">
-
-Grading: 6 points. Criteria: Adequate use of UML (2 pts); Adequate choice of classes and
-relationships (2 pts); Completeness of the diagram (1 pt); Adequate presentation of
-implementation details (1.0).
 
 ## 4. Sequence diagram
 <img src="https://sequencediagram.org/index.html?presentationMode=readOnly#initialData=C4S2BsFMAIEEBN4gHYHNoAUBOB7eBXAY2GmB2gHkAjAZ0iwDd6B6AFSwENCBrFdAGRA1gAKDEiuZLNACqdLCLn0AtAD4AIh2AdoAYRzJgucFCwAuaOqEAHLYQAWIzdr0GjOEytUBlek3MAPAHIkADuqqoivoxe1PL+gsIWhFiQWpAAcmHsXLxoicAAFNAAlCJxfvQFAcoVMebQDCDZnDx8BcVldf5q2HhEwBY0HEysODlt+UJFpYryvbgExEOQUMR9SzNlGwNqSg10HFgOO8SdUZVYNbAYAJJmSDTW4BwAnqfANOfdVdPXdxZkDhQAAzV4AJUgwhwPE6QA">
