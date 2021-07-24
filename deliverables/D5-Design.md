@@ -13,39 +13,17 @@ Grading: 2 points. Criteria: Completeness (1 pt); Consistency with the rest of t
 (0.5 pt); Language (0.5 pt).
 
 ## 2. Architecture
-Present a diagram of the high-level architecture of your system. Use a UML package diagram
-to describe the main modules and how they interrelate. See some examples at:
-https://www.uml-diagrams.org/package-diagrams-examples.html
-Make clear the layers of your architecture (if they exist) as described in:
-https://www.uml-diagrams.org/multi-layered-application-uml-model-diagram-example.html
-Provide a brief rationale of your architecture explaining why you designed it that way.
+<img src="https://embed.creately.com/SCGjchatV2v?token=DxdHuFjABrxW0R2A&type=svg">
 
-Grading: 5 points. Criteria: Adequate use of UML (1 pt); Adequate design of an architecture
-for the system (2 pts); Adequate description of the rationale (2 pts).
+There are 2 primary modules that are utilized for our website. The website module manages two other packages for requests and responses. The lines represent dependency on one class for another. The dotted lines represent access between classes as well as dependency. Each of the classes serves in response to the request even if not directly. This format can later be scaled up to include more APIs to search from.
 
 ## 3. Class diagram
-Present a refined class diagram of your system, including implementation details such as
-visibilities, attributes to represent associations, attribute types, return types, parameters, etc.
-The class diagram should match the code you have produced so far, but not be limited to it
-(e.g., it can contain classes not implemented yet).
-The difference between this class diagram and the one that you presented in D.3 is that the
-last focuses on the conceptual model of the domain while the former reflects the
-implementation. Therefore, the implementation details are relevant in this case.
 
-Grading: 6 points. Criteria: Adequate use of UML (2 pts); Adequate choice of classes and
-relationships (2 pts); Completeness of the diagram (1 pt); Adequate presentation of
-implementation details (1.0).
+<img width="286" alt="0004C7E5-7047-4C1D-9183-412405C2DB62" src="https://user-images.githubusercontent.com/75430495/126856654-fdd2fa6f-b36c-4722-a8f4-cc0f7b1f2362.png">
 
 ## 4. Sequence diagram
-Present a sequence diagram that represents how the objects in your system interact for a
-specific use case. Also include the use case description in this section. The sequence diagram
-should be consistent with the class diagram and architecture. 
-2
 
-Grading: 5 points. Criteria: Adequate use of UML (1 pt); Adequate design of the sequence
-diagram (2 pts); Consistency with the class diagram (1 pt); Consistency with the use case
-description (1 pt); Not including the use case description (-1.5 pt); Over simplistic diagram (-1
-pt).
+![SequenceDiagram](../site/public/images/SequenceDiagram.png)
 
 ## 5. Design Patterns
 Split this section into 2 subsections. For each subsection, present a UML class diagrams
