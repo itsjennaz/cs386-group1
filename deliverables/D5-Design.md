@@ -33,7 +33,8 @@ relationships (2 pts); Completeness of the diagram (1 pt); Adequate presentation
 implementation details (1.0).
 
 ## 4. Sequence diagram
-<img src="https://sequencediagram.org/index.html?presentationMode=readOnly#initialData=C4S2BsFMAIEEBN4gHYHNoAUBOB7eBXAY2GmB2gHkAjAZ0iwDd6B6AFSwENCBrFdAGRA1gAKDEiuZLNACqdLCLn0AtAD4AIh2AdoAYRzJgucFCwAuaOqEAHLYQAWIzdr0GjOEytUBlek3MAPAHIkADuqqoivoxe1PL+gsIWhFiQWpAAcmHsXLxoicAAFNAAlCJxfvQFAcoVMebQDCDZnDx8BcVldf5q2HhEwBY0HEysODlt+UJFpYryvbgExEOQUMR9SzNlGwNqSg10HFgOO8SdUZVYNbAYAJJmSDTW4BwAnqfANOfdVdPXdxZkDhQAAzV4AJUgwhwPE6QA">
+
+![SequenceDiagram](../site/public/images/SequenceDiagram.png)
 
 ## 5. Design Patterns
 Split this section into 2 subsections. For each subsection, present a UML class diagrams
