@@ -15,7 +15,7 @@ There are 2 primary modules that are utilized for our website. The website modul
 
 ## 3. Class diagram
 
-<img width="286" alt="0004C7E5-7047-4C1D-9183-412405C2DB62" src="https://user-images.githubusercontent.com/75430495/126856654-fdd2fa6f-b36c-4722-a8f4-cc0f7b1f2362.png">
+<img src="https://embed.creately.com/NYS73M1Nqsk?token=giY4sHmR6bwCSaqq&type=svg">
 
 ## 4. Sequence diagram
 
