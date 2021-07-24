@@ -13,15 +13,9 @@ Grading: 2 points. Criteria: Completeness (1 pt); Consistency with the rest of t
 (0.5 pt); Language (0.5 pt).
 
 ## 2. Architecture
-Present a diagram of the high-level architecture of your system. Use a UML package diagram
-to describe the main modules and how they interrelate. See some examples at:
-https://www.uml-diagrams.org/package-diagrams-examples.html
-Make clear the layers of your architecture (if they exist) as described in:
-https://www.uml-diagrams.org/multi-layered-application-uml-model-diagram-example.html
-Provide a brief rationale of your architecture explaining why you designed it that way.
+<img src="https://embed.creately.com/SCGjchatV2v?token=DxdHuFjABrxW0R2A&type=svg">
 
-Grading: 5 points. Criteria: Adequate use of UML (1 pt); Adequate design of an architecture
-for the system (2 pts); Adequate description of the rationale (2 pts).
+There are 2 primary modules that are utilized for our website. The website module manages two other packages for requests and responses. The lines represent dependency on one class for another. The dotted lines represent access between classes as well as dependency. Each of the classes serves in response to the request even if not directly. This format can later be scaled up to include more APIs to search from.
 
 ## 3. Class diagram
 Present a refined class diagram of your system, including implementation details such as
