@@ -22,7 +22,8 @@ There are 2 primary modules that are utilized for our website. The website modul
 <img width="286" alt="0004C7E5-7047-4C1D-9183-412405C2DB62" src="https://user-images.githubusercontent.com/75430495/126856654-fdd2fa6f-b36c-4722-a8f4-cc0f7b1f2362.png">
 
 ## 4. Sequence diagram
-<img src="https://sequencediagram.org/index.html?presentationMode=readOnly#initialData=C4S2BsFMAIEEBN4gHYHNoAUBOB7eBXAY2GmB2gHkAjAZ0iwDd6B6AFSwENCBrFdAGRA1gAKDEiuZLNACqdLCLn0AtAD4AIh2AdoAYRzJgucFCwAuaOqEAHLYQAWIzdr0GjOEytUBlek3MAPAHIkADuqqoivoxe1PL+gsIWhFiQWpAAcmHsXLxoicAAFNAAlCJxfvQFAcoVMebQDCDZnDx8BcVldf5q2HhEwBY0HEysODlt+UJFpYryvbgExEOQUMR9SzNlGwNqSg10HFgOO8SdUZVYNbAYAJJmSDTW4BwAnqfANOfdVdPXdxZkDhQAAzV4AJUgwhwPE6QA">
+
+![SequenceDiagram](../site/public/images/SequenceDiagram.png)
 
 ## 5. Design Patterns
 Split this section into 2 subsections. For each subsection, present a UML class diagrams
