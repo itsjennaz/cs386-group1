@@ -31,11 +31,17 @@ programming activities and report several pull requests.
 Example:
 Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo
 list.
+
 Issue: <link to your Trello or GitHub issue>
+
 Pull request: https://github.com/user/project/pull/426
+
 Implemented by: Martin Fowler
+
 Approved by: Ada Lovelace
+
 Print screen: A print screen that depicts the implemented feature (if applicable)
+
 Remember that all source code should be submitted by means of pull requests and the
 quality assurance person in the team should review and approve each pull request. For
 more information about pull requests:
