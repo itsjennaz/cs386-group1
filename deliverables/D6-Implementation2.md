@@ -41,7 +41,7 @@ who implemented it.
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
 * Implemented by: Jenna Pedro
 * Approved by: Georgia Buchanan 
-* Print screen: 
+* Print screen: The user is able to enter an email so they can receive a notification.
   * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
 
 
