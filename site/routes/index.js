@@ -1,4 +1,6 @@
 const express = require('express');
+//const app = require('../app');
+const app = express();
 const router = express.Router();
 
 router.get('/', function(req, res) {
@@ -6,10 +8,12 @@ router.get('/', function(req, res) {
 });
 
 router.get('/alertx', function(req, res) {
-    res.render('home.ejs');
+    res.render('home.ejs'); 
 });
 
 router.get('/alertx/products', function(req, res) {
+    res.render('products.ejs');
+
     const database = req.database;
     const product_collection = database.get('products');
 
@@ -21,6 +25,7 @@ router.get('/alertx/products', function(req, res) {
 router.get('/alertx/about-us', function(req, res) {
     res.render('about-us.ejs');
 });
+
 
 
 router.get('/alertx/sample-product', function(req, res) {
@@ -45,4 +50,7 @@ router.get('/alertx/products/geobook-120-minecraft-edition', function(req, res) 
     });
 });
 
+
 module.exports = router;
+
+
