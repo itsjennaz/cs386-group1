@@ -33,7 +33,7 @@ who implemented it.
 * Implemented by: Georgia Buchanan
 * Approved by: Jenna Pedro 
 * Print screen: This screen shot shows we are trying to keep our site simple with three main tabs and a small description for the Home and About Us page.
-  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
+  * ![AlertXHomePage](../site/public/images/AlertXHomePage.JPG)
 
 
 
@@ -60,7 +60,8 @@ who implemented it.
 * Implemented by: Jenna Pedro
 * Approved by: Georgia Buchanan 
 * Print screen: The user, is able to click on the "About Us" tab to learn more about the developers.
-  * ![AlertXHomePage](../site/public/images/AlertXHomePage.JPG)
+  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
+
 
 * Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
 * Issue: https://github.com/colinvwood/AlertX/issues/124 or https://trello.com/c/B4YbSG9K/58-create-refine-product-listing-page-this-page-should-ideally-retrieve-product-data-from-our-api-product-database
