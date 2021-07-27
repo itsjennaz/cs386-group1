@@ -43,5 +43,19 @@ if (process.argv[2] == "local") {
     }, app).listen(port);
 }
 
+// For API call 
+const apiHelper = require('./ApiHelper');
+
+app.get('/GetAPIResponse', (req, res) => {
+    apiHelper.makeAPICall().then(response => {
+        const data = JSON.parse(response);
+        console.log(data.price);
+        res.json(response);
+    })
+    .catch(error => {
+        res.send(error)
+    })
+})
 
 module.exports = app;
+
