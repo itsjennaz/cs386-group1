@@ -54,7 +54,7 @@ who implemented it.
 * Print screen: You can see the pop-up shows the user they have successfully entered their information.
   * ![EmailSuccessBox](../site/public/images/EmailSuccessBox.png)
 
-* Requirement: _As a consumer, I want to be able to learn more about the developers 
+* Requirement: _As a consumer, I want to be able to learn more about the developers._
 * Issue: https://github.com/colinvwood/AlertX/issues/129
 * Pull request: https://github.com/colinvwood/AlertX/pull/127
 * Implemented by: Jenna Pedro
