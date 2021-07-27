@@ -8,13 +8,8 @@ Our system will be kept relatively simple and straight forward. Through our web 
 
 
 ## 2. Implemented requirements
-List in this section, the requirements and associated pull request that you implemented for
-this release, following the example below---include the description of the requirement,
-link to the issue, link to the pull request(s) that implement the requirement, who
-implemented the requirement, who approved it, and a print screen that depicts the
-implemented feature (if applicable). Order the requirements by the name of the student
-who implemented it.
 
+List of implemented requirements:
 
 **1.**
 * Requirement: _As a consumer, I want to be able to view products available to track._
