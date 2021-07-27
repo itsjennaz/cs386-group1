@@ -31,7 +31,7 @@ who implemented it.
 * Pull request: https://github.com/colinvwood/AlertX/pull/91
 * Implemented by: Colin Wood
 * Approved by: Georgia Buchanan and Kameron Dailey
-* Print screen: 
+* Print screen: The user is able to view products that are available to be tracked.
   * ![Product Page Image](../site/public/images/Product_page.png)
   * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
