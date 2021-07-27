@@ -62,11 +62,7 @@ relevance of the demonstrated functionalities, correctness of the functionalitie
 quality of the developed system from the external point of view (user interface).
 
 ## 4. Code quality
-Describe how your team managed code quality. What were your policies, conventions,
-adopted best practices, etc. to foster high quality code?
-
-Grading (4 points): Adequate list of practices that were adopted to improve code quality
-and clear description with adequate use of language.
+Our code conventions ensure readabiliity and have commonplace amdist all of our implemented features. First and foremost, the EJS files adhere to tab spacing meaning that each tag is seperatred by tabs in order to show what is held within each tag for clarity. In addition, the code for JavaScript adheres to a clear spacing convention mentioned, but also ensure the brackets are on the same line as the function details. These simple conventions are enough to ensure our code was readable for all other members of the project.
 
 ## 5. Lessons learned
 In retrospective, describe what your team learned during this second release and what
