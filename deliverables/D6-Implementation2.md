@@ -1,4 +1,4 @@
-# D.6 Implementation 2 
+# D6 Implementation 2 
 
 Grading: 49 points
 This deliverable should describe the second release of your project. A release is a fully functional
@@ -7,14 +7,11 @@ usable). Structure your deliverable using the following sections. See the “Tea
 Instructions” for details about formatting.
 
 ## 1. Introduction 
-Provide 1-2 paragraphs to describe your system. This description should contain the
-value proposition and the main features. At the end of the introduction, include links to
-your project on GitHub and Trello, which should be up to date.
 
-Grading (2 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, and adequate use of language. The description
-should be consistent with the current state of the project. You should include the links to
-GitHub and Trello, which should be up-to-date.
+Designed for customers who continuously check for out of stock items, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Our solution offers a customizable notification system to ensure you know exactly when you can purchase an item, unlike most product's websites. With a clean and functioning interface, our user will successfully receive gathered information about products and their stock status quickly so that they can worry less about a certain item being sold-out again. 
+
+Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. After product selection, there is a notification option. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have access to their own search history where they can view everything they track. Depending on which is selected, the client’s information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
+
 
 ## 2. Implemented requirements
 List in this section, the requirements and associated pull request that you implemented for
