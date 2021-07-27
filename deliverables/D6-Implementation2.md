@@ -85,8 +85,10 @@ who implemented it.
 * Approved by: Georgia Buchanan
 * Implementation time: 2 days
 * Print screen: This is hard to get a print screen of as this issue dealt with implementing an API that can show multiple products. So, we decided to include two photos that show there is more than one product now on the site.
-  * ![ProductPage_updated](../site/public/images/ProductPage_updated.jpg)
+  * Before: 
   * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
+  * Updated version:
+  * ![ProductPage_updated](../site/public/images/ProductPage_updated.jpg)
 
 ## 3. Demo
 
