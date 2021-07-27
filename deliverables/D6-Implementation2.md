@@ -75,7 +75,7 @@ who implemented it.
 * Approved by: Georgia Buchanan
 * Implementation time:  1 day and 8 hours
 * Print screen: 
-  * ![ProductPage_updated](../site/public/images/ProductPage_updated.png)
+  * ![ProductPage_updated](../site/public/images/ProductPage_updated.jpg)
 
 **7.**
 * Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
@@ -85,7 +85,7 @@ who implemented it.
 * Approved by: Georgia Buchanan
 * Implementation time: 2 days
 * Print screen: This is hard to get a print screen of as this issue dealt with implementing an API that can show multiple products. So, we decided to include two photos that show there is more than one product now on the site.
-  * ![ProductPage_updated](../site/public/images/ProductPage_updated.png)
+  * ![ProductPage_updated](../site/public/images/ProductPage_updated.jpg)
   * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
 
 ## 3. Demo
