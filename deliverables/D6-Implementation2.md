@@ -16,7 +16,7 @@ implemented feature (if applicable). Order the requirements by the name of the s
 who implemented it.
 
 
-###1.
+**1.**
 * Requirement: _As a consumer, I want to be able to view products available to track._
 * Issue: https://github.com/colinvwood/AlertX/issues/89
 * Pull request: https://github.com/colinvwood/AlertX/pull/91
@@ -27,7 +27,7 @@ who implemented it.
   * ![Product Page Image](../site/public/images/Product_page.png)
   * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
-###2.
+**2.**
 * Requirement: _As a consumer, I want to be able to navigate this site easily._
 * Issue: https://github.com/colinvwood/AlertX/issues/129 or https://trello.com/c/RksbiNXT/75-keep-it-simple-and-user-friendly
 * Pull request: https://github.com/colinvwood/AlertX/pull/127
@@ -37,7 +37,7 @@ who implemented it.
 * Print screen: This screen shot shows we are trying to keep our site simple with three main tabs and a small description for the Home and About Us page.
   * ![AlertXHomePage](../site/public/images/AlertXHomePage.JPG)
 
-###3.
+**3.**
 * Requirement: _As a consumer, I want to be able to learn more about the developers._
 * Issue: https://github.com/colinvwood/AlertX/issues/129
 * Pull request: https://github.com/colinvwood/AlertX/pull/127
@@ -47,7 +47,7 @@ who implemented it.
 * Print screen: The user, is able to click on the "About Us" tab to learn more about the developers.
   * ![AboutUsPage](../site/public/images/AboutUsPage.png)
 
-##4.
+**4.**
 * Requirement: _As a consumer, I want to be able to sign up for email notifications._
 * Issue: https:https://github.com/colinvwood/AlertX/issues/126 or https://trello.com/c/6MrbqfLb/56-retrieve-email-and-add-to-database-show-success-to-user
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
@@ -57,7 +57,7 @@ who implemented it.
 * Print screen: The user is able to enter an email so they can receive a notification.
   * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
 
-##5.
+**5.**
 * Requirement: _As a consumer, I want to be to know when I have successfully signed up for notifications._
 * Issue: https://github.com/colinvwood/AlertX/issues/135 or https://trello.com/c/BmeAHTuR/53-create-email-form-for-client
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
@@ -67,7 +67,7 @@ who implemented it.
 * Print screen: You can see the pop-up shows the user they have successfully entered their information.
   * ![EmailSuccessBox](../site/public/images/EmailSuccessBox.png)
 
-##6.
+**6.**
 * Requirement: _As a consumer, I want to be able to search for products, their prices, and more information clearly and easily._
 * Issue: https://github.com/colinvwood/AlertX/issues/133 or https://trello.com/c/nckvQOeR/76-make-clean-and-easy-to-search
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
@@ -77,7 +77,7 @@ who implemented it.
 * Print screen: 
   * ![ProductPage_updated](../site/public/images/ProductPage_updated.png)
 
-##7.
+**7.**
 * Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
 * Issue: https://github.com/colinvwood/AlertX/issues/124 or https://trello.com/c/B4YbSG9K/58-create-refine-product-listing-page-this-page-should-ideally-retrieve-product-data-from-our-api-product-database
 * Pull request: https://github.com/colinvwood/AlertX/pull/136
