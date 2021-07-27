@@ -21,23 +21,32 @@ implemented the requirement, who approved it, and a print screen that depicts th
 implemented feature (if applicable). Order the requirements by the name of the student
 who implemented it.
 
-We expect that you implement/prototype features you specified in your MVP (c.f. D.2
-Requirements). We expect that all the members of the group have been involved in some
-programming activities and report several pull requests.
 
-Example:
-Requirement: As a Student, I want to add a homework assignment so that I can organize my ToDo
-list.
 
-Issue: <link to your Trello or GitHub issue>
+* Requirement: _As a consumer, I want to be able to search for all products that are available to track._
+* Issue: https://github.com/colinvwood/AlertX/issues/89
+* Pull request: https://github.com/colinvwood/AlertX/pull/91
+* Implemented by: Colin Wood
+* Approved by: Georgia Buchanan and Kameron Dailey
+* Print screen: 
+  * ![Product Page Image](../site/public/images/Product_page.png)
+  * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
-Pull request: https://github.com/user/project/pull/426
+* Requirement: _As a consumer, I want to be able to learn more about the developers 
+* Issue: https://github.com/colinvwood/AlertX/issues/129
+* Pull request: https://github.com/colinvwood/AlertX/pull/127
+* Implemented by: Jenna Pedro
+* Approved by: Georgia Buchanan 
+* Print screen: 
 
-Implemented by: Martin Fowler
 
-Approved by: Ada Lovelace
+* Requirement: _As a consumer, I want to be able to sign up for email notifications.
+* Issue: https:https://github.com/colinvwood/AlertX/issues/126
+* Pull request: 
+* Implemented by: Jenna Pedro
+* Approved by: Georgia Buchanan 
+* Print screen: 
 
-Print screen: A print screen that depicts the implemented feature (if applicable)
 
 Remember that all source code should be submitted by means of pull requests and the
 quality assurance person in the team should review and approve each pull request. For
