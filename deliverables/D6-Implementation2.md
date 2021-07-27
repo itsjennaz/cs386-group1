@@ -36,6 +36,7 @@ who implemented it.
   * ![AboutUsPage](../site/public/images/AboutUsPage.png)
 
 
+
 * Requirement: _As a consumer, I want to be able to sign up for email notifications._
 * Issue: https:https://github.com/colinvwood/AlertX/issues/126 or https://trello.com/c/6MrbqfLb/56-retrieve-email-and-add-to-database-show-success-to-user
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
@@ -53,6 +54,13 @@ who implemented it.
 * Print screen: You can see the pop-up shows the user they have successfully entered their information.
   * ![EmailSuccessBox](../site/public/images/EmailSuccessBox.png)
 
+* Requirement: _As a consumer, I want to be able to learn more about the developers 
+* Issue: https://github.com/colinvwood/AlertX/issues/129
+* Pull request: https://github.com/colinvwood/AlertX/pull/127
+* Implemented by: Jenna Pedro
+* Approved by: Georgia Buchanan 
+* Print screen: The user, is able to click on the "About Us" tab to learn more about the developers.
+  * ![AlertXHomePage](../site/public/images/AlertXHomePage.JPG)
 
 * Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
 * Issue: https://github.com/colinvwood/AlertX/issues/124 or https://trello.com/c/B4YbSG9K/58-create-refine-product-listing-page-this-page-should-ideally-retrieve-product-data-from-our-api-product-database
