@@ -33,7 +33,8 @@ who implemented it.
 * Implemented by: Georgia Buchanan
 * Approved by: Jenna Pedro 
 * Print screen: This screen shot shows we are trying to keep our site simple with three main tabs and a small description for the Home and About Us page.
-  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
+  * ![AlertXHomePage](../site/public/images/AlertXHomePage.JPG)
+
 
 
 * Requirement: _As a consumer, I want to be able to sign up for email notifications._
@@ -52,6 +53,14 @@ who implemented it.
 * Approved by: Georgia Buchanan
 * Print screen: You can see the pop-up shows the user they have successfully entered their information.
   * ![EmailSuccessBox](../site/public/images/EmailSuccessBox.png)
+
+* Requirement: _As a consumer, I want to be able to learn more about the developers._
+* Issue: https://github.com/colinvwood/AlertX/issues/129
+* Pull request: https://github.com/colinvwood/AlertX/pull/127
+* Implemented by: Jenna Pedro
+* Approved by: Georgia Buchanan 
+* Print screen: The user, is able to click on the "About Us" tab to learn more about the developers.
+  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
 
 
 * Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
