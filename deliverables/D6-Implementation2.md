@@ -32,35 +32,22 @@ who implemented it.
   * ![Product Page Image](../site/public/images/Product_page.png)
   * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
-* Requirement: _As a consumer, I want to be able to learn more about the developers 
-* Issue: https://github.com/colinvwood/AlertX/issues/129
+* Requirement: _As a consumer, I want to be able to navigate this site easily._
+* Issue: https://github.com/colinvwood/AlertX/issues/129 or https://trello.com/c/RksbiNXT/75-keep-it-simple-and-user-friendly
 * Pull request: https://github.com/colinvwood/AlertX/pull/127
-* Implemented by: Jenna Pedro
-* Approved by: Georgia Buchanan 
-* Print screen: 
+* Implemented by: Georgia Buchanan
+* Approved by: Jenna Pedro 
+* Print screen: This screen shot shows we are trying to keep our site simple with three main tabs and a small description for the Home and About Us page.
+  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
 
 
-* Requirement: _As a consumer, I want to be able to sign up for email notifications.
+* Requirement: _As a consumer, I want to be able to sign up for email notifications._
 * Issue: https:https://github.com/colinvwood/AlertX/issues/126
 * Pull request: 
 * Implemented by: Jenna Pedro
 * Approved by: Georgia Buchanan 
 * Print screen: 
-
-
-Remember that all source code should be submitted by means of pull requests and the
-quality assurance person in the team should review and approve each pull request. For
-more information about pull requests:
-https://help.github.com/articles/about-pull-requests/
-
-Grading (25 points): This section will be evaluated in terms of correctness, completeness,
-thoroughness, consistency, coherence, adequate use of language, and amount of work put
-into the implementation. Students can receive different grades depending on their
-involvement. It is expected that all members contribute with non-trivial implementation.
-All pull request should be approved and integrated by the quality assurance person. You
-should follow an adequate workflow (description of the requirement on the issue tracker,
-submission of the implemented requirement as a pull request, and review of the pull
-request by another developer.
+  * ![EmailSubmission](../site/public/images/EmailSubmission.png)
 
 ## 3. Demo
 Include a link to a video showing the system working.
