@@ -1,11 +1,5 @@
 # D6 Implementation 2 
 
-Grading: 49 points
-This deliverable should describe the second release of your project. A release is a fully functional
-software that delivers a set of features (don’t need to be the complete set but they need to be
-usable). Structure your deliverable using the following sections. See the “Team Project
-Instructions” for details about formatting.
-
 ## 1. Introduction 
 
 Designed for customers who continuously check for out of stock items, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Our solution offers a customizable notification system to ensure you know exactly when you can purchase an item, unlike most product's websites. With a clean and functioning interface, our user will successfully receive gathered information about products and their stock status quickly so that they can worry less about a certain item being sold-out again. 
@@ -23,7 +17,7 @@ who implemented it.
 
 
 
-* Requirement: _As a consumer, I want to be able to search for all products that are available to track._
+* Requirement: _As a consumer, I want to be able to view products available to track._
 * Issue: https://github.com/colinvwood/AlertX/issues/89
 * Pull request: https://github.com/colinvwood/AlertX/pull/91
 * Implemented by: Colin Wood
@@ -31,6 +25,7 @@ who implemented it.
 * Print screen: 
   * ![Product Page Image](../site/public/images/Product_page.png)
   * ![Product Page Image #2](../site/public/images/Product_page_2.png)
+
 
 * Requirement: _As a consumer, I want to be able to navigate this site easily._
 * Issue: https://github.com/colinvwood/AlertX/issues/129 or https://trello.com/c/RksbiNXT/75-keep-it-simple-and-user-friendly
@@ -42,12 +37,30 @@ who implemented it.
 
 
 * Requirement: _As a consumer, I want to be able to sign up for email notifications._
-* Issue: https:https://github.com/colinvwood/AlertX/issues/126
-* Pull request: 
+* Issue: https:https://github.com/colinvwood/AlertX/issues/126 or https://trello.com/c/6MrbqfLb/56-retrieve-email-and-add-to-database-show-success-to-user
+* Pull request: https://github.com/colinvwood/AlertX/pull/134
 * Implemented by: Jenna Pedro
 * Approved by: Georgia Buchanan 
 * Print screen: 
-  * ![EmailSubmission](../site/public/images/EmailSubmission.png)
+  * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
+
+
+* Requirement: _As a consumer, I want to be to know when I have successfully signed up for notifications._
+* Issue: https://github.com/colinvwood/AlertX/issues/135 or https://trello.com/c/BmeAHTuR/53-create-email-form-for-client
+* Pull request: https://github.com/colinvwood/AlertX/pull/134
+* Implemented by: Jenna Pedro
+* Approved by: Georgia Buchanan
+* Print screen: You can see the pop-up shows the user they have successfully entered their information.
+  * ![EmailSuccessBox](../site/public/images/EmailSuccessBox.png)
+
+
+* Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
+* Issue: https://github.com/colinvwood/AlertX/issues/124 or https://trello.com/c/B4YbSG9K/58-create-refine-product-listing-page-this-page-should-ideally-retrieve-product-data-from-our-api-product-database
+* Pull request: 
+* Implemented by: Kameron Dailey
+* Approved by: Georgia Buchanan
+* Print screen: 
+  * 
 
 ## 3. Demo
 Include a link to a video showing the system working.
