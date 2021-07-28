@@ -8,76 +8,86 @@ Our system will be kept relatively simple and straight forward. Through our web 
 
 
 ## 2. Implemented requirements
-List in this section, the requirements and associated pull request that you implemented for
-this release, following the example below---include the description of the requirement,
-link to the issue, link to the pull request(s) that implement the requirement, who
-implemented the requirement, who approved it, and a print screen that depicts the
-implemented feature (if applicable). Order the requirements by the name of the student
-who implemented it.
 
+List of implemented requirements:
 
-
+**1.**
 * Requirement: _As a consumer, I want to be able to view products available to track._
 * Issue: https://github.com/colinvwood/AlertX/issues/89
 * Pull request: https://github.com/colinvwood/AlertX/pull/91
 * Implemented by: Colin Wood
 * Approved by: Georgia Buchanan and Kameron Dailey
+* Implementation time: 1 day
 * Print screen: The user is able to view products that are available to be tracked.
   * ![Product Page Image](../site/public/images/Product_page.png)
   * ![Product Page Image #2](../site/public/images/Product_page_2.png)
 
-
+**2.**
 * Requirement: _As a consumer, I want to be able to navigate this site easily._
 * Issue: https://github.com/colinvwood/AlertX/issues/129 or https://trello.com/c/RksbiNXT/75-keep-it-simple-and-user-friendly
 * Pull request: https://github.com/colinvwood/AlertX/pull/127
 * Implemented by: Georgia Buchanan
 * Approved by: Jenna Pedro 
+* Implementation time: 4 hours
 * Print screen: This screen shot shows we are trying to keep our site simple with three main tabs and a small description for the Home and About Us page.
   * ![AlertXHomePage](../site/public/images/AlertXHomePage.JPG)
 
+**3.**
+* Requirement: _As a consumer, I want to be able to learn more about the developers._
+* Issue: https://github.com/colinvwood/AlertX/issues/129
+* Pull request: https://github.com/colinvwood/AlertX/pull/127
+* Implemented by: Georgia Buchanan
+* Approved by: Jenna Pedro
+* Implementation time: 4 and 1/2 hours
+* Print screen: The user, is able to click on the "About Us" tab to learn more about the developers.
+  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
 
-
+**4.**
 * Requirement: _As a consumer, I want to be able to sign up for email notifications._
 * Issue: https:https://github.com/colinvwood/AlertX/issues/126 or https://trello.com/c/6MrbqfLb/56-retrieve-email-and-add-to-database-show-success-to-user
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
 * Implemented by: Jenna Pedro
 * Approved by: Georgia Buchanan 
+* Implementation time: 5 and 1/2 hours
 * Print screen: The user is able to enter an email so they can receive a notification.
   * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
 
-
+**5.**
 * Requirement: _As a consumer, I want to be to know when I have successfully signed up for notifications._
 * Issue: https://github.com/colinvwood/AlertX/issues/135 or https://trello.com/c/BmeAHTuR/53-create-email-form-for-client
 * Pull request: https://github.com/colinvwood/AlertX/pull/134
 * Implemented by: Jenna Pedro
 * Approved by: Georgia Buchanan
+* Implementation time: 5 hours
 * Print screen: You can see the pop-up shows the user they have successfully entered their information.
   * ![EmailSuccessBox](../site/public/images/EmailSuccessBox.png)
 
-* Requirement: _As a consumer, I want to be able to learn more about the developers._
-* Issue: https://github.com/colinvwood/AlertX/issues/129
-* Pull request: https://github.com/colinvwood/AlertX/pull/127
-* Implemented by: Jenna Pedro
-* Approved by: Georgia Buchanan 
-* Print screen: The user, is able to click on the "About Us" tab to learn more about the developers.
-  * ![AboutUsPage](../site/public/images/AboutUsPage.png)
-
-
-* Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
-* Issue: https://github.com/colinvwood/AlertX/issues/124 or https://trello.com/c/B4YbSG9K/58-create-refine-product-listing-page-this-page-should-ideally-retrieve-product-data-from-our-api-product-database
-* Pull request: 
+**6.**
+* Requirement: _As a consumer, I want to be able to search for products, their prices, and more information clearly and easily._
+* Issue: https://github.com/colinvwood/AlertX/issues/133 or https://trello.com/c/nckvQOeR/76-make-clean-and-easy-to-search
+* Pull request: https://github.com/colinvwood/AlertX/pull/134
 * Implemented by: Kameron Dailey
 * Approved by: Georgia Buchanan
+* Implementation time:  1 day and 8 hours
 * Print screen: 
-  * 
+  * ![ProductPage_updated](../site/public/images/ProductPage_updated.jpg)
+
+**7.**
+* Requirement: _As a consumer, I want to be able to search for many items that I could find on a site such as Amazon._
+* Issue: https://github.com/colinvwood/AlertX/issues/124 or https://trello.com/c/B4YbSG9K/58-create-refine-product-listing-page-this-page-should-ideally-retrieve-product-data-from-our-api-product-database
+* Pull request: https://github.com/colinvwood/AlertX/pull/136
+* Implemented by: Kameron Dailey
+* Approved by: Georgia Buchanan
+* Implementation time: 2 days
+* Print screen: This is hard to get a print screen of as this issue dealt with implementing an API that can show multiple products. So, we decided to include two photos that show there is more than one product now on the site.
+  * Before: 
+  * ![EmailSubmission2](../site/public/images/EmailSubmission2.png)
+  * Updated version:
+  * ![ProductPage_updated](../site/public/images/ProductPage_updated.jpg)
 
 ## 3. Demo
-Include a link to a video showing the system working.
 
-Grading (15 points): This section will be graded based on the quality of the video and on
-the evidence that the features are running as expected. Additional criteria are the
-relevance of the demonstrated functionalities, correctness of the functionalities, and
-quality of the developed system from the external point of view (user interface).
+Link to video: https://drive.google.com/file/d/1DNZP8G2FktBNyh2pafKpgaahhNG-TqX7/view?usp=sharing
 
 ## 4. Code quality
 Our code conventions ensure readabiliity and have commonplace amdist all of our implemented features. First and foremost, the EJS files adhere to tab spacing meaning that each tag is separated by tabs in order to show what is held within each tag for clarity. In addition, the code for JavaScript adheres to a clear spacing convention mentioned, but also ensure the brackets are on the same line as the function details. These simple conventions are enough to ensure our code was readable for all other members of the project.
