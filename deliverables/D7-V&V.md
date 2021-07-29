@@ -31,18 +31,13 @@ quality of the tests, adequate use of Mock objects, print screen showing success
 execution.
 
 ### 2.2. Integration test
-An integration test is an automated test that verifies the implementation of a business rule
-that involves multiple components with the goal of certifying that they work together to
-produce the expected result. They are often performed in the same test platform as the
-unit tests. Provide the following information:
+When designing our system, we intended to incorporate an automated emailing service to enhance our product. This task alone created issues as it required compatibility with our other API system for locating products. Due to time constraint and restrictions faced with third party services we were not able to fully implement this feature. This in turn hindered us from producing a full integration test.
 
-* 2.2.1. Test framework you used to develop your tests:
-* 2.2.2. Link to your GitHub folder where your automated integration tests are
-located.
-* 2.2.3. An example of an integration test. Include in your answer a GitHub link to the
-test and an explanation about what parts of the system are being exercised by
-this test.
-* 2.2.4. A print screen showing the result of the integration tests execution.
+* 2.2.1. When testing our system we would used Mocha. Mocha allows for a clean simple interface for testing synchronous and asynchronous code. Another benefit is that Mocha is used for Node.js; making it compatible for our system. 
+* 2.2.2. Due to time constrants we were not able to fully implement an integration test. However the link, links the folder where our test our stored(finished and unfinished).
+* 2.2.3. 
+When creating the test, we would follow the format of making sure each feature has 1) a well-formed and complete response, 2) a well-formed and incomplete response, and 3) a malformed response. This allows for adequate testing of all situations that could occur from each feature in the system.
+* 2.2.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen. 
 
 Grading: 5 points. Criteria: adequate choice of a test framework, coverage of the tests,
 quality of the tests, adequate example of an integration test, print screen showing
@@ -53,13 +48,12 @@ An acceptance test is a test that verifies the correct implementation of a featu
 user interface perspective. An acceptance test is a black box test (the system is tested
 without knowledge about its internal implementation). Provide the following information:
 
-* 2.3.1. Test framework you used to develop your tests (e.g., Selenium, Katalon
-Studio, Espresso2, Cucumber, etc.):
-* 2.3.2. Link to your GitHub folder where your automated acceptance tests are
-located.
-* 2.3.3. An example of an acceptance test. Include in your answer a GitHub link to
-the test and an explanation about the tested feature.
-* 2.3.4. A print screen/video showing the acceptance test execution.
+As mentioned aboved in 2.2, we had issues fully developing an automative emailing service. This caused errors for us when creating an Acceptance test, as we did not have an automatic emailing service, however we were still able to produce a demo version of how the system would run through the eyes of the user.
+
+* 2.3.1. When testing our system, we would use Selenium as it allows for testing of web application across many different browsers and platforms. 
+* 2.3.2. Due to time constrants we were not able to fully implement an acceptance test. However the link, links the folder where our test our stored(finished and unfinished).
+* 2.3.3. When creating our acceptance test we would follow the format similar to our unit test, however it would be from the perspective of the user (blackbox) and using the test in conjuncture.
+* 2.3.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen, however we do a demo to show the system running from the user's perspective.
 
 Grading: 8 points. Criteria: adequate choice of a test framework, coverage of the tests,
 quality of the tests, adequate example of an acceptance test, print screen/video showing
