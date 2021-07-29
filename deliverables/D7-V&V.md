@@ -100,6 +100,7 @@ accomplished?
 
 ### Results
 **User: Rhianna Pedro**
+
 **1. What do you think about how the webpage looks?**
 * Plain. Everything is white, needs color or some pictures. 
 
@@ -131,6 +132,7 @@ accomplished?
 * Just more product options and reviews. 
 
 **User: Kolin Galdiano**
+
 **1. What do you think about how the webpage looks?**
 * Simple, because it is very plain with very few texts and no images. 
 
