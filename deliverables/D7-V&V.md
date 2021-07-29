@@ -53,7 +53,7 @@ As mentioned aboved in 2.2, we had issues fully developing an automative emailin
 * 2.3.1. When testing our system, we would use Selenium as it allows for testing of web application across many different browsers and platforms. 
 * 2.3.2. Due to time constrants we were not able to fully implement an acceptance test. However the link, links the folder where our test our stored(finished and unfinished).
 * 2.3.3. When creating our acceptance test we would follow the format similar to our unit test, however it would be from the perspective of the user (blackbox) and using more than a single unit test in conjuncture.
-* 2.3.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen, however we do a demo to show the system running from the user's perspective.
+* 2.3.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen, however we were able to produce a demo to show the system running from the user's perspective.
 
 Grading: 8 points. Criteria: adequate choice of a test framework, coverage of the tests,
 quality of the tests, adequate example of an acceptance test, print screen/video showing
