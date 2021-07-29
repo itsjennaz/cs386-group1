@@ -145,13 +145,14 @@ Wait for it to be more developed so that there could be products and bigger repu
 9. Why did you give it this score?
 Because it looks unfinished 
 10. Is there anything you would like to add if you were a shopper trying to get notified about a restock? 
-Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!”
+Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!” Maybe being able to create a profile to see the items that I have saved for a restock would be nice. 
 
 ### Reflections
 **User: Rhianna Pedro**
-(will add later)
+The feedback from Rhianna, we realized that we needed a much more appealing design to our website. Her initial thoughts on the website were mostly about appearance. The more she looked at it, the more she kept talking about wanting more color and pictures. We didn't have much time to fully make the website look appealing or nice, and that's what she noticed as well. 
+
 **User: Kolin Galidiano**
-(will add later)
+Kolin's feedback focused on the appearance of the website and functionality. He also noticed that the website looked plain but he liked the simplicty of the webpage and how it was easy to navigate everything. However, he did make some suggestions about what we could add to our webpage. He said that we could add more products and some reviews to the home page about customers liking our application so that people are more attracted to our services. He also suggested a "Profile" page for users to save the items they want restock notifications on. Kolin really looks forward to AlertX being more developed and having a bigger reputation.
 
 Grading: 18 points. Criteria: adequate script, adequate report of the results, adequate
 reflection, language.
