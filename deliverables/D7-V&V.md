@@ -8,7 +8,6 @@ Designed for customers who continuously check for out of stock items, AlertX is 
 Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. After product selection, there is a notification option. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have access to their own search history where they can view everything they track. Depending on which is selected, the client’s information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
 
 ## 2. Verification (tests)
-Verification aims to ensure that you correctly developed the product.
 
 ### 2.1. Unit test
 A unit test is an automated test that aims to verify the behavior of a component isolated
@@ -62,28 +61,6 @@ quality of the tests, adequate example of an acceptance test, print screen/video
 successful tests execution.
 
 ## 3. Validation (user evaluation)
-Validation aims to ensure that you developed the right product. You started the software
-inception by talking to users and stakeholders. Now it is time to check if you are on the
-right track by conducting some user evaluation on the actual system. Include in this
-deliverable the following information:
-
-Script: The script should have the tasks that you will give to the user, what you are going
-to collect, and what you are going to ask. Do not forget to add questions about the users’
-general impressions. You can ask open questions (e.g., How would you describe the
-homepage of our app? How do you compare our system to the competitor X?) or closed
-questions (On a scale of 1 to 10, how would you rate the layout of our application? On
-the same scale, how likely would you use the system in its current state?). Take a look at
-the inception and requirements deliverables to help create the script (aim to check if you
-are achieving your initial goals and if the features are implemented in a satisfactory way).
-
-Results: Conduct the user evaluation with at least 3 users. Report the data that you
-collected.
-
-Reflections: Reflect on what you observed. Some questions that you can explore: What
-features worked well? What can be changed? How is the learning curve of your system?
-Did the users preform the tasks as you expected? Did the users’ actions produce the 
-results they expected? What did the users like the most? Is your value proposition
-accomplished?
 
 ### Script
 
@@ -131,6 +108,8 @@ accomplished?
 **10. Is there anything you would like to add if you were a shopper trying to get notified about a restock?**
 * Just more product options and reviews. 
 
+
+
 **User: Kolin Galdiano**
 
 **1. What do you think about how the webpage looks?**
@@ -163,11 +142,52 @@ accomplished?
 **10. Is there anything you would like to add if you were a shopper trying to get notified about a restock?**
 * Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!” Maybe being able to create a profile to see the items that I have saved for a restock would be nice. 
 
+
+
+**User: Joseph Gandy**
+
+**1. What do you think about how the webpage looks?**
+* Quite simple and to the point, I feel like that is easy to update the aesthetic though. 
+
+**2. Is it easy to locate what you are looking for on the webpage?**
+* Yes, not too many tabs or details that feel overwhelming
+
+**3. What was difficult about it?**
+* Honestly nothing, I can find everything quite easily.
+
+**4. When filling out the email form, was it easy to fill out?**
+* Yes, it requires one step and I received a submission email showing I am now tracking that product. 
+
+**5. How would you rate the overall ease of use (1 to 10)**
+* 10, nothing hard about it to use.
+
+**6. What could be improved?**
+* Add more products that can be tracked and work on the aesthetic of the webpage. 
+
+**7. Would you use it currently, or wait for it to be developed more? Why or why not?**
+* I work a lot with 3D printing and need to reorder materials quite often, I would definitely use this once products that supply that kind of printer are added.
+
+**8. What would be the overall score 1-10?**
+* 6, it is to the point but I think a lot more can be done regarding how many products are available to track and the look and feel of the site.
+
+**9. Why did you give it this score?**
+* Again, a lot more can be done especially revolving the way the site looks. It does the job well, but you could entice a lot more users with a really cool design. 
+
+**10. Is there anything you would like to add if you were a shopper trying to get notified about a restock?**
+* Include reviews from other users and apart from that it seems like a great app.
+
+
 ### Reflections
 **User: Rhianna Pedro**
 
 The feedback from Rhianna, we realized that we needed a much more appealing design to our website. Her initial thoughts on the website were mostly about appearance. The more she looked at it, the more she kept talking about wanting more color and pictures. We didn't have much time to fully make the website look appealing or nice, and that's what she noticed as well. 
 
+
 **User: Kolin Galidiano**
 
 Kolin's feedback focused on the appearance of the website and functionality. He also noticed that the website looked plain but he liked the simplicty of the webpage and how it was easy to navigate everything. However, he did make some suggestions about what we could add to our webpage. He said that we could add more products and some reviews to the home page about customers liking our application so that people are more attracted to our services. He also suggested a "Profile" page for users to save the items they want restock notifications on. Kolin really looks forward to AlertX being more developed and having a bigger reputation.
+
+
+**User: Joseph Gandy**
+
+Joseph's feedback focused on the product availability and appearance of the site. His initial thoughts were along the lines of whether or not an application such as AlertX is actually useful to shoppers as most sites let them know the availability anyway. His interest peaked when I mentioned this app is designed to take away the shopper ever having to look at the availability in the first place. Joseph uses 3D printing as a hobby, he explained it is a fiddle machine which means he buys a lot more materials than he actually ends up using. An app that gives Joseph a chance to purchase materials with doing less work is something he explained his interest in. However, with more products implemented, such as materials for 3D printing, he sees himself using this app and suggesting it to friends with the same kind of hobbies. His last suggestions were about the look of the site. Although he mentioned it gets to the point and there is not any bad or harmful aspects, working on a cooler aesthetic for the site will attract more people.
