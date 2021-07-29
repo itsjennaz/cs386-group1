@@ -145,7 +145,9 @@ Have reviews from customers on the homepage about our website saying, “AlertX 
 
 ### Reflections
 **User: Rhianna Pedro**
+
 The feedback from Rhianna, we realized that we needed a much more appealing design to our website. Her initial thoughts on the website were mostly about appearance. The more she looked at it, the more she kept talking about wanting more color and pictures. We didn't have much time to fully make the website look appealing or nice, and that's what she noticed as well. 
 
 **User: Kolin Galidiano**
+
 Kolin's feedback focused on the appearance of the website and functionality. He also noticed that the website looked plain but he liked the simplicty of the webpage and how it was easy to navigate everything. However, he did make some suggestions about what we could add to our webpage. He said that we could add more products and some reviews to the home page about customers liking our application so that people are more attracted to our services. He also suggested a "Profile" page for users to save the items they want restock notifications on. Kolin really looks forward to AlertX being more developed and having a bigger reputation.
