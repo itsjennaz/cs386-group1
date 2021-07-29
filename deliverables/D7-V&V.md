@@ -1,15 +1,11 @@
 # D7 Verification & Validation
 
-Grading: 40 points
-Structure your deliverable according to the following sections. See the “Team Project
-Instructions” for details about formatting. Check the lecture materials and perform additional
-research to produce a high-quality deliverable. As usual, if you have any questions, let me know.
 
 ## 1. Description
-Provide 1-2 paragraphs to describe your system. This will help us to remember what your
-system is about.
 
-Grading: 1 point. Criteria: completeness, language.
+Designed for customers who continuously check for out of stock items, AlertX is an inventory alert system that notifies a shopper as soon as their desired product comes back into stock. Our solution offers a customizable notification system to ensure you know exactly when you can purchase an item, unlike most product's websites. With a clean and functioning interface, our user will successfully receive gathered information about products and their stock status quickly so that they can worry less about a certain item being sold-out again.
+
+Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. After product selection, there is a notification option. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have access to their own search history where they can view everything they track. Depending on which is selected, the client’s information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
 
 ## 2. Verification (tests)
 Verification aims to ensure that you correctly developed the product.
@@ -153,6 +149,3 @@ The feedback from Rhianna, we realized that we needed a much more appealing desi
 
 **User: Kolin Galidiano**
 Kolin's feedback focused on the appearance of the website and functionality. He also noticed that the website looked plain but he liked the simplicty of the webpage and how it was easy to navigate everything. However, he did make some suggestions about what we could add to our webpage. He said that we could add more products and some reviews to the home page about customers liking our application so that people are more attracted to our services. He also suggested a "Profile" page for users to save the items they want restock notifications on. Kolin really looks forward to AlertX being more developed and having a bigger reputation.
-
-Grading: 18 points. Criteria: adequate script, adequate report of the results, adequate
-reflection, language.
