@@ -89,5 +89,70 @@ Did the users preform the tasks as you expected? Did the users’ actions produc
 results they expected? What did the users like the most? Is your value proposition
 accomplished?
 
+### Script
+
+1. What do you think about how the webpage looks?
+2. Is it easy to locate what you are looking for on the webpage?
+3. What was difficult about it?
+4. When filling out the email form, was it easy to fill out?
+5. How would you rate the overall ease of use (1 to 10)
+6. What could be improved?
+7. Would you use it currently, or wait for it to be developed more? Why or why not?
+8. What would be the overall score 1-10?
+9. Why did you give it this score?
+10. Is there anything you would like to add if you were a shopper trying to get notified about a restock? 
+
+### Results
+**User: Rhianna Pedro**
+1. What do you think about how the webpage looks?
+Plain. Everything is white, needs color or some pictures. 
+2. Is it easy to locate what you are looking for on the webpage?
+Yes, it easily says what to navigate 
+3. What was difficult about it?
+Nothing
+4. When filling out the email form, was it easy to fill out?
+Yes super easy, because I just needed to put the email and it told me to check my email afterwards. 
+5. How would you rate the overall ease of use (1 to 10)
+10
+6. What could be improved?
+The overall look of the website
+7. Would you use it currently, or wait for it to be developed more? Why or why not?
+Wait for it to be more developed because you want to see more products and have it be more appealing. 
+8. What would be the overall score 1-10?
+8.5
+9. Why did you give it this score?
+Because of how the website looks
+10. Is there anything you would like to add if you were a shopper trying to get notified about a restock? 
+Just more product options and reviews. 
+
+**User: Kolin Galdiano**
+1. What do you think about how the webpage looks?
+Simple, because it is very plain with very few texts and no images. 
+2. Is it easy to locate what you are looking for on the webpage?
+Yes, since there are tabs on the top of the page
+3. What was difficult about it?
+Nothing since it is prettty simple
+4. When filling out the email form, was it easy to fill out?
+Yes, because since it is only a 1 step process then I can get notified. 
+5. How would you rate the overall ease of use (1 to 10)
+10, super easy to use
+6. What could be improved?
+Add more products and add more to the webpage. 
+7. Would you use it currently, or wait for it to be developed more? Why or why not?
+Wait for it to be more developed so that there could be products and bigger reputation of people using the program.
+8. What would be the overall score 1-10?
+8
+9. Why did you give it this score?
+Because it looks unfinished 
+10. Is there anything you would like to add if you were a shopper trying to get notified about a restock? 
+Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!” Maybe being able to create a profile to see the items that I have saved for a restock would be nice. 
+
+### Reflections
+**User: Rhianna Pedro**
+The feedback from Rhianna, we realized that we needed a much more appealing design to our website. Her initial thoughts on the website were mostly about appearance. The more she looked at it, the more she kept talking about wanting more color and pictures. We didn't have much time to fully make the website look appealing or nice, and that's what she noticed as well. 
+
+**User: Kolin Galidiano**
+Kolin's feedback focused on the appearance of the website and functionality. He also noticed that the website looked plain but he liked the simplicty of the webpage and how it was easy to navigate everything. However, he did make some suggestions about what we could add to our webpage. He said that we could add more products and some reviews to the home page about customers liking our application so that people are more attracted to our services. He also suggested a "Profile" page for users to save the items they want restock notifications on. Kolin really looks forward to AlertX being more developed and having a bigger reputation.
+
 Grading: 18 points. Criteria: adequate script, adequate report of the results, adequate
 reflection, language.
