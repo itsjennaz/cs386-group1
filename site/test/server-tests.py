@@ -1,3 +1,5 @@
+# to run from the command line: $python server-tests.py 2> /dev/null
+
 import requests
 
 home_page = requests.get('https://www.colinwood.dev/alertx/', verify=False)
