@@ -70,8 +70,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 
 ### Results
 
-#### 1.
-**User: Rhianna Pedro**
+**1st User: Rhianna Pedro**
 
 **1. What do you think about how the webpage looks?**
 * Plain. Everything is white, needs color or some pictures. 
@@ -104,8 +103,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 * Just more product options and reviews. 
 
 
-#### 2.
-**User: Kolin Galdiano**
+**2nd User: Kolin Galdiano**
 
 **1. What do you think about how the webpage looks?**
 * Simple, because it is very plain with very few texts and no images. 
@@ -138,8 +136,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 * Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!” Maybe being able to create a profile to see the items that I have saved for a restock would be nice. 
 
 
-#### 3.
-**User: Joseph Gandy**
+**3rd User: Joseph Gandy**
 
 **1. What do you think about how the webpage looks?**
 * Quite simple and to the point, I feel like that is easy to update the aesthetic though. 
