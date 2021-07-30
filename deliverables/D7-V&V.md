@@ -14,16 +14,16 @@ A unit test is an automated test that aims to verify the behavior of a component
 from the rest of the system. For this deliverable, you should have automated tests for the
 main components of your project. Provide the following information:
 
-* 2.1.1. Test framework you used to develop your tests (e.g., JUnit, unittest, pytest,
-etc.):
+* 2.1.1. 
+We used mocha, chai, node.js's built-in assert module, and supertest.
+
 * 2.1.2. Link to your GitHub folder where your automated unit tests are located.
+https://github.com/colinvwood/AlertX/tree/main/site/test
+
 * 2.1.3. An example of a test case that makes use of mock objects. Include in your
 answer a GitHub link to the class being tested and to the test.
-* 2.1.4. A print screen showing the result of the unit tests execution.
 
-Grading: 8 points. Criteria: adequate choice of a test framework, coverage of the tests,
-quality of the tests, adequate use of Mock objects, print screen showing successful tests
-execution.
+* 2.1.4. A print screen showing the result of the unit tests execution.
 
 ### 2.2. Integration test
 When designing our system, we intended to incorporate an automated emailing service to enhance our product. This task alone created issues as it required compatibility with our other API system for locating products. Due to time constraint and restrictions faced with third party services we were not able to fully implement this feature. This in turn hindered us from producing a full integration test.
