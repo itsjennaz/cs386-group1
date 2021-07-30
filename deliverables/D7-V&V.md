@@ -10,9 +10,6 @@ Our system will be kept relatively simple and straight forward. Through our web 
 ## 2. Verification (tests)
 
 ### 2.1. Unit test
-A unit test is an automated test that aims to verify the behavior of a component isolated
-from the rest of the system. For this deliverable, you should have automated tests for the
-main components of your project. Provide the following information:
 
 * 2.1.1. 
 We used mocha, chai, node.js's built-in assert module, and supertest.
@@ -20,39 +17,37 @@ We used mocha, chai, node.js's built-in assert module, and supertest.
 * 2.1.2. Link to your GitHub folder where your automated unit tests are located.
 https://github.com/colinvwood/AlertX/tree/main/site/test
 
-* 2.1.3. An example of a test case that makes use of mock objects. Include in your
-answer a GitHub link to the class being tested and to the test.
+* 2.1.3. 
+https://github.com/colinvwood/AlertX/blob/main/site/test/sampleproduct-test.js
 
 * 2.1.4. A print screen showing the result of the unit tests execution.
 
 ### 2.2. Integration test
 When designing our system, we intended to incorporate an automated emailing service to enhance our product. This task alone created issues as it required compatibility with our other API system for locating products. Due to time constraint and restrictions faced with third party services we were not able to fully implement this feature. This in turn hindered us from producing a full integration test.
 
-* 2.2.1. When testing our system we would used Mocha. Mocha allows for a clean simple interface for testing synchronous and asynchronous code. Another benefit is that Mocha is used for Node.js; making it compatible for our system. 
-* 2.2.2. Due to time constrants we were not able to fully implement an integration test. However the link, links the folder where our test our stored(finished and unfinished).
-* 2.2.3. 
-When creating the test, we would follow the format of making sure each feature has 1) a well-formed and complete response, 2) a well-formed and incomplete response, and 3) a malformed response. This allows for adequate testing of all situations that could occur from each feature in the system.
-* 2.2.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen. 
+* 2.2.1. 
+We used the python requests library to send http requests to our serrver and make sure success responses were returned.
 
-Grading: 5 points. Criteria: adequate choice of a test framework, coverage of the tests,
-quality of the tests, adequate example of an integration test, print screen showing
-successful tests execution.
+* 2.2.2. 
+https://github.com/colinvwood/AlertX/tree/main/site/test 
+
+* 2.2.3. 
+https://github.com/colinvwood/AlertX/blob/main/site/test/server-tests.py
+
+
+* 2.2.4.
+
+
 
 ### 2.3. Acceptance
-An acceptance test is a test that verifies the correct implementation of a feature from the
-user interface perspective. An acceptance test is a black box test (the system is tested
-without knowledge about its internal implementation). Provide the following information:
 
-As mentioned aboved in 2.2, we had issues fully developing an automative emailing service. This caused errors for us when creating an Acceptance test, as we did not have an automatic emailing service, however we were still able to produce a demo version of how the system would run through the eyes of the user.
+As mentioned above in 2.2, we had issues fully developing an automative emailing service. This caused errors for us when creating an Acceptance test, as we did not have an automatic emailing service, however we were still able to produce a demo version of how the system would run through the eyes of the user.
 
 * 2.3.1. When testing our system, we would use Selenium as it allows for testing of web application across many different browsers and platforms. 
 * 2.3.2. Due to time constrants we were not able to fully implement an acceptance test. However the link, links the folder where our test our stored(finished and unfinished).
 * 2.3.3. When creating our acceptance test we would follow the format similar to our unit test, however it would be from the perspective of the user (blackbox) and using more than a single unit test in conjuncture.
 * 2.3.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen, however we were able to produce a demo to show the system running from the user's perspective.
 
-Grading: 8 points. Criteria: adequate choice of a test framework, coverage of the tests,
-quality of the tests, adequate example of an acceptance test, print screen/video showing
-successful tests execution.
 
 ## 3. Validation (user evaluation)
 
