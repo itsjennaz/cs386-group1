@@ -7,6 +7,9 @@ Designed for customers who continuously check for out of stock items, AlertX is 
 
 Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. After product selection, there is a notification option. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have access to their own search history where they can view everything they track. Depending on which is selected, the client’s information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
 
+[Project Repository](https://github.com/colinvwood/AlertX)  
+[Trello](https://trello.com/b/Y4P9ZZVL/alertx) 
+
 ## 2. Verification (tests)
 
 ### 2.1. Unit test
@@ -20,7 +23,8 @@ https://github.com/colinvwood/AlertX/tree/main/site/test
 * 2.1.3. 
 https://github.com/colinvwood/AlertX/blob/main/site/test/sampleproduct-test.js
 
-* 2.1.4. A print screen showing the result of the unit tests execution.
+* 2.1.4. A print screen for the testing could not be provided as there were issues to what it could access at the time of running the tests.
+![Test_printScreen](../site/public/images/Test_printScreen.png)
 
 ### 2.2. Integration test
 When designing our system, we intended to incorporate an automated emailing service to enhance our product. This task alone created issues as it required compatibility with our other API system for locating products. Due to time constraint and restrictions faced with third party services we were not able to fully implement this feature. This in turn hindered us from producing a full integration test.
@@ -35,7 +39,7 @@ https://github.com/colinvwood/AlertX/tree/main/site/test
 https://github.com/colinvwood/AlertX/blob/main/site/test/server-tests.py
 
 
-* 2.2.4.
+* 2.2.4. No print screen available again, sorry!
 
 
 
@@ -65,7 +69,8 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 10. Is there anything you would like to add if you were a shopper trying to get notified about a restock? 
 
 ### Results
-**User: Rhianna Pedro**
+
+**1st User: Rhianna Pedro**
 
 **1. What do you think about how the webpage looks?**
 * Plain. Everything is white, needs color or some pictures. 
@@ -98,8 +103,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 * Just more product options and reviews. 
 
 
-
-**User: Kolin Galdiano**
+**2nd User: Kolin Galdiano**
 
 **1. What do you think about how the webpage looks?**
 * Simple, because it is very plain with very few texts and no images. 
@@ -132,8 +136,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 * Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!” Maybe being able to create a profile to see the items that I have saved for a restock would be nice. 
 
 
-
-**User: Joseph Gandy**
+**3rd User: Joseph Gandy**
 
 **1. What do you think about how the webpage looks?**
 * Quite simple and to the point, I feel like that is easy to update the aesthetic though. 
