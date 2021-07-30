@@ -7,7 +7,7 @@ Designed for customers who continuously check for out of stock items, AlertX is 
 
 Our system will be kept relatively simple and straight forward. Through our web interface, the customer will be able to browse products that they would like to be selected to be notified for. After product selection, there is a notification option. Here there is a SMS or email option, where the user can select their preference and even choose both options. Our product uses a Database; within this Database, basic user information is documented to help notify the user of their product via notification. The central requirement of our system is that restock notifications are accurate and up to date with the current market. Users have access to their own search history where they can view everything they track. Depending on which is selected, the client’s information and the product they selected will be stored in our database. When the time comes that the product they selected is back in stock, we can pull their information from our data base and send them their specified notification. With items in high demand and limited supply, we offer a fighting chance to consumers. AlertX is an inventory tracker that allows shoppers to avoid the wait, track it once and get a personal notification when that item is back in store.
 
-[Project repo](https://github.com/colinvwood/AlertX)  
+[Project Repository](https://github.com/colinvwood/AlertX)  
 [Trello](https://trello.com/b/Y4P9ZZVL/alertx) 
 
 ## 2. Verification (tests)
@@ -70,7 +70,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 
 ### Results
 
-####1.
+#### 1.
 **User: Rhianna Pedro**
 
 **1. What do you think about how the webpage looks?**
@@ -104,7 +104,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 * Just more product options and reviews. 
 
 
-####2.
+#### 2.
 **User: Kolin Galdiano**
 
 **1. What do you think about how the webpage looks?**
@@ -138,7 +138,7 @@ As mentioned above in 2.2, we had issues fully developing an automative emailing
 * Have reviews from customers on the homepage about our website saying, “AlertX was able to get me an exclusive graphics card, which is usually hard to get!” Maybe being able to create a profile to see the items that I have saved for a restock would be nice. 
 
 
-####3.
+#### 3.
 **User: Joseph Gandy**
 
 **1. What do you think about how the webpage looks?**
