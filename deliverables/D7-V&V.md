@@ -45,12 +45,12 @@ https://github.com/colinvwood/AlertX/blob/main/site/test/server-tests.py
 
 ### 2.3. Acceptance
 
-As mentioned above in 2.2, we had issues fully developing an automative emailing service. This caused errors for us when creating an Acceptance test, as we did not have an automatic emailing service, however we were still able to produce a demo version of how the system would run through the eyes of the user.
+As mentioned above in 2.2, we had issues fully developing an automated emailing service. This caused errors for us when creating an Acceptance test, as we did not have an automatic emailing service, however we were still able to produce a demo version of how the system would run through the eyes of the user.
 
 * 2.3.1. When testing our system, we would use Selenium as it allows for testing of web application across many different browsers and platforms. 
-* 2.3.2. Due to time constrants we were not able to fully implement an acceptance test. However the link, links the folder where our test our stored(finished and unfinished).
+* 2.3.2. Due to time constraints we were not able to fully implement an acceptance test. However the link, links the folder where our test our stored(finished and unfinished).
 * 2.3.3. When creating our acceptance test we would follow the format similar to our unit test, however it would be from the perspective of the user (blackbox) and using more than a single unit test in conjuncture.
-* 2.3.4. Due to the restrictions mentioned aboved, we were not able to produce a print screen, however we were able to produce a demo to show the system running from the user's perspective.
+* 2.3.4. Due to the restrictions mentioned above, we were not able to produce a print screen, however we were able to produce a demo to show the system running from the user's perspective.
 
 
 ## 3. Validation (user evaluation)
